@@ -1,0 +1,88 @@
+{
+  "libraries": [
+    {
+      "githubUrl": "https://github.com/isaced/ISEmojiView",
+      "github": {
+        "urls": {
+          "repo": "https://github.com/isaced/ISEmojiView",
+          "clone": "https://github.com/isaced/ISEmojiView.git",
+          "homepage": null
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "updatedAt": "2022-03-30T02:50:37Z",
+          "createdAt": "2014-12-25T06:42:40Z",
+          "pushedAt": "2022-03-30T02:50:37Z",
+          "forks": 94,
+          "issues": 11,
+          "subscribers": 13,
+          "stars": 426
+        },
+        "name": "ISEmojiView",
+        "fullName": "isaced/ISEmojiView",
+        "description": "Emoji Keyboard for iOS",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "0.3.0",
+          "createdAt": "2021-06-23T08:58:12Z",
+          "publishedAt": "2021-06-23T09:00:25Z",
+          "isPrerelease": false
+        }
+      },
+      "topicSearchString": ""
+    },
+    {
+      "githubUrl": "https://github.com/SDWebImage/SDWebImage",
+      "github": {
+        "urls": {
+          "repo": "https://github.com/SDWebImage/SDWebImage",
+          "clone": "https://github.com/SDWebImage/SDWebImage.git",
+          "homepage": "https://sdwebimage.github.io"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "updatedAt": "2022-05-12T22:42:17Z",
+          "createdAt": "2009-09-21T17:39:19Z",
+          "pushedAt": "2022-05-12T22:42:17Z",
+          "forks": 5587,
+          "issues": 26,
+          "subscribers": 817,
+          "stars": 24128
+        },
+        "name": "SDWebImage",
+        "fullName": "SDWebImage/SDWebImage",
+        "description": "Asynchronous image downloader with cache support as a UIImageView category",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "5.12.5 - 5.12 Patch",
+          "tagName": "5.12.5",
+          "createdAt": "2022-03-16T07:59:13Z",
+          "publishedAt": "2022-03-16T08:00:58Z",
+          "isPrerelease": false
+        }
+      },
+      "topicSearchString": ""
+    }
+  ],
+  "topics": {},
+  "topicsList": []
+}
