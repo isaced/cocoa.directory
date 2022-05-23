@@ -35,7 +35,7 @@ const Home: NextPage = (props: any) => {
   );
 };
 
-export async function getServerSideProps(context) {
+export async function getServerSideProps() {
   return {
     props: { data: queryLibraries() }, // will be passed to the page component as props
   };
