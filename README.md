@@ -1,34 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Cocoa Directory</h1>
+<div align="center">
+  <a href="https://cocoa.directory/">
+    https://cocoa.directory
+  </a>
+</div>
+<p align="center">Cocoa Directory is a website where you can see all the libraries that about iOS/macOS/Objective-C/Swift.</p>
 
-## Getting Started
+## How do I know I'm at the right place?
 
-First, run the development server:
+- You made a repository on GitHub and you want the world to know it works with iOS/macOS.
+- You want to submit a pull request to improve Cocoa Directory or libraries dataset.
+- You want to report a bug or make a suggestion.
 
-```bash
-npm run dev
-# or
-yarn dev
+
+## How do I add a library?
+
+- Add it at the end of `cocoa-libraries.json` file.
+- Submit a PR.
+
+Please follow format, fields order and indentation as seen below, skip any of the `false` values and do not fill optional fields, unless it's necessary.
+
+```json
+{
+  "githubUrl": "<GITHUB REPOSITORY URL>"
+}
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Library fields description
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+#### ⚙️ General
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- #### ❗ `githubUrl` **(required)**
+  **(string)** - URL to the package GitHub repository (currently other Git hosts are not supported).
+ 
+ 
+## How do I run my own version locally?
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#### Prerequisites
 
-## Learn More
+- Node LTS
 
-To learn more about Next.js, take a look at the following resources:
+#### Commands
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```sh
+yarn && yarn start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You should be able to visit `localhost:3000` in your browser.
 
-## Deploy on Vercel
+## How do I deploy to production?
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Get a commit on `main` and it will be automatically deployed.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Others
+
+Cocoa Directory inspired by [React Native Directory](https://reactnative.directory/), thanks.
