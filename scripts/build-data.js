@@ -176,7 +176,7 @@ async function fetchGithubDataThrottled({ data, chunkSize, staggerMs }) {
       await sleep(staggerMs);
     }
 
-    const partialResult = await Promise.all(c.map(fetchGithubData));
+    const partialResult = await Promise.all(c.map((item) => fetchGithubData(item)));
     results = [...results, ...partialResult];
 
     if (partialResult.length !== c.length) {
@@ -220,7 +220,7 @@ async function loadRepositoryDataAsync() {
     result = jsonfile.readFileSync(GITHUB_RESULTS_PATH);
     console.log("Loaded Github results from disk, skipped API calls");
   } else {
-    result = await fetchGithubDataThrottled({ data, chunkSize: 25, staggerMs: 5000 });
+    result = await fetchGithubDataThrottled({ data, chunkSize: 25, staggerMs: 1000 });
 
     if (LOAD_GITHUB_RESULTS_FROM_DISK) {
       await new Promise((resolve, reject) => {

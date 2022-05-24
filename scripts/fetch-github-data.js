@@ -176,7 +176,7 @@ const parseUrl = (url) => {
   };
 };
 
-export const fetchGithubData = async (data, retries = 2) => {
+export const fetchGithubData = async (data, retries = 0) => {
   if (retries < 0) {
     console.warn(`[GH] ERROR fetching ${data.githubUrl} - OUT OF RETRIES`);
     return data;
@@ -216,8 +216,12 @@ export const fetchGithubData = async (data, retries = 2) => {
       github,
     };
   } catch (e) {
+    if (retries - 1 < 0) {
+      return data;
+    }
+
     console.log(`[GH] Retrying fetch for ${data.githubUrl}`, e);
-    await sleep(2500);
+    await sleep(1000);
     return await fetchGithubData(data, retries - 1);
   }
 };
