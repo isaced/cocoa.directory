@@ -1,8 +1,7547 @@
 [
   {
-    "githubUrl": "https://github.com/isaced/ISEmojiView"
+    "githubUrl": "https://github.com/codePrincess/ARStarter"
+  },
+  {
+    "githubUrl": "https://github.com/philipturner/ARHeadsetKit"
+  },
+  {
+    "githubUrl": "https://github.com/chrs1885/Capable"
+  },
+  {
+    "githubUrl": "https://github.com/choefele/AlexaSkillsKit"
+  },
+  {
+    "githubUrl": "https://github.com/orta/ARAnalytics"
+  },
+  {
+    "githubUrl": "https://github.com/segmentio/analytics-ios"
+  },
+  {
+    "githubUrl": "https://github.com/abbiio/iosdk"
+  },
+  {
+    "githubUrl": "https://github.com/matomo-org/matomo-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/Wasappli/WAAppRouting"
+  },
+  {
+    "githubUrl": "https://github.com/button/DeepLinkKit"
+  },
+  {
+    "githubUrl": "https://github.com/intentkit/IntentKit"
+  },
+  {
+    "githubUrl": "https://github.com/joeldev/JLRoutes"
+  },
+  {
+    "githubUrl": "https://github.com/IanKeen/IKRouter"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKitz/Appz"
+  },
+  {
+    "githubUrl": "https://github.com/devxoul/URLNavigator"
+  },
+  {
+    "githubUrl": "https://github.com/avito-tech/Marshroute"
+  },
+  {
+    "githubUrl": "https://github.com/skyline75489/SwiftRouter"
+  },
+  {
+    "githubUrl": "https://github.com/freshOS/Router"
+  },
+  {
+    "githubUrl": "https://github.com/AndreyPanov/ApplicationCoordinator"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxFlow"
+  },
+  {
+    "githubUrl": "https://github.com/MaksimKurpa/Linker"
+  },
+  {
+    "githubUrl": "https://github.com/aronbalog/CoreNavigation"
+  },
+  {
+    "githubUrl": "https://github.com/yishuiliunian/DZURLRoute"
+  },
+  {
+    "githubUrl": "https://github.com/giginet/Crossroad"
+  },
+  {
+    "githubUrl": "https://github.com/Zuikyo/ZIKRouter"
+  },
+  {
+    "githubUrl": "https://github.com/ekazaev/route-composer"
+  },
+  {
+    "githubUrl": "https://github.com/SpectralDragon/LiteRoute"
+  },
+  {
+    "githubUrl": "https://github.com/Bahn-X/swift-composable-navigator"
+  },
+  {
+    "githubUrl": "https://github.com/wwt/SwiftCurrent"
+  },
+  {
+    "githubUrl": "https://github.com/rsattar/Voucher"
+  },
+  {
+    "githubUrl": "https://github.com/0xced/XCDYouTubeKit"
+  },
+  {
+    "githubUrl": "https://github.com/toshi0383/TVMLKitchen"
+  },
+  {
+    "githubUrl": "https://github.com/zats/BrowserTV"
+  },
+  {
+    "githubUrl": "https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS"
+  },
+  {
+    "githubUrl": "https://github.com/PGSSoft/ParallaxView"
+  },
+  {
+    "githubUrl": "https://github.com/dcordero/TvOSTextViewer"
+  },
+  {
+    "githubUrl": "https://github.com/dcordero/FocusTvButton"
+  },
+  {
+    "githubUrl": "https://github.com/cgoldsby/TvOSMoreButton"
+  },
+  {
+    "githubUrl": "https://github.com/zattoo/TvOSPinKeyboard"
+  },
+  {
+    "githubUrl": "https://github.com/dcordero/TvOSScribble"
+  },
+  {
+    "githubUrl": "https://github.com/zattoo/TvOSCustomizableTableViewCell"
+  },
+  {
+    "githubUrl": "https://github.com/zattoo/TvOSSlider"
+  },
+  {
+    "githubUrl": "https://github.com/codytwinton/SwiftyVIPER"
+  },
+  {
+    "githubUrl": "https://github.com/sergdort/CleanArchitectureRxSwift"
+  },
+  {
+    "githubUrl": "https://github.com/ferranabello/Viperit"
+  },
+  {
+    "githubUrl": "https://github.com/Brightify/Reactant"
+  },
+  {
+    "githubUrl": "https://github.com/alfa-laboratory/YARCH"
+  },
+  {
+    "githubUrl": "https://github.com/MindorksOpenSource/iOS-Viper-Architecture"
+  },
+  {
+    "githubUrl": "https://github.com/BendingSpoons/tempura-swift"
+  },
+  {
+    "githubUrl": "https://github.com/Kaakati/VIPER-Module-Generator"
+  },
+  {
+    "githubUrl": "https://github.com/Maryom/MMVMi"
+  },
+  {
+    "githubUrl": "https://github.com/tailec/ios-architecture"
+  },
+  {
+    "githubUrl": "https://github.com/nalexn/clean-architecture-swiftui"
+  },
+  {
+    "githubUrl": "https://github.com/Spinners/Spin.Swift"
+  },
+  {
+    "githubUrl": "https://github.com/ProjectDent/ARKit-CoreLocation"
+  },
+  {
+    "githubUrl": "https://github.com/ignacio-chiazzo/ARKit"
+  },
+  {
+    "githubUrl": "https://github.com/AFathi/ARVideoKit"
+  },
+  {
+    "githubUrl": "https://github.com/svhawks/ARKitEnvironmentMapper"
+  },
+  {
+    "githubUrl": "https://github.com/rsrbk/SmileToUnlock"
+  },
+  {
+    "githubUrl": "https://github.com/Placenote/PlacenoteSDK-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/piemonte/Poly"
+  },
+  {
+    "githubUrl": "https://github.com/kboy-silvergym/ARKit-Emperor"
+  },
+  {
+    "githubUrl": "https://github.com/philipturner/ARHeadsetKit"
+  },
+  {
+    "githubUrl": "https://github.com/trivago/Heimdallr.swift"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/OhMyAuth"
+  },
+  {
+    "githubUrl": "https://github.com/raulriera/AuthenticationViewController"
+  },
+  {
+    "githubUrl": "https://github.com/p2/OAuth2"
+  },
+  {
+    "githubUrl": "https://github.com/OAuthSwift/OAuthSwift"
+  },
+  {
+    "githubUrl": "https://github.com/calebd/SimpleAuth"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/AlamofireOauth2"
+  },
+  {
+    "githubUrl": "https://github.com/delba/SwiftyOAuth"
+  },
+  {
+    "githubUrl": "https://github.com/SimplicityMobile/Simplicity"
+  },
+  {
+    "githubUrl": "https://github.com/Isuru-Nanayakkara/InstagramAuthViewController"
+  },
+  {
+    "githubUrl": "https://github.com/rbaumbach/InstagramSimpleOAuth"
+  },
+  {
+    "githubUrl": "https://github.com/rbaumbach/DropboxSimpleOAuth"
+  },
+  {
+    "githubUrl": "https://github.com/rbaumbach/BoxSimpleOAuth"
+  },
+  {
+    "githubUrl": "https://github.com/AnderGoig/InstagramLogin"
+  },
+  {
+    "githubUrl": "https://github.com/fjcaetano/ReCaptcha"
+  },
+  {
+    "githubUrl": "https://github.com/serhii-londar/LinkedInSignIn"
+  },
+  {
+    "githubUrl": "https://github.com/Boilertalk/Web3.swift"
+  },
+  {
+    "githubUrl": "https://github.com/BANKEX/web3swift"
+  },
+  {
+    "githubUrl": "https://github.com/yuzushioh/EthereumKit"
+  },
+  {
+    "githubUrl": "https://github.com/yenom/BitcoinKit"
+  },
+  {
+    "githubUrl": "https://github.com/SteadyAction/EtherWalletKit"
+  },
+  {
+    "githubUrl": "https://github.com/coinpaprika/coinpaprika-api-swift-client"
+  },
+  {
+    "githubUrl": "https://github.com/horizontalsystems/bitcoin-kit-ios"
+  },
+  {
+    "githubUrl": "https://github.com/bang590/JSPatch"
+  },
+  {
+    "githubUrl": "https://github.com/marcuswestin/WebViewJavascriptBridge"
+  },
+  {
+    "githubUrl": "https://github.com/MichaelBuckley/MAIKit"
+  },
+  {
+    "githubUrl": "https://github.com/aschuch/AwesomeCache"
+  },
+  {
+    "githubUrl": "https://github.com/buzzfeed/mattress"
+  },
+  {
+    "githubUrl": "https://github.com/spring-media/Carlos"
+  },
+  {
+    "githubUrl": "https://github.com/Haneke/HanekeSwift"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYCache"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Cache"
+  },
+  {
+    "githubUrl": "https://github.com/Mortgy/MGCacheManager"
+  },
+  {
+    "githubUrl": "https://github.com/spotify/SPTPersistentCache"
+  },
+  {
+    "githubUrl": "https://github.com/maquannene/Track"
+  },
+  {
+    "githubUrl": "https://github.com/Kilograpp/UITableView-Cache"
+  },
+  {
+    "githubUrl": "https://github.com/plivesey/RocketData"
+  },
+  {
+    "githubUrl": "https://github.com/pinterest/PINCache"
+  },
+  {
+    "githubUrl": "https://github.com/zolomatok/Johnny"
+  },
+  {
+    "githubUrl": "https://github.com/saoudrizwan/Disk"
+  },
+  {
+    "githubUrl": "https://github.com/nrkno/yr-cachyr"
+  },
+  {
+    "githubUrl": "https://github.com/soffes/Cache"
+  },
+  {
+    "githubUrl": "https://github.com/yysskk/MemoryCache"
+  },
+  {
+    "githubUrl": "https://github.com/danielgindi/Charts"
+  },
+  {
+    "githubUrl": "https://github.com/PhilJay/MPAndroidChart"
+  },
+  {
+    "githubUrl": "https://github.com/kevinzhow/PNChart"
+  },
+  {
+    "githubUrl": "https://github.com/JunyiXie/XJYChart"
+  },
+  {
+    "githubUrl": "https://github.com/Jawbone/JBChartView"
+  },
+  {
+    "githubUrl": "https://github.com/xyfeng/XYPieChart"
+  },
+  {
+    "githubUrl": "https://github.com/xhacker/TEAChart"
+  },
+  {
+    "githubUrl": "https://github.com/zhuhuihuihui/EChart"
+  },
+  {
+    "githubUrl": "https://github.com/ArthurGuibert/FSLineChart"
+  },
+  {
+    "githubUrl": "https://github.com/zhiyu/chartee"
+  },
+  {
+    "githubUrl": "https://github.com/anaglik/ANDLineChartView"
+  },
+  {
+    "githubUrl": "https://github.com/chasseurmic/TWRCharts"
+  },
+  {
+    "githubUrl": "https://github.com/i-schuetz/SwiftCharts"
+  },
+  {
+    "githubUrl": "https://github.com/drinkius/flowerchart"
+  },
+  {
+    "githubUrl": "https://github.com/philackm/ScrollableGraphView"
+  },
+  {
+    "githubUrl": "https://github.com/Zomato/DR-charts"
+  },
+  {
+    "githubUrl": "https://github.com/recruit-mtl/Graphs"
+  },
+  {
+    "githubUrl": "https://github.com/ArthurGuibert/FSInteractiveMap"
+  },
+  {
+    "githubUrl": "https://github.com/johnnywjy/JYRadarChart"
+  },
+  {
+    "githubUrl": "https://github.com/TBXark/TKRadarChart"
+  },
+  {
+    "githubUrl": "https://github.com/AlexandrGraschenkov/MagicPie"
+  },
+  {
+    "githubUrl": "https://github.com/i-schuetz/PieCharts"
+  },
+  {
+    "githubUrl": "https://github.com/youkchansim/CSPieChart"
+  },
+  {
+    "githubUrl": "https://github.com/dadalar/DDSpiderChart"
+  },
+  {
+    "githubUrl": "https://github.com/core-plot/core-plot"
+  },
+  {
+    "githubUrl": "https://github.com/hadiidbouk/ChartProgressBar-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/VRGsoftUA/SMDiagramView"
+  },
+  {
+    "githubUrl": "https://github.com/zemirco/swift-linechart"
+  },
+  {
+    "githubUrl": "https://github.com/gpbl/SwiftChart"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/EatFit"
+  },
+  {
+    "githubUrl": "https://github.com/cagricolak/CoreCharts"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/Bootstrap"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/KZAsserts"
+  },
+  {
+    "githubUrl": "https://github.com/Cue/ocstyle"
+  },
+  {
+    "githubUrl": "https://github.com/square/spacecommander"
+  },
+  {
+    "githubUrl": "https://github.com/diwu/DWURecyclingAlert"
+  },
+  {
+    "githubUrl": "https://github.com/sleekbyte/tailor"
+  },
+  {
+    "githubUrl": "https://github.com/andresinaka/SwiftCop"
+  },
+  {
+    "githubUrl": "https://github.com/VojtaStavik/Trackable"
+  },
+  {
+    "githubUrl": "https://github.com/Tencent/MLeaksFinder"
+  },
+  {
+    "githubUrl": "https://github.com/tapwork/HeapInspector-for-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/FBMemoryProfiler"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/FBRetainCycleDetector"
+  },
+  {
+    "githubUrl": "https://github.com/Buglife/Buglife-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/boredzo/Warnings-xcconfig"
+  },
+  {
+    "githubUrl": "https://github.com/square/Aardvark"
+  },
+  {
+    "githubUrl": "https://github.com/shu223/Stats"
+  },
+  {
+    "githubUrl": "https://github.com/attaswift/GlueKit"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/SwiftFormat"
+  },
+  {
+    "githubUrl": "https://github.com/PSPDFKit-labs/PSTModernizer"
+  },
+  {
+    "githubUrl": "https://github.com/devxoul/Fallback"
+  },
+  {
+    "githubUrl": "https://github.com/olddonkey/ODUIThreadGuard"
+  },
+  {
+    "githubUrl": "https://github.com/fastred/IBAnalyzer"
+  },
+  {
+    "githubUrl": "https://github.com/coderyi/DecouplingKit"
+  },
+  {
+    "githubUrl": "https://github.com/Geek-1001/Clue"
+  },
+  {
+    "githubUrl": "https://github.com/vincent-pradeilles/weakable-self"
+  },
+  {
+    "githubUrl": "https://github.com/oclint/oclint"
+  },
+  {
+    "githubUrl": "https://github.com/yopeso/Taylor"
+  },
+  {
+    "githubUrl": "https://github.com/realm/SwiftLint"
+  },
+  {
+    "githubUrl": "https://github.com/IBDecodable/IBLinter"
+  },
+  {
+    "githubUrl": "https://github.com/muyexi/SwiftLinter"
+  },
+  {
+    "githubUrl": "https://github.com/Flinesoft/AnyLint"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/DynamicColor"
+  },
+  {
+    "githubUrl": "https://github.com/thii/SwiftHEXColors"
+  },
+  {
+    "githubUrl": "https://github.com/bennyguitar/Colours"
+  },
+  {
+    "githubUrl": "https://github.com/yeahdongcn/UIColor-Hex-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/zenangst/Hue"
+  },
+  {
+    "githubUrl": "https://github.com/brynbellomy/FlatUIColors"
+  },
+  {
+    "githubUrl": "https://github.com/onevcat/RandomColorSwift"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectFreeze/PFColorHash"
+  },
+  {
+    "githubUrl": "https://github.com/boycechang/BCColor"
+  },
+  {
+    "githubUrl": "https://github.com/Draveness/DKNightVersion"
+  },
+  {
+    "githubUrl": "https://github.com/jdhealy/PrettyColors"
+  },
+  {
+    "githubUrl": "https://github.com/burhanuddin353/TFTColor"
+  },
+  {
+    "githubUrl": "https://github.com/jakemarsh/CostumeKit"
+  },
+  {
+    "githubUrl": "https://github.com/WorldDownTown/CSS3ColorsSwift"
+  },
+  {
+    "githubUrl": "https://github.com/joncardasis/ChromaColorPicker"
+  },
+  {
+    "githubUrl": "https://github.com/valdirunars/Lorikeet"
+  },
+  {
+    "githubUrl": "https://github.com/regexident/Gestalt"
+  },
+  {
+    "githubUrl": "https://github.com/chrs1885/SheetyColors"
+  },
+  {
+    "githubUrl": "https://github.com/nsomar/Swiftline"
+  },
+  {
+    "githubUrl": "https://github.com/kylef/Commander"
+  },
+  {
+    "githubUrl": "https://github.com/mtynior/ColorizeSwift"
+  },
+  {
+    "githubUrl": "https://github.com/nsomar/Guaka"
+  },
+  {
+    "githubUrl": "https://github.com/JohnSundell/Marathon"
+  },
+  {
+    "githubUrl": "https://github.com/surfandneptune/CommandCougar"
+  },
+  {
+    "githubUrl": "https://github.com/luoxiu/Crayon"
+  },
+  {
+    "githubUrl": "https://github.com/kareman/SwiftShell"
+  },
+  {
+    "githubUrl": "https://github.com/eneko/SourceDocs"
+  },
+  {
+    "githubUrl": "https://github.com/minuscorp/ModuleInterface"
+  },
+  {
+    "githubUrl": "https://github.com/Zewo/Venice"
+  },
+  {
+    "githubUrl": "https://github.com/typelift/Concurrent"
+  },
+  {
+    "githubUrl": "https://github.com/JohnSundell/Flow"
+  },
+  {
+    "githubUrl": "https://github.com/jmfieldman/Brisk"
+  },
+  {
+    "githubUrl": "https://github.com/aojet/Aojet"
+  },
+  {
+    "githubUrl": "https://github.com/saidsikira/Overdrive"
+  },
+  {
+    "githubUrl": "https://github.com/AsyncNinja/AsyncNinja"
+  },
+  {
+    "githubUrl": "https://github.com/intelygenz/Kommander-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/nvzqz/Threadly"
+  },
+  {
+    "githubUrl": "https://github.com/roytornado/Flow-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/FabrizioBrancati/Queuer"
+  },
+  {
+    "githubUrl": "https://github.com/lucas34/SwiftQueue"
+  },
+  {
+    "githubUrl": "https://github.com/quanvo87/GroupWork"
+  },
+  {
+    "githubUrl": "https://github.com/stickytools/sticky-locking"
+  },
+  {
+    "githubUrl": "https://github.com/belozierov/SwiftCoroutine"
+  },
+  {
+    "githubUrl": "https://github.com/drewmccormack/ensembles"
+  },
+  {
+    "githubUrl": "https://github.com/rentzsch/mogenerator"
+  },
+  {
+    "githubUrl": "https://github.com/magicalpanda/MagicalRecord"
+  },
+  {
+    "githubUrl": "https://github.com/JohnEstropia/CoreStore"
+  },
+  {
+    "githubUrl": "https://github.com/prosumma/CoreDataQueryInterface"
+  },
+  {
+    "githubUrl": "https://github.com/CosmicMind/Graph"
+  },
+  {
+    "githubUrl": "https://github.com/fuzz-productions/CoreDataDandy"
+  },
+  {
+    "githubUrl": "https://github.com/3lvis/Sync"
+  },
+  {
+    "githubUrl": "https://github.com/Alecrim/AlecrimCoreData"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AERecord"
+  },
+  {
+    "githubUrl": "https://github.com/bignerdranch/CoreDataStack"
+  },
+  {
+    "githubUrl": "https://github.com/jessesquires/JSQCoreDataKit"
+  },
+  {
+    "githubUrl": "https://github.com/albertodebortoli/Skopelos"
+  },
+  {
+    "githubUrl": "https://github.com/jmfieldman/cadmium"
+  },
+  {
+    "githubUrl": "https://github.com/mrdekk/DataKernel"
+  },
+  {
+    "githubUrl": "https://github.com/3lvis/DATAStack"
+  },
+  {
+    "githubUrl": "https://github.com/justeat/JustPersist"
+  },
+  {
+    "githubUrl": "https://github.com/KrakenDev/PrediKit"
+  },
+  {
+    "githubUrl": "https://github.com/andreadelfante/PredicateFlow"
+  },
+  {
+    "githubUrl": "https://github.com/deeje/CloudCore"
+  },
+  {
+    "githubUrl": "https://github.com/realm/realm-cocoa"
+  },
+  {
+    "githubUrl": "https://github.com/yapstudios/YapDatabase"
+  },
+  {
+    "githubUrl": "https://github.com/ccgus/fmdb"
+  },
+  {
+    "githubUrl": "https://github.com/marcoarment/FCModel"
+  },
+  {
+    "githubUrl": "https://github.com/ArtSabintsev/Zephyr"
+  },
+  {
+    "githubUrl": "https://github.com/phimage/Prephirences"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKitz/Storez"
+  },
+  {
+    "githubUrl": "https://github.com/sunshinejr/SwiftyUserDefaults"
+  },
+  {
+    "githubUrl": "https://github.com/modo-studio/SugarRecord"
+  },
+  {
+    "githubUrl": "https://github.com/stephencelis/SQLite.swift"
+  },
+  {
+    "githubUrl": "https://github.com/groue/GRDB.swift"
+  },
+  {
+    "githubUrl": "https://github.com/vapor/fluent"
+  },
+  {
+    "githubUrl": "https://github.com/relatedcode/ParseAlternatives"
+  },
+  {
+    "githubUrl": "https://github.com/tasanobu/TypedDefaults"
+  },
+  {
+    "githubUrl": "https://github.com/realm/realm-cocoa-converter"
+  },
+  {
+    "githubUrl": "https://github.com/danthorpe/YapDatabaseExtensions"
+  },
+  {
+    "githubUrl": "https://github.com/mhergon/RealmGeoQueries"
+  },
+  {
+    "githubUrl": "https://github.com/Danappelxx/SwiftMongoDB"
+  },
+  {
+    "githubUrl": "https://github.com/iabudiab/ObjectiveRocks"
+  },
+  {
+    "githubUrl": "https://github.com/oleghnidets/OHMySQL"
+  },
+  {
+    "githubUrl": "https://github.com/hemantasapkota/SwiftStore"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/OneStore"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectlySoft/Perfect-MongoDB"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectlySoft/Perfect-MySQL"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectlySoft/Perfect-Redis"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectlySoft/Perfect-PostgreSQL"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectlySoft/Perfect-FileMaker"
+  },
+  {
+    "githubUrl": "https://github.com/SD10/Nora"
+  },
+  {
+    "githubUrl": "https://github.com/IvanRublev/PersistentStorageSerializable"
+  },
+  {
+    "githubUrl": "https://github.com/Tencent/wcdb"
+  },
+  {
+    "githubUrl": "https://github.com/StorageKit/StorageKit"
+  },
+  {
+    "githubUrl": "https://github.com/nmdias/DefaultsKit"
+  },
+  {
+    "githubUrl": "https://github.com/Nirma/Default"
+  },
+  {
+    "githubUrl": "https://github.com/caiyue1993/IceCream"
+  },
+  {
+    "githubUrl": "https://github.com/quanvo87/FirebaseHelper"
+  },
+  {
+    "githubUrl": "https://github.com/dreymonde/Shallows"
+  },
+  {
+    "githubUrl": "https://github.com/iAmrSalman/StorageManager"
+  },
+  {
+    "githubUrl": "https://github.com/k-lpmg/RealmWrapper"
+  },
+  {
+    "githubUrl": "https://github.com/omaralbeik/UserDefaultsStore"
+  },
+  {
+    "githubUrl": "https://github.com/metasmile/PropertyKit"
+  },
+  {
+    "githubUrl": "https://github.com/Teknasyon-Teknoloji/PersistenceKit"
+  },
+  {
+    "githubUrl": "https://github.com/ssamadgh/ModelAssistant"
+  },
+  {
+    "githubUrl": "https://github.com/Tencent/MMKV"
+  },
+  {
+    "githubUrl": "https://github.com/sindresorhus/Defaults"
+  },
+  {
+    "githubUrl": "https://github.com/OpenKitten/MongoKitten"
+  },
+  {
+    "githubUrl": "https://github.com/vpeschenkov/SecureDefaults"
+  },
+  {
+    "githubUrl": "https://github.com/arturdev/Unrealm"
+  },
+  {
+    "githubUrl": "https://github.com/behrad-kzm/QuickDB"
+  },
+  {
+    "githubUrl": "https://github.com/objectbox/objectbox-swift"
+  },
+  {
+    "githubUrl": "https://github.com/osteslag/Changeset"
+  },
+  {
+    "githubUrl": "https://github.com/attaswift/BTree"
+  },
+  {
+    "githubUrl": "https://github.com/waynewbishop/SwiftStructures"
+  },
+  {
+    "githubUrl": "https://github.com/soffes/diff"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Brick"
+  },
+  {
+    "githubUrl": "https://github.com/CosmicMind/Algorithm"
+  },
+  {
+    "githubUrl": "https://github.com/tarunon/AnyObjectConvertible"
+  },
+  {
+    "githubUrl": "https://github.com/ankurp/Dollar"
+  },
+  {
+    "githubUrl": "https://github.com/antitypical/Result"
+  },
+  {
+    "githubUrl": "https://github.com/EvgenyKarkan/EKAlgorithms"
+  },
+  {
+    "githubUrl": "https://github.com/naru-jpn/Monaka"
+  },
+  {
+    "githubUrl": "https://github.com/alexdrone/Buffer"
+  },
+  {
+    "githubUrl": "https://github.com/davecom/SwiftGraph"
+  },
+  {
+    "githubUrl": "https://github.com/davecom/SwiftPriorityQueue"
+  },
+  {
+    "githubUrl": "https://github.com/naru-jpn/pencil"
+  },
+  {
+    "githubUrl": "https://github.com/mcudich/HeckelDiff"
+  },
+  {
+    "githubUrl": "https://github.com/artemstepanenko/Dekoter"
+  },
+  {
+    "githubUrl": "https://github.com/raywenderlich/swift-algorithm-club"
+  },
+  {
+    "githubUrl": "https://github.com/david-coyle-sjc/impeller"
+  },
+  {
+    "githubUrl": "https://github.com/alexdrone/Store"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/DeepDiff"
+  },
+  {
+    "githubUrl": "https://github.com/tonyarnold/Differ"
+  },
+  {
+    "githubUrl": "https://github.com/harlanhaskins/Probably"
+  },
+  {
+    "githubUrl": "https://github.com/jamesdouble/RandMyMod"
+  },
+  {
+    "githubUrl": "https://github.com/vincent-pradeilles/KeyPathKit"
+  },
+  {
+    "githubUrl": "https://github.com/zenangst/Differific"
+  },
+  {
+    "githubUrl": "https://github.com/ladeiko/OneWaySynchronizer"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/DifferenceKit"
+  },
+  {
+    "githubUrl": "https://github.com/naoty/Timepiece"
+  },
+  {
+    "githubUrl": "https://github.com/malcommac/SwiftDate"
+  },
+  {
+    "githubUrl": "https://github.com/akosma/SwiftMoment"
+  },
+  {
+    "githubUrl": "https://github.com/MatthewYork/DateTools"
+  },
+  {
+    "githubUrl": "https://github.com/radex/SwiftyTimer"
+  },
+  {
+    "githubUrl": "https://github.com/melvitax/DateHelper"
+  },
+  {
+    "githubUrl": "https://github.com/boredzo/iso-8601-date-formatter"
+  },
+  {
+    "githubUrl": "https://github.com/thomaspaulmann/EmojiTimeFormatter"
+  },
+  {
+    "githubUrl": "https://github.com/lyft/Kronos"
+  },
+  {
+    "githubUrl": "https://github.com/instacart/TrueTime.swift"
+  },
+  {
+    "githubUrl": "https://github.com/joedaniels29/10Clock"
+  },
+  {
+    "githubUrl": "https://github.com/kevinlawler/NSDate-TimeAgo"
+  },
+  {
+    "githubUrl": "https://github.com/Kawoou/AnyDate"
+  },
+  {
+    "githubUrl": "https://github.com/gligorkot/TimeZonePicker"
+  },
+  {
+    "githubUrl": "https://github.com/dreymonde/Time"
+  },
+  {
+    "githubUrl": "https://github.com/davedelong/Chronology"
+  },
+  {
+    "githubUrl": "https://github.com/ceeK/Solar"
+  },
+  {
+    "githubUrl": "https://github.com/Endore8/TimePicker"
+  },
+  {
+    "githubUrl": "https://github.com/awesome-labs/LFTimePicker"
+  },
+  {
+    "githubUrl": "https://github.com/novalagung/nvdate"
+  },
+  {
+    "githubUrl": "https://github.com/luoxiu/Schedule"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/Xniffer"
+  },
+  {
+    "githubUrl": "https://github.com/kasketis/netfox"
+  },
+  {
+    "githubUrl": "https://github.com/square/PonyDebugger"
+  },
+  {
+    "githubUrl": "https://github.com/dbukowski/DBDebugToolkit"
+  },
+  {
+    "githubUrl": "https://github.com/Flipboard/FLEX"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/chisel"
+  },
+  {
+    "githubUrl": "https://github.com/Legoless/Alpha"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AEConsole"
+  },
+  {
+    "githubUrl": "https://github.com/zixun/GodEye"
+  },
+  {
+    "githubUrl": "https://github.com/coderyi/NetworkEye"
+  },
+  {
+    "githubUrl": "https://github.com/remirobert/Dotzu"
+  },
+  {
+    "githubUrl": "https://github.com/willowtreeapps/Hyperion-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/MuShare/Httper-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/myriadmobile/Droar"
+  },
+  {
+    "githubUrl": "https://github.com/pmusolino/Wormholy"
+  },
+  {
+    "githubUrl": "https://github.com/isavynskyi/LayoutInspector"
+  },
+  {
+    "githubUrl": "https://github.com/meitu/MTHawkeye"
+  },
+  {
+    "githubUrl": "https://github.com/playbook-ui/playbook-ios"
+  },
+  {
+    "githubUrl": "https://github.com/didi/DoraemonKit"
+  },
+  {
+    "githubUrl": "https://github.com/ProxymanApp/atlantis"
+  },
+  {
+    "githubUrl": "https://github.com/divar-ir/NetShears.git"
+  },
+  {
+    "githubUrl": "https://github.com/bstillitano/Scyther"
+  },
+  {
+    "githubUrl": "https://github.com/cesarferreira/SwiftEventBus"
+  },
+  {
+    "githubUrl": "https://github.com/mxcl/PromiseKit"
+  },
+  {
+    "githubUrl": "https://github.com/BoltsFramework/Bolts-ObjC"
+  },
+  {
+    "githubUrl": "https://github.com/ReactKit/SwiftTask"
+  },
+  {
+    "githubUrl": "https://github.com/vadymmarkov/When"
+  },
+  {
+    "githubUrl": "https://github.com/freshOS/then"
+  },
+  {
+    "githubUrl": "https://github.com/BoltsFramework/Bolts-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/deput/RWPromiseKit"
+  },
+  {
+    "githubUrl": "https://github.com/couchdeveloper/FutureLib"
+  },
+  {
+    "githubUrl": "https://github.com/100mango/SwiftNotificationCenter"
+  },
+  {
+    "githubUrl": "https://github.com/FutureKit/FutureKit"
+  },
+  {
+    "githubUrl": "https://github.com/uber/signals-ios"
+  },
+  {
+    "githubUrl": "https://github.com/Thomvis/BrightFutures"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/NoticeObserveKit"
+  },
+  {
+    "githubUrl": "https://github.com/malcommac/Hydra"
+  },
+  {
+    "githubUrl": "https://github.com/albertodebortoli/Promis"
+  },
+  {
+    "githubUrl": "https://github.com/AndrewBarba/Bluebird.swift"
+  },
+  {
+    "githubUrl": "https://github.com/khanlou/Promise"
+  },
+  {
+    "githubUrl": "https://github.com/google/promises"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/Continuum"
+  },
+  {
+    "githubUrl": "https://github.com/formbound/Futures"
+  },
+  {
+    "githubUrl": "https://github.com/DimaMishchenko/EasyFutures"
+  },
+  {
+    "githubUrl": "https://github.com/mcmatan/topicEventBus"
+  },
+  {
+    "githubUrl": "https://github.com/nvzqz/FileKit"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/Zip"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/FileBrowser"
+  },
+  {
+    "githubUrl": "https://github.com/indragiek/Ares"
+  },
+  {
+    "githubUrl": "https://github.com/amosavian/FileProvider"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/KZFileWatchers"
+  },
+  {
+    "githubUrl": "https://github.com/ZipArchive/ZipArchive"
+  },
+  {
+    "githubUrl": "https://github.com/Augustyniak/FileExplorer"
+  },
+  {
+    "githubUrl": "https://github.com/weichsel/ZIPFoundation"
+  },
+  {
+    "githubUrl": "https://github.com/dreymonde/AppFolder"
+  },
+  {
+    "githubUrl": "https://github.com/pixelglow/ZipZap"
+  },
+  {
+    "githubUrl": "https://github.com/amosavian/AMSMB2"
+  },
+  {
+    "githubUrl": "https://github.com/ulrikdamm/Forbind"
+  },
+  {
+    "githubUrl": "https://github.com/brynbellomy/Funky"
+  },
+  {
+    "githubUrl": "https://github.com/LlamaKit/LlamaKit"
+  },
+  {
+    "githubUrl": "https://github.com/tptee/Oriole"
+  },
+  {
+    "githubUrl": "https://github.com/robrix/Prelude"
+  },
+  {
+    "githubUrl": "https://github.com/typelift/Swiftx"
+  },
+  {
+    "githubUrl": "https://github.com/typelift/Swiftz"
+  },
+  {
+    "githubUrl": "https://github.com/RuiAAPeres/OptionalExtensions"
+  },
+  {
+    "githubUrl": "https://github.com/thoughtbot/Argo"
+  },
+  {
+    "githubUrl": "https://github.com/thoughtbot/Runes"
+  },
+  {
+    "githubUrl": "https://github.com/bow-swift/bow"
+  },
+  {
+    "githubUrl": "https://github.com/nvzqz/Sage"
+  },
+  {
+    "githubUrl": "https://github.com/codelynx/ShogibanKit"
+  },
+  {
+    "githubUrl": "https://github.com/mfessenden/SKTiled"
+  },
+  {
+    "githubUrl": "https://github.com/bwide/CollectionNode"
+  },
+  {
+    "githubUrl": "https://github.com/eugenebokhan/AssetImportKit"
+  },
+  {
+    "githubUrl": "https://github.com/cocoatoucher/Glide"
+  },
+  {
+    "githubUrl": "https://github.com/sh-khashimov/SwiftFortuneWheel"
+  },
+  {
+    "githubUrl": "https://github.com/JohnEstropia/GCDKit"
+  },
+  {
+    "githubUrl": "https://github.com/duemunk/Async"
+  },
+  {
+    "githubUrl": "https://github.com/nodes-ios/SwiftSafe"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYDispatchQueuePool"
+  },
+  {
+    "githubUrl": "https://github.com/Alecrim/AlecrimAsyncKit"
+  },
+  {
+    "githubUrl": "https://github.com/jessesquires/GrandSugarDispatch"
+  },
+  {
+    "githubUrl": "https://github.com/mitchtreece/Threader"
+  },
+  {
+    "githubUrl": "https://github.com/JARMourato/Dispatch"
+  },
+  {
+    "githubUrl": "https://github.com/hemantasapkota/GCDTimer"
+  },
+  {
+    "githubUrl": "https://github.com/comyar/Chronos-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/pascalbros/Me"
+  },
+  {
+    "githubUrl": "https://github.com/Albinzr/SwiftyTask"
+  },
+  {
+    "githubUrl": "https://github.com/delba/Tactile"
+  },
+  {
+    "githubUrl": "https://github.com/b3ll/SwiftyGestureRecognition"
+  },
+  {
+    "githubUrl": "https://github.com/didierbrun/DBPathRecognizer"
+  },
+  {
+    "githubUrl": "https://github.com/hellowizman/Sensitive"
+  },
+  {
+    "githubUrl": "https://github.com/MarioIannotta/SplitViewDragAndDrop"
+  },
+  {
+    "githubUrl": "https://github.com/forkingdog/FDFullscreenPopGesture"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKitz/Graphicz"
+  },
+  {
+    "githubUrl": "https://github.com/pkluz/PKCoreTechniques"
+  },
+  {
+    "githubUrl": "https://github.com/mpw/MPWDrawingContext"
+  },
+  {
+    "githubUrl": "https://github.com/davidcairns/DePict"
+  },
+  {
+    "githubUrl": "https://github.com/mchoe/SwiftSVG"
+  },
+  {
+    "githubUrl": "https://github.com/shaps80/InkKit"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYAsyncLayer"
+  },
+  {
+    "githubUrl": "https://github.com/Nicejinux/NXDrawKit"
+  },
+  {
+    "githubUrl": "https://github.com/IFTTT/jot"
+  },
+  {
+    "githubUrl": "https://github.com/SVGKit/SVGKit"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/Snowflake"
+  },
+  {
+    "githubUrl": "https://github.com/victorgama/HxSTLParser"
+  },
+  {
+    "githubUrl": "https://github.com/natmark/ProcessingKit"
+  },
+  {
+    "githubUrl": "https://github.com/shashankpali/EZYGradientView"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AEConicalGradient"
+  },
+  {
+    "githubUrl": "https://github.com/maxkonovalov/MKGradientView"
+  },
+  {
+    "githubUrl": "https://github.com/ipraba/EPShapes"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/macaw"
+  },
+  {
+    "githubUrl": "https://github.com/Boilertalk/BlockiesSwift"
+  },
+  {
+    "githubUrl": "https://github.com/bakhtiyork/Rough"
+  },
+  {
+    "githubUrl": "https://github.com/bakhtiyork/GraphLayout"
+  },
+  {
+    "githubUrl": "https://github.com/Asana/Drawsana"
+  },
+  {
+    "githubUrl": "https://github.com/rwbutler/AnimatedGradientView"
+  },
+  {
+    "githubUrl": "https://github.com/omergul/Discovery"
+  },
+  {
+    "githubUrl": "https://github.com/LGBluetooth/LGBluetooth"
+  },
+  {
+    "githubUrl": "https://github.com/jpsim/PeerKit"
+  },
+  {
+    "githubUrl": "https://github.com/rhummelmose/BluetoothKit"
+  },
+  {
+    "githubUrl": "https://github.com/e-sites/Bluetonium"
+  },
+  {
+    "githubUrl": "https://github.com/troystribling/BlueCap"
+  },
+  {
+    "githubUrl": "https://github.com/kirankunigiri/Apple-Family"
+  },
+  {
+    "githubUrl": "https://github.com/1amageek/Bleu"
+  },
+  {
+    "githubUrl": "https://github.com/steamclock/bluejay"
+  },
+  {
+    "githubUrl": "https://github.com/coolnameismy/BabyBluetooth"
+  },
+  {
+    "githubUrl": "https://github.com/AntonTheDev/ExtendaBLE"
+  },
+  {
+    "githubUrl": "https://github.com/rchatham/PeerConnectivity"
+  },
+  {
+    "githubUrl": "https://github.com/AfrozZaheer/AZPeerToPeerConnection"
+  },
+  {
+    "githubUrl": "https://github.com/dingwilson/MultiPeer"
+  },
+  {
+    "githubUrl": "https://github.com/zssz/BerkananSDK"
+  },
+  {
+    "githubUrl": "https://github.com/tdginternet/TGCameraViewController"
+  },
+  {
+    "githubUrl": "https://github.com/piemonte/PBJVision"
+  },
+  {
+    "githubUrl": "https://github.com/GabrielAlva/Cool-iOS-Camera"
+  },
+  {
+    "githubUrl": "https://github.com/rFlex/SCRecorder"
+  },
+  {
+    "githubUrl": "https://github.com/AlexLittlejohn/ALCameraViewController"
+  },
+  {
+    "githubUrl": "https://github.com/imaginary-cloud/CameraManager"
+  },
+  {
+    "githubUrl": "https://github.com/yeahdongcn/RSBarcodes_Swift"
+  },
+  {
+    "githubUrl": "https://github.com/omergul/LLSimpleCamera"
+  },
+  {
+    "githubUrl": "https://github.com/ytakzk/Fusuma"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/BarcodeScanner"
+  },
+  {
+    "githubUrl": "https://github.com/HorizonCamera/HorizonSDK-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/IFTTT/FastttCamera"
+  },
+  {
+    "githubUrl": "https://github.com/zhangao0086/DKCamera"
+  },
+  {
+    "githubUrl": "https://github.com/NextLevel/NextLevel"
+  },
+  {
+    "githubUrl": "https://github.com/remirobert/CameraEngine"
+  },
+  {
+    "githubUrl": "https://github.com/Awalz/SwiftyCam"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/CameraBackground"
+  },
+  {
+    "githubUrl": "https://github.com/dokun1/Lumina"
+  },
+  {
+    "githubUrl": "https://github.com/rallahaseh/RAImagePicker"
+  },
+  {
+    "githubUrl": "https://github.com/fulldecent/FDTake"
+  },
+  {
+    "githubUrl": "https://github.com/Yummypets/YPImagePicker"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/MockImagePicker"
+  },
+  {
+    "githubUrl": "https://github.com/shu223/iOS-Depth-Sampler"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/TakeASelfie"
+  },
+  {
+    "githubUrl": "https://github.com/eonist/HybridCamera"
+  },
+  {
+    "githubUrl": "https://github.com/CameraKit/camerakit-ios"
+  },
+  {
+    "githubUrl": "https://github.com/ricardopereira/QuickActions"
+  },
+  {
+    "githubUrl": "https://github.com/justeat/JustPeek"
+  },
+  {
+    "githubUrl": "https://github.com/itsmeichigo/PeekView"
+  },
+  {
+    "githubUrl": "https://github.com/Proxitee/iOS-SDK"
+  },
+  {
+    "githubUrl": "https://github.com/ohayon/OWUProximityManager"
+  },
+  {
+    "githubUrl": "https://github.com/Instrument/Vicinity"
+  },
+  {
+    "githubUrl": "https://github.com/lgaches/BeaconEmitter"
+  },
+  {
+    "githubUrl": "https://github.com/izotx/JMCBeaconManager"
+  },
+  {
+    "githubUrl": "https://github.com/IngeoSDK/ingeo-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/intuit/LocationManager"
+  },
+  {
+    "githubUrl": "https://github.com/malcommac/SwiftLocation"
+  },
+  {
+    "githubUrl": "https://github.com/arturdev/SOMotionDetector"
+  },
+  {
+    "githubUrl": "https://github.com/ZhuoranTan/LocationPicker"
+  },
+  {
+    "githubUrl": "https://github.com/benzamin/BBLocationManager"
+  },
+  {
+    "githubUrl": "https://github.com/lyft/set-simulator-location"
+  },
+  {
+    "githubUrl": "https://github.com/caloon/NominatimKit"
+  },
+  {
+    "githubUrl": "https://github.com/MHaroonBaig/MotionKit"
+  },
+  {
+    "githubUrl": "https://github.com/jensmeder/DarkLightning"
+  },
+  {
+    "githubUrl": "https://github.com/andrealufino/Deviice"
+  },
+  {
+    "githubUrl": "https://github.com/devicekit/DeviceKit"
+  },
+  {
+    "githubUrl": "https://github.com/andrealufino/Luminous"
+  },
+  {
+    "githubUrl": "https://github.com/Ekhoo/Device"
+  },
+  {
+    "githubUrl": "https://github.com/ezefranca/WatchShaker"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/WatchCon"
+  },
+  {
+    "githubUrl": "https://github.com/WorldDownTown/TapticEngine"
+  },
+  {
+    "githubUrl": "https://github.com/Nirma/UIDeviceComplete"
+  },
+  {
+    "githubUrl": "https://github.com/jvk75/NFCNDEFParse"
+  },
+  {
+    "githubUrl": "https://github.com/schickling/Device.swift"
+  },
+  {
+    "githubUrl": "https://github.com/sebyddd/SDVersion"
+  },
+  {
+    "githubUrl": "https://github.com/iSapozhnik/Haptico"
+  },
+  {
+    "githubUrl": "https://github.com/AndyQ/NFCPassportReader"
+  },
+  {
+    "githubUrl": "https://github.com/SnapKit/Masonry"
+  },
+  {
+    "githubUrl": "https://github.com/floriankugler/FLKAutoLayout"
+  },
+  {
+    "githubUrl": "https://github.com/mamaral/Facade"
+  },
+  {
+    "githubUrl": "https://github.com/PureLayout/PureLayout"
+  },
+  {
+    "githubUrl": "https://github.com/SnapKit/SnapKit"
+  },
+  {
+    "githubUrl": "https://github.com/robb/Cartography"
+  },
+  {
+    "githubUrl": "https://github.com/ruipfcosta/AutoLayoutPlus"
+  },
+  {
+    "githubUrl": "https://github.com/mamaral/Neon"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/MisterFusion"
+  },
+  {
+    "githubUrl": "https://github.com/joshaber/SwiftBox"
+  },
+  {
+    "githubUrl": "https://github.com/isair/ManualLayout"
+  },
+  {
+    "githubUrl": "https://github.com/freshOS/Stevia"
+  },
+  {
+    "githubUrl": "https://github.com/floriankrueger/Manuscript"
+  },
+  {
+    "githubUrl": "https://github.com/forkingdog/UITableView-FDTemplateLayoutCell"
+  },
+  {
+    "githubUrl": "https://github.com/indragiek/SwiftAutoLayout"
+  },
+  {
+    "githubUrl": "https://github.com/evan-liu/FormationLayout"
+  },
+  {
+    "githubUrl": "https://github.com/fhisa/SwiftyLayout"
+  },
+  {
+    "githubUrl": "https://github.com/Skyvive/Swiftstraints"
+  },
+  {
+    "githubUrl": "https://github.com/DeclarativeHub/Bond"
+  },
+  {
+    "githubUrl": "https://github.com/puffinsupply/Restraint"
+  },
+  {
+    "githubUrl": "https://github.com/nakiostudio/EasyPeasy"
+  },
+  {
+    "githubUrl": "https://github.com/mergesort/Anchorman"
+  },
+  {
+    "githubUrl": "https://github.com/linkedin/LayoutKit"
+  },
+  {
+    "githubUrl": "https://github.com/stevestreza/Relayout"
+  },
+  {
+    "githubUrl": "https://github.com/Rightpoint/Anchorage"
+  },
+  {
+    "githubUrl": "https://github.com/grupozap/Compose"
+  },
+  {
+    "githubUrl": "https://github.com/wayfair/brickkit-ios"
+  },
+  {
+    "githubUrl": "https://github.com/Otbivnoe/Framezilla"
+  },
+  {
+    "githubUrl": "https://github.com/roberthein/TinyConstraints"
+  },
+  {
+    "githubUrl": "https://github.com/youngsoft/MyLinearLayout"
+  },
+  {
+    "githubUrl": "https://github.com/ashikahmad/SugarAnchor"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/EasyAnchor"
+  },
+  {
+    "githubUrl": "https://github.com/layoutBox/PinLayout"
+  },
+  {
+    "githubUrl": "https://github.com/sp71/SnapLayout"
+  },
+  {
+    "githubUrl": "https://github.com/nerdycat/Cupcake"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/MiniLayout"
+  },
+  {
+    "githubUrl": "https://github.com/wordlessj/Bamboo"
+  },
+  {
+    "githubUrl": "https://github.com/layoutBox/FlexLayout"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/yoga"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/layout"
+  },
+  {
+    "githubUrl": "https://github.com/k-o-d-e-n/CGLayout"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/yoga/tree/master/YogaKit"
+  },
+  {
+    "githubUrl": "https://github.com/AntonTheDev/FlightLayout"
+  },
+  {
+    "githubUrl": "https://github.com/josejuanqm/QLayout"
+  },
+  {
+    "githubUrl": "https://github.com/DeclarativeHub/Layoutless"
+  },
+  {
+    "githubUrl": "https://github.com/kean/Align"
+  },
+  {
+    "githubUrl": "https://github.com/lionheart/SuperLayout"
+  },
+  {
+    "githubUrl": "https://github.com/huri000/QuickLayout"
+  },
+  {
+    "githubUrl": "https://github.com/efekanegeli/EEStackLayout"
+  },
+  {
+    "githubUrl": "https://github.com/daskioff/RKAutoLayout"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/Grid"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/MondrianLayout"
+  },
+  {
+    "githubUrl": "https://github.com/Aufree/Hodor"
+  },
+  {
+    "githubUrl": "https://github.com/tomkowz/Swifternalization"
+  },
+  {
+    "githubUrl": "https://github.com/dcordero/Rubustrings"
+  },
+  {
+    "githubUrl": "https://github.com/Flinesoft/BartyCrouch"
+  },
+  {
+    "githubUrl": "https://github.com/willpowell8/LocalizationKit_iOS"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/Localize-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/darkcl/LocalizedView"
+  },
+  {
+    "githubUrl": "https://github.com/Jintin/transai"
+  },
+  {
+    "githubUrl": "https://github.com/metasmile/strsync"
+  },
+  {
+    "githubUrl": "https://github.com/PiXeL16/IBLocalizable"
+  },
+  {
+    "githubUrl": "https://github.com/samdmarshall/nslocalizer"
+  },
+  {
+    "githubUrl": "https://github.com/Decybel07/L10n-swift"
+  },
+  {
+    "githubUrl": "https://github.com/andresilvagomez/Localize"
+  },
+  {
+    "githubUrl": "https://github.com/crowdin/mobile-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/fkirc/attranslate"
+  },
+  {
+    "githubUrl": "https://github.com/emaloney/CleanroomLogger"
+  },
+  {
+    "githubUrl": "https://github.com/CocoaLumberjack/CocoaLumberjack"
+  },
+  {
+    "githubUrl": "https://github.com/fpillet/NSLogger"
+  },
+  {
+    "githubUrl": "https://github.com/goktugyil/QorumLogs"
+  },
+  {
+    "githubUrl": "https://github.com/delba/Log"
+  },
+  {
+    "githubUrl": "https://github.com/onevcat/Rainbow"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftyBeaver/SwiftyBeaver"
+  },
+  {
+    "githubUrl": "https://github.com/scottrhoyt/SwiftyTextTable"
+  },
+  {
+    "githubUrl": "https://github.com/wojteklu/Watchdog"
+  },
+  {
+    "githubUrl": "https://github.com/DaveWoodCom/XCGLogger"
+  },
+  {
+    "githubUrl": "https://github.com/cookpad/puree-ios"
+  },
+  {
+    "githubUrl": "https://github.com/icodeforlove/Colors"
+  },
+  {
+    "githubUrl": "https://github.com/honghaoz/Loggerithm"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AELog"
+  },
+  {
+    "githubUrl": "https://github.com/mattcomi/ReflectedStringConvertible"
+  },
+  {
+    "githubUrl": "https://github.com/nilsleiffischer/Evergreen"
+  },
+  {
+    "githubUrl": "https://github.com/johnno1962/SwiftTrace"
+  },
+  {
+    "githubUrl": "https://github.com/Nike-Inc/Willow"
+  },
+  {
+    "githubUrl": "https://github.com/bugfender/BugfenderSDK-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/DeveloperLx/LxDBAnything"
+  },
+  {
+    "githubUrl": "https://github.com/xareelee/XLTestLog"
+  },
+  {
+    "githubUrl": "https://github.com/swisspol/XLFacility"
+  },
+  {
+    "githubUrl": "https://github.com/DrewKiino/Atlantis"
+  },
+  {
+    "githubUrl": "https://github.com/drekka/StoryTeller"
+  },
+  {
+    "githubUrl": "https://github.com/ubclaunchpad/LumberMill"
+  },
+  {
+    "githubUrl": "https://github.com/Cosmo/TinyConsole"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/Lighty"
+  },
+  {
+    "githubUrl": "https://github.com/justeat/JustLog"
+  },
+  {
+    "githubUrl": "https://github.com/twitter/ios-twitter-logging-service"
+  },
+  {
+    "githubUrl": "https://github.com/AckeeCZ/Reqres"
+  },
+  {
+    "githubUrl": "https://github.com/tonystone/tracelog"
+  },
+  {
+    "githubUrl": "https://github.com/diegotl/OkLog-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/appunite/Spy"
+  },
+  {
+    "githubUrl": "https://github.com/WeTransfer/Diagnostics"
+  },
+  {
+    "githubUrl": "https://github.com/bannzai/gedatsu"
+  },
+  {
+    "githubUrl": "https://github.com/vlall/Swift-Brain"
+  },
+  {
+    "githubUrl": "https://github.com/KevinCoble/AIToolbox"
+  },
+  {
+    "githubUrl": "https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/Bender"
+  },
+  {
+    "githubUrl": "https://github.com/ytakzk/CoreML-samples"
+  },
+  {
+    "githubUrl": "https://github.com/petrmanek/Revolver"
+  },
+  {
+    "githubUrl": "https://github.com/likedan/Awesome-CoreML-Models"
+  },
+  {
+    "githubUrl": "https://github.com/pcpLiu/Serrano"
+  },
+  {
+    "githubUrl": "https://github.com/Swift-AI/Swift-AI"
+  },
+  {
+    "githubUrl": "https://github.com/qoncept/TensorSwift"
+  },
+  {
+    "githubUrl": "https://github.com/palle-k/DL4S"
+  },
+  {
+    "githubUrl": "https://github.com/JacopoMangiavacchi/SwiftCoreMLTools"
+  },
+  {
+    "githubUrl": "https://github.com/mapbox/mapbox-gl-native"
+  },
+  {
+    "githubUrl": "https://github.com/GEOSwift/GEOSwift"
+  },
+  {
+    "githubUrl": "https://github.com/poulpix/PXGoogleDirections"
+  },
+  {
+    "githubUrl": "https://github.com/efremidze/Cluster"
+  },
+  {
+    "githubUrl": "https://github.com/jamesdouble/JDSwiftHeatMap"
+  },
+  {
+    "githubUrl": "https://github.com/hulab/ClusterKit"
+  },
+  {
+    "githubUrl": "https://github.com/SvenTiigi/FlyoverKit"
+  },
+  {
+    "githubUrl": "https://github.com/okhanokbay/MapViewPlus"
+  },
+  {
+    "githubUrl": "https://github.com/mabdulsubhan/MSFlightMapView"
+  },
+  {
+    "githubUrl": "https://github.com/mousebird/WhirlyGlobe"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/Euler"
+  },
+  {
+    "githubUrl": "https://github.com/madbat/SwiftMath"
+  },
+  {
+    "githubUrl": "https://github.com/phimage/Arithmosophi"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/Surge"
+  },
+  {
+    "githubUrl": "https://github.com/alejandro-isaza/Upsurge"
+  },
+  {
+    "githubUrl": "https://github.com/rugheid/Swift-MathEagle"
+  },
+  {
+    "githubUrl": "https://github.com/kostub/iosMath"
+  },
+  {
+    "githubUrl": "https://github.com/attaswift/BigInt"
+  },
+  {
+    "githubUrl": "https://github.com/evgenyneu/SigmaSwiftStatistics"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/VectorMath"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/Expression"
+  },
+  {
+    "githubUrl": "https://github.com/toineheuvelmans/Metron"
+  },
+  {
+    "githubUrl": "https://github.com/xwu/NumericAnnex"
+  },
+  {
+    "githubUrl": "https://github.com/audiokit/AudioKit"
+  },
+  {
+    "githubUrl": "https://github.com/syedhali/EZAudio"
+  },
+  {
+    "githubUrl": "https://github.com/alexbw/novocaine"
+  },
+  {
+    "githubUrl": "https://github.com/quentinhayot/QHSpeechSynthesizerQueue"
+  },
+  {
+    "githubUrl": "https://github.com/evgenyneu/Cephalopod"
+  },
+  {
+    "githubUrl": "https://github.com/trifl/Chirp"
+  },
+  {
+    "githubUrl": "https://github.com/vadymmarkov/Beethoven"
+  },
+  {
+    "githubUrl": "https://github.com/tbaranes/AudioPlayerSwift"
+  },
+  {
+    "githubUrl": "https://github.com/delannoyk/AudioPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/comyar/TuningFork"
+  },
+  {
+    "githubUrl": "https://github.com/benzguo/MusicKit"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/SubtleVolume"
+  },
+  {
+    "githubUrl": "https://github.com/bartolsthoorn/NVDSP"
+  },
+  {
+    "githubUrl": "https://github.com/SRGSSR/SRGMediaPlayer-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/hackiftekhar/IQAudioRecorderController"
+  },
+  {
+    "githubUrl": "https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2"
+  },
+  {
+    "githubUrl": "https://github.com/AhmettKeskin/InteractivePlayerView"
+  },
+  {
+    "githubUrl": "https://github.com/Aufree/ESTMusicIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/quiet/QuietModemKit"
+  },
+  {
+    "githubUrl": "https://github.com/adamcichy/SwiftySound"
+  },
+  {
+    "githubUrl": "https://github.com/Luccifer/BPM-Analyser"
+  },
+  {
+    "githubUrl": "https://github.com/AppliKeySolutions/PandoraPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/Luccifer/SonogramView"
+  },
+  {
+    "githubUrl": "https://github.com/LeonardoCardoso/AudioIndicatorBars"
+  },
+  {
+    "githubUrl": "https://github.com/Picovoice/Porcupine"
+  },
+  {
+    "githubUrl": "https://github.com/algolia/voice-overlay-ios"
+  },
+  {
+    "githubUrl": "https://github.com/noreasonprojects/ModernAVPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/fulldecent/FDWaveformView"
+  },
+  {
+    "githubUrl": "https://github.com/fulldecent/FDSoundActivatedRecorder"
+  },
+  {
+    "githubUrl": "https://github.com/liyong03/YLGIFImage"
+  },
+  {
+    "githubUrl": "https://github.com/Flipboard/FLAnimatedImage"
+  },
+  {
+    "githubUrl": "https://github.com/kaishin/gifu"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/AnimatedGIFImageSerialization"
+  },
+  {
+    "githubUrl": "https://github.com/khaledmtaha/XAnimatedImage"
+  },
+  {
+    "githubUrl": "https://github.com/swiftgif/SwiftGif"
+  },
+  {
+    "githubUrl": "https://github.com/onevcat/APNGKit"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYImage"
+  },
+  {
+    "githubUrl": "https://github.com/wangjwchn/AImage"
+  },
+  {
+    "githubUrl": "https://github.com/metasmile/NSGIF2"
+  },
+  {
+    "githubUrl": "https://github.com/kirualex/SwiftyGif"
+  },
+  {
+    "githubUrl": "https://github.com/BradLarson/GPUImage"
+  },
+  {
+    "githubUrl": "https://github.com/gdawg/uiimage-dsp"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/AsyncImageView"
   },
   {
     "githubUrl": "https://github.com/SDWebImage/SDWebImage"
+  },
+  {
+    "githubUrl": "https://github.com/kean/DFImageManager"
+  },
+  {
+    "githubUrl": "https://github.com/JanGorman/MapleBacon"
+  },
+  {
+    "githubUrl": "https://github.com/NYTimes/NYTPhotoViewer"
+  },
+  {
+    "githubUrl": "https://github.com/thiagoperes/IDMPhotoBrowser"
+  },
+  {
+    "githubUrl": "https://github.com/contentful-labs/Concorde/"
+  },
+  {
+    "githubUrl": "https://github.com/TimOliver/TOCropViewController"
+  },
+  {
+    "githubUrl": "https://github.com/hanton/YXTMotionView"
+  },
+  {
+    "githubUrl": "https://github.com/pinterest/PINRemoteImage"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/SABlurImageView"
+  },
+  {
+    "githubUrl": "https://github.com/path/FastImageCache"
+  },
+  {
+    "githubUrl": "https://github.com/bkoc/BKAsciiImage"
+  },
+  {
+    "githubUrl": "https://github.com/Alamofire/AlamofireImage"
+  },
+  {
+    "githubUrl": "https://github.com/kean/Nuke"
+  },
+  {
+    "githubUrl": "https://github.com/madebybowtie/FlagKit"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYWebImage"
+  },
+  {
+    "githubUrl": "https://github.com/ruslanskorb/RSKImageCropper"
+  },
+  {
+    "githubUrl": "https://github.com/josejuanqm/Silo"
+  },
+  {
+    "githubUrl": "https://github.com/josejuanqm/Ody"
+  },
+  {
+    "githubUrl": "https://github.com/gauravkatoch007/banana"
+  },
+  {
+    "githubUrl": "https://github.com/JellyDevelopment/JDSwiftAvatarProgress"
+  },
+  {
+    "githubUrl": "https://github.com/onevcat/Kingfisher"
+  },
+  {
+    "githubUrl": "https://github.com/EddyBorja/EBPhotoPages"
+  },
+  {
+    "githubUrl": "https://github.com/croath/UIImageView-BetterFace-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/croath/UIImageView-BetterFace"
+  },
+  {
+    "githubUrl": "https://github.com/kiavashfaisali/KFSwiftImageLoader"
+  },
+  {
+    "githubUrl": "https://github.com/gavinbunney/Toucan"
+  },
+  {
+    "githubUrl": "https://github.com/hirohisa/ImageLoaderSwift"
+  },
+  {
+    "githubUrl": "https://github.com/kaishin/ImageScout"
+  },
+  {
+    "githubUrl": "https://github.com/Textcat/JLStickerTextView"
+  },
+  {
+    "githubUrl": "https://github.com/JanGorman/Agrume"
+  },
+  {
+    "githubUrl": "https://github.com/abiaad/PASImageView"
+  },
+  {
+    "githubUrl": "https://github.com/nixzhu/Navi"
+  },
+  {
+    "githubUrl": "https://github.com/justinvallely/SwiftPhotoGallery"
+  },
+  {
+    "githubUrl": "https://github.com/wangjwchn/MetalAcc"
+  },
+  {
+    "githubUrl": "https://github.com/mwaterfall/MWPhotoBrowser"
+  },
+  {
+    "githubUrl": "https://github.com/jathu/UIImageColors"
+  },
+  {
+    "githubUrl": "https://github.com/jibeex/CDFlipView"
+  },
+  {
+    "githubUrl": "https://github.com/BradLarson/GPUImage2"
+  },
+  {
+    "githubUrl": "https://github.com/taglia3/TGLParallaxCarousel"
+  },
+  {
+    "githubUrl": "https://github.com/dollarshaveclub/ImageButter"
+  },
+  {
+    "githubUrl": "https://github.com/suzuki-0000/SKPhotoBrowser"
+  },
+  {
+    "githubUrl": "https://github.com/YuAo/YUCIHighPassSkinSmoothing"
+  },
+  {
+    "githubUrl": "https://github.com/vinbhai4u/CLImageViewPopup/"
+  },
+  {
+    "githubUrl": "https://github.com/Alterplay/APKenBurnsView"
+  },
+  {
+    "githubUrl": "https://github.com/evgenyneu/moa"
+  },
+  {
+    "githubUrl": "https://github.com/izotx/JMCMarchingAnts"
+  },
+  {
+    "githubUrl": "https://github.com/Krisiacik/ImageViewer"
+  },
+  {
+    "githubUrl": "https://github.com/BeauNouvelle/FaceAware"
+  },
+  {
+    "githubUrl": "https://github.com/dkalaitzidis/SwiftyAvatar"
+  },
+  {
+    "githubUrl": "https://github.com/FlexMonkey/ShinpuruImage"
+  },
+  {
+    "githubUrl": "https://github.com/lbrndnr/ImagePickerSheetController"
+  },
+  {
+    "githubUrl": "https://github.com/gkye/ComplimentaryGradientView"
+  },
+  {
+    "githubUrl": "https://github.com/zvonicek/ImageSlideshow"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Imaginary"
+  },
+  {
+    "githubUrl": "https://github.com/pantuspavel/PPAssetsActionController"
+  },
+  {
+    "githubUrl": "https://github.com/jinSasaki/Vulcan"
+  },
+  {
+    "githubUrl": "https://github.com/floriangbh/FacebookImagePicker"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Lightbox"
+  },
+  {
+    "githubUrl": "https://github.com/ebbapp/ebblinkSDK"
+  },
+  {
+    "githubUrl": "https://github.com/makomori/Sharaku"
+  },
+  {
+    "githubUrl": "https://github.com/scihant/CTPanoramaView"
+  },
+  {
+    "githubUrl": "https://github.com/twitter/ios-twitter-image-pipeline"
+  },
+  {
+    "githubUrl": "https://github.com/TinyCrayon/TinyCrayon-iOS-SDK"
+  },
+  {
+    "githubUrl": "https://github.com/kawoou/FlexibleImage"
+  },
+  {
+    "githubUrl": "https://github.com/tilltue/TLPhotoPicker"
+  },
+  {
+    "githubUrl": "https://github.com/yapstudios/YapImageManager"
+  },
+  {
+    "githubUrl": "https://github.com/aFrogleap/SimpleImageViewer"
+  },
+  {
+    "githubUrl": "https://github.com/Minitour/AZImagePreview"
+  },
+  {
+    "githubUrl": "https://github.com/KimDarren/FaceCropper"
+  },
+  {
+    "githubUrl": "https://github.com/avito-tech/Paparazzo"
+  },
+  {
+    "githubUrl": "https://github.com/ZaidPathan/ZImageCropper"
+  },
+  {
+    "githubUrl": "https://github.com/bachonk/InitialsImageView"
+  },
+  {
+    "githubUrl": "https://github.com/tungvoduc/DTPhotoViewerController"
+  },
+  {
+    "githubUrl": "https://github.com/vpeschenkov/LetterAvatarKit"
+  },
+  {
+    "githubUrl": "https://github.com/alexhillc/AXPhotoViewer"
+  },
+  {
+    "githubUrl": "https://github.com/tejas-ardeshna/TJProfileImage"
+  },
+  {
+    "githubUrl": "https://github.com/3lvis/Viewer"
+  },
+  {
+    "githubUrl": "https://github.com/aaronjsutton/OverlayComposite"
+  },
+  {
+    "githubUrl": "https://github.com/Minecodecraft/MCScratchImageView"
+  },
+  {
+    "githubUrl": "https://github.com/MetalPetal/MetalPetal"
+  },
+  {
+    "githubUrl": "https://github.com/olddonkey/ShadowImageView"
+  },
+  {
+    "githubUrl": "https://github.com/wvabrinskas/Avatar"
+  },
+  {
+    "githubUrl": "https://github.com/horitaku46/Serrata"
+  },
+  {
+    "githubUrl": "https://github.com/ileafsolutions/StyleArt"
+  },
+  {
+    "githubUrl": "https://github.com/500px/greedo-layout-for-ios"
+  },
+  {
+    "githubUrl": "https://github.com/Feghal/ImageDetect"
+  },
+  {
+    "githubUrl": "https://github.com/TileImageTeamiOS/THTiledImageView"
+  },
+  {
+    "githubUrl": "https://github.com/BradLarson/GPUImage3"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Gallery"
+  },
+  {
+    "githubUrl": "https://github.com/altayer-digital/ATGMediaBrowser"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/Pixel"
+  },
+  {
+    "githubUrl": "https://github.com/KiranJasvanee/OnlyPictures"
+  },
+  {
+    "githubUrl": "https://github.com/piknotech/SFSafeSymbols"
+  },
+  {
+    "githubUrl": "https://github.com/boraseoksoon/BSZoomGridScrollView"
+  },
+  {
+    "githubUrl": "https://github.com/garnele007/SwiftOCR"
+  },
+  {
+    "githubUrl": "https://github.com/aschuch/QRCode"
+  },
+  {
+    "githubUrl": "https://github.com/EFPrefix/EFQRCode"
+  },
+  {
+    "githubUrl": "https://github.com/lovoo/NSFWDetector"
+  },
+  {
+    "githubUrl": "https://github.com/vfr/Reader"
+  },
+  {
+    "githubUrl": "https://github.com/RobertAPhillips/UIView_2_PDF"
+  },
+  {
+    "githubUrl": "https://github.com/FolioReader/FolioReaderKit"
+  },
+  {
+    "githubUrl": "https://github.com/sgr-ksmt/PDFGenerator"
+  },
+  {
+    "githubUrl": "https://github.com/nRewik/SimplePDF"
+  },
+  {
+    "githubUrl": "https://github.com/kayoslab/SwiftPDFGenerator"
+  },
+  {
+    "githubUrl": "https://github.com/Techprimate/TPPDF"
+  },
+  {
+    "githubUrl": "https://github.com/mobfarm/FastPdfKit"
+  },
+  {
+    "githubUrl": "https://github.com/DimaMishchenko/UIImagePlusPDF"
+  },
+  {
+    "githubUrl": "https://github.com/shogo4405/HaishinKit.swift"
+  },
+  {
+    "githubUrl": "https://github.com/tumtumtum/StreamingKit"
+  },
+  {
+    "githubUrl": "https://github.com/teodorpatras/Jukebox"
+  },
+  {
+    "githubUrl": "https://github.com/LaiFengiOS/LFLiveKit"
+  },
+  {
+    "githubUrl": "https://github.com/qasim/Airstream"
+  },
+  {
+    "githubUrl": "https://github.com/opentok/accelerator-core-ios"
+  },
+  {
+    "githubUrl": "https://github.com/vimeo/VIMVideoPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/mobileplayer/mobileplayer-ios"
+  },
+  {
+    "githubUrl": "https://github.com/0xced/XCDYouTubeKit"
+  },
+  {
+    "githubUrl": "https://github.com/gontovnik/Periscope-VideoViewController"
+  },
+  {
+    "githubUrl": "https://github.com/mariohahn/MHVideoPhotoGallery"
+  },
+  {
+    "githubUrl": "https://github.com/davidlondono/PlayerView"
+  },
+  {
+    "githubUrl": "https://github.com/SRGSSR/SRGMediaPlayer-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/mhergon/AVPlayerViewController-Subtitles"
+  },
+  {
+    "githubUrl": "https://github.com/mhergon/MPMoviePlayerController-Subtitles"
+  },
+  {
+    "githubUrl": "https://github.com/renzifeng/ZFPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/piemonte/Player"
+  },
+  {
+    "githubUrl": "https://github.com/BrikerMan/BMPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/entotsu/VideoPager"
+  },
+  {
+    "githubUrl": "https://github.com/NYTimes/ios-360-videos"
+  },
+  {
+    "githubUrl": "https://github.com/gsabran/DDDKit"
+  },
+  {
+    "githubUrl": "https://github.com/andrewboryk/ABMediaView"
+  },
+  {
+    "githubUrl": "https://github.com/HHK1/PryntTrimmerView"
+  },
+  {
+    "githubUrl": "https://github.com/VeinGuo/VGPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/rinov/YoutubeKit"
+  },
+  {
+    "githubUrl": "https://github.com/gilesvangruisen/Swift-YouTube-Player"
+  },
+  {
+    "githubUrl": "https://github.com/jamesdouble/JDVideoKit"
+  },
+  {
+    "githubUrl": "https://github.com/josejuanqm/VersaPlayer"
+  },
+  {
+    "githubUrl": "https://github.com/robbiehanson/XMPPFramework"
+  },
+  {
+    "githubUrl": "https://github.com/badoo/Chatto"
+  },
+  {
+    "githubUrl": "https://github.com/MessageKit/MessageKit"
+  },
+  {
+    "githubUrl": "https://github.com/relatedcode/Messenger"
+  },
+  {
+    "githubUrl": "https://github.com/opentok/accelerator-textchat-ios"
+  },
+  {
+    "githubUrl": "https://github.com/chat-sdk/chat-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/nguyenhuy/AsyncMessagesViewController"
+  },
+  {
+    "githubUrl": "https://github.com/GitHawkApp/MessageViewController"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/SwiftyMessenger"
+  },
+  {
+    "githubUrl": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore"
+  },
+  {
+    "githubUrl": "https://github.com/IBM-Swift/SwiftKafka"
+  },
+  {
+    "githubUrl": "https://github.com/ekazaev/ChatLayout"
+  },
+  {
+    "githubUrl": "https://github.com/AFNetworking/AFNetworking"
+  },
+  {
+    "githubUrl": "https://github.com/RestKit/RestKit"
+  },
+  {
+    "githubUrl": "https://github.com/foursquare/FSNetworking"
+  },
+  {
+    "githubUrl": "https://github.com/pokeb/asi-http-request"
+  },
+  {
+    "githubUrl": "https://github.com/Overcoat/Overcoat"
+  },
+  {
+    "githubUrl": "https://github.com/epam/road-ios-framework"
+  },
+  {
+    "githubUrl": "https://github.com/Alamofire/Alamofire"
+  },
+  {
+    "githubUrl": "https://github.com/nghialv/Transporter"
+  },
+  {
+    "githubUrl": "https://github.com/cdzombak/CDZPinger"
+  },
+  {
+    "githubUrl": "https://github.com/dingbat/nsrails"
+  },
+  {
+    "githubUrl": "https://github.com/nathankot/NKMultipeer"
+  },
+  {
+    "githubUrl": "https://github.com/robbiehanson/CocoaAsyncSocket"
+  },
+  {
+    "githubUrl": "https://github.com/bustoutsolutions/siesta"
+  },
+  {
+    "githubUrl": "https://github.com/ashleymills/Reachability.swift"
+  },
+  {
+    "githubUrl": "https://github.com/icoco/OctopusKit"
+  },
+  {
+    "githubUrl": "https://github.com/Moya/Moya"
+  },
+  {
+    "githubUrl": "https://github.com/chasseurmic/TWRDownloadManager"
+  },
+  {
+    "githubUrl": "https://github.com/qiniu/happy-dns-objc"
+  },
+  {
+    "githubUrl": "https://github.com/BridgeNetworking/Bridge"
+  },
+  {
+    "githubUrl": "https://github.com/MLSDev/TRON"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/EVCloudKitDao"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/EVURLCache"
+  },
+  {
+    "githubUrl": "https://github.com/netguru/ResponseDetective"
+  },
+  {
+    "githubUrl": "https://github.com/johnlui/Pitaya"
+  },
+  {
+    "githubUrl": "https://github.com/dduan/Just"
+  },
+  {
+    "githubUrl": "https://github.com/hallas/agent"
+  },
+  {
+    "githubUrl": "https://github.com/Isuru-Nanayakkara/Reach"
+  },
+  {
+    "githubUrl": "https://github.com/daltoniam/SwiftHTTP"
+  },
+  {
+    "githubUrl": "https://github.com/qiniu/iOS-netdiag"
+  },
+  {
+    "githubUrl": "https://github.com/betacraft/AFNetworkingHelper"
+  },
+  {
+    "githubUrl": "https://github.com/azizuysal/NetKit"
+  },
+  {
+    "githubUrl": "https://github.com/dustturtle/RealReachability"
+  },
+  {
+    "githubUrl": "https://github.com/nixzhu/MonkeyKing"
+  },
+  {
+    "githubUrl": "https://github.com/imex94/NetworkKit"
+  },
+  {
+    "githubUrl": "https://github.com/ishkawa/APIKit"
+  },
+  {
+    "githubUrl": "https://github.com/freshOS/ws"
+  },
+  {
+    "githubUrl": "https://github.com/spotify/SPTDataLoader"
+  },
+  {
+    "githubUrl": "https://github.com/skywite/SWNetworking"
+  },
+  {
+    "githubUrl": "https://github.com/3lvis/Networking"
+  },
+  {
+    "githubUrl": "https://github.com/priore/SOAPEngine"
+  },
+  {
+    "githubUrl": "https://github.com/thoughtbot/Swish"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Malibu"
+  },
+  {
+    "githubUrl": "https://github.com/yuantiku/YTKNetwork"
+  },
+  {
+    "githubUrl": "https://github.com/serejahh/UnboxedAlamofire"
+  },
+  {
+    "githubUrl": "https://github.com/mavris/MMLanScan"
+  },
+  {
+    "githubUrl": "https://github.com/FelixLinBH/Domainer"
+  },
+  {
+    "githubUrl": "https://github.com/Restofire/Restofire"
+  },
+  {
+    "githubUrl": "https://github.com/kubatruhlar/AFNetworking-RetryPolicy"
+  },
+  {
+    "githubUrl": "https://github.com/azawawi/SwiftyZeroMQ"
+  },
+  {
+    "githubUrl": "https://github.com/stremsdoerfer/Nikka"
+  },
+  {
+    "githubUrl": "https://github.com/kangzubin/XMNetworking"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/Merhaba"
+  },
+  {
+    "githubUrl": "https://github.com/dbsystel/DBNetworkStack"
+  },
+  {
+    "githubUrl": "https://github.com/ezefranca/EFInternetIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/paulmelnikow/AFNetworking-Synchronous"
+  },
+  {
+    "githubUrl": "https://github.com/logansease/QwikHttp"
+  },
+  {
+    "githubUrl": "https://github.com/intelygenz/NetClient-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/Wasappli/WANetworkRouting"
+  },
+  {
+    "githubUrl": "https://github.com/RuiAAPeres/Reactor"
+  },
+  {
+    "githubUrl": "https://github.com/isamankumara/skywite"
+  },
+  {
+    "githubUrl": "https://github.com/cornerAnt/Digger"
+  },
+  {
+    "githubUrl": "https://github.com/AlTavares/Ciao"
+  },
+  {
+    "githubUrl": "https://github.com/mmoaay/Bamboots"
+  },
+  {
+    "githubUrl": "https://github.com/ThreeGayHub/SolarNetwork"
+  },
+  {
+    "githubUrl": "https://github.com/Feghal/FGRoute"
+  },
+  {
+    "githubUrl": "https://github.com/stdevteam/RxRestClient"
+  },
+  {
+    "githubUrl": "https://github.com/billp/TermiNetwork"
+  },
+  {
+    "githubUrl": "https://github.com/iAmrSalman/Dots"
+  },
+  {
+    "githubUrl": "https://github.com/Albinzr/Gem"
+  },
+  {
+    "githubUrl": "https://github.com/rogermolas/RMHttp"
+  },
+  {
+    "githubUrl": "https://github.com/tunespeak/AlamoRecord"
+  },
+  {
+    "githubUrl": "https://github.com/emadhegab/MHNetwork"
+  },
+  {
+    "githubUrl": "https://github.com/3sidedcube/ThunderRequest"
+  },
+  {
+    "githubUrl": "https://github.com/sky-uk/ReactiveAPI"
+  },
+  {
+    "githubUrl": "https://github.com/borchero/Squid"
+  },
+  {
+    "githubUrl": "https://github.com/MailCore/mailcore2"
+  },
+  {
+    "githubUrl": "https://github.com/snipsco/Postal"
+  },
+  {
+    "githubUrl": "https://github.com/apollographql/apollo-ios"
+  },
+  {
+    "githubUrl": "https://github.com/bricklife/JSONRPCKit"
+  },
+  {
+    "githubUrl": "https://github.com/alexeyxo/protobuf-swift"
+  },
+  {
+    "githubUrl": "https://github.com/apple/swift-protobuf"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/Orbiter"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane/fastlane/tree/master/pem"
+  },
+  {
+    "githubUrl": "https://github.com/KnuffApp/Knuff"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/FBNotifications"
+  },
+  {
+    "githubUrl": "https://github.com/noodlewerk/NWPusher"
+  },
+  {
+    "githubUrl": "https://github.com/acoomans/SimulatorRemoteNotifications"
+  },
+  {
+    "githubUrl": "https://github.com/pisces/APNSUtil"
+  },
+  {
+    "githubUrl": "https://github.com/Nordeus/pushkin"
+  },
+  {
+    "githubUrl": "https://github.com/d7laungani/DLLocalNotifications"
+  },
+  {
+    "githubUrl": "https://github.com/sushinoya/lumos"
+  },
+  {
+    "githubUrl": "https://github.com/rbaumbach/Swizzlean"
+  },
+  {
+    "githubUrl": "https://github.com/nvzqz/Unreachable"
+  },
+  {
+    "githubUrl": "https://github.com/Daniel1of1/CSwiftV"
+  },
+  {
+    "githubUrl": "https://github.com/yaslab/CSV.swift"
+  },
+  {
+    "githubUrl": "https://github.com/dehesa/CodableCSV"
+  },
+  {
+    "githubUrl": "https://github.com/SBJson/SBJson"
+  },
+  {
+    "githubUrl": "https://github.com/Mantle/Mantle"
+  },
+  {
+    "githubUrl": "https://github.com/gonzalezreal/Groot"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/PropertyMapper"
+  },
+  {
+    "githubUrl": "https://github.com/JSONModel/JSONModel"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftyJSON/SwiftyJSON"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/FastEasyMapping"
+  },
+  {
+    "githubUrl": "https://github.com/tristanhimmelman/ObjectMapper"
+  },
+  {
+    "githubUrl": "https://github.com/delba/JASON"
+  },
+  {
+    "githubUrl": "https://github.com/hkellaway/Gloss"
+  },
+  {
+    "githubUrl": "https://github.com/insanoid/SwiftyJSONAccelerator"
+  },
+  {
+    "githubUrl": "https://github.com/hodinkee/alexander"
+  },
+  {
+    "githubUrl": "https://github.com/bignerdranch/Freddy"
+  },
+  {
+    "githubUrl": "https://github.com/lyft/mapper"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/Alembic"
+  },
+  {
+    "githubUrl": "https://github.com/freshOS/Arrow"
+  },
+  {
+    "githubUrl": "https://github.com/Ahmed-Ali/JSONExport"
+  },
+  {
+    "githubUrl": "https://github.com/Nike-Inc/Elevate"
+  },
+  {
+    "githubUrl": "https://github.com/CoderMJLee/MJExtension"
+  },
+  {
+    "githubUrl": "https://github.com/tristanhimmelman/AlamofireObjectMapper"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/JAYSON"
+  },
+  {
+    "githubUrl": "https://github.com/alibaba/handyjson"
+  },
+  {
+    "githubUrl": "https://github.com/utahiosmac/Marshal"
+  },
+  {
+    "githubUrl": "https://github.com/mobilejazz/Motis"
+  },
+  {
+    "githubUrl": "https://github.com/bernikovich/NSTEasyJSON"
+  },
+  {
+    "githubUrl": "https://github.com/nodes-ios/Serpent"
+  },
+  {
+    "githubUrl": "https://github.com/mzaks/FlatBuffersSwift"
+  },
+  {
+    "githubUrl": "https://github.com/Otbivnoe/CodableAlamofire"
+  },
+  {
+    "githubUrl": "https://github.com/Wasappli/WAMapping"
+  },
+  {
+    "githubUrl": "https://github.com/ikesyo/Himotoki"
+  },
+  {
+    "githubUrl": "https://github.com/postmates/PMHTTP"
+  },
+  {
+    "githubUrl": "https://github.com/DimaMishchenko/NativeJSONMapper"
+  },
+  {
+    "githubUrl": "https://github.com/postmates/PMJSON"
+  },
+  {
+    "githubUrl": "https://github.com/leavez/Mappable"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AEXML"
+  },
+  {
+    "githubUrl": "https://github.com/honghaoz/Ji"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/Ono"
+  },
+  {
+    "githubUrl": "https://github.com/cezheng/Fuzi"
+  },
+  {
+    "githubUrl": "https://github.com/tid-kijyun/Kanna"
+  },
+  {
+    "githubUrl": "https://github.com/yahoojapan/SwiftyXMLParser"
+  },
+  {
+    "githubUrl": "https://github.com/iabudiab/HTMLKit"
+  },
+  {
+    "githubUrl": "https://github.com/drmohundro/SWXMLHash"
+  },
+  {
+    "githubUrl": "https://github.com/chenyunguiMilook/SwiftyXML"
+  },
+  {
+    "githubUrl": "https://github.com/MaxDesiatov/XMLCoder"
+  },
+  {
+    "githubUrl": "https://github.com/mkoehnke/WKZombie"
+  },
+  {
+    "githubUrl": "https://github.com/itsmeichigo/URLPreview"
+  },
+  {
+    "githubUrl": "https://github.com/nmdias/FeedKit"
+  },
+  {
+    "githubUrl": "https://github.com/phimage/Erik"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/URLEmbeddedView"
+  },
+  {
+    "githubUrl": "https://github.com/100mango/SwiftCssParser"
+  },
+  {
+    "githubUrl": "https://github.com/bitfwdcommunity/RLPSwift"
+  },
+  {
+    "githubUrl": "https://github.com/cats-oss/AcknowledgementsPlist"
+  },
+  {
+    "githubUrl": "https://github.com/MaxDesiatov/CoreXLSX"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/SVGView"
+  },
+  {
+    "githubUrl": "https://github.com/frozon/passbook"
+  },
+  {
+    "githubUrl": "https://github.com/nomad/dubai"
+  },
+  {
+    "githubUrl": "https://github.com/prolificinteractive/Caishen"
+  },
+  {
+    "githubUrl": "https://github.com/venmo/venmo-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/MosheBerman/PatronKit"
+  },
+  {
+    "githubUrl": "https://github.com/bizz84/SwiftyStoreKit"
+  },
+  {
+    "githubUrl": "https://github.com/sandorgyulai/InAppFramework"
+  },
+  {
+    "githubUrl": "https://github.com/suraphanL/SwiftInAppPurchase"
+  },
+  {
+    "githubUrl": "https://github.com/gabrielgarza/monza"
+  },
+  {
+    "githubUrl": "https://github.com/paypal/PayPal-iOS-SDK"
+  },
+  {
+    "githubUrl": "https://github.com/card-io/card.io-iOS-SDK"
+  },
+  {
+    "githubUrl": "https://github.com/MaxKramer/SwiftLuhn"
+  },
+  {
+    "githubUrl": "https://github.com/MaxKramer/ObjectiveLuhn"
+  },
+  {
+    "githubUrl": "https://github.com/robotmedia/RMStore"
+  },
+  {
+    "githubUrl": "https://github.com/MobileFirstInc/MFCard"
+  },
+  {
+    "githubUrl": "https://github.com/tikhop/TPInAppReceipt"
+  },
+  {
+    "githubUrl": "https://github.com/eliakorkmaz/iCard"
+  },
+  {
+    "githubUrl": "https://github.com/orazz/CreditCardForm-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/benjaminmayo/merchantkit"
+  },
+  {
+    "githubUrl": "https://github.com/lionheart/TipJarViewController"
+  },
+  {
+    "githubUrl": "https://github.com/checkout/frames-ios"
+  },
+  {
+    "githubUrl": "https://github.com/yassram/YRPayment"
+  },
+  {
+    "githubUrl": "https://github.com/netguru/AnimatedCardInput"
+  },
+  {
+    "githubUrl": "https://github.com/nixzhu/Proposer"
+  },
+  {
+    "githubUrl": "https://github.com/iosphere/ISHPermissionKit"
+  },
+  {
+    "githubUrl": "https://github.com/rsattar/ClusterPrePermissions"
+  },
+  {
+    "githubUrl": "https://github.com/delba/Permission"
+  },
+  {
+    "githubUrl": "https://github.com/SvenTiigi/STLocationRequest"
+  },
+  {
+    "githubUrl": "https://github.com/pascalbros/PAPermissions"
+  },
+  {
+    "githubUrl": "https://github.com/ennioma/arek"
+  },
+  {
+    "githubUrl": "https://github.com/ivanvorobei/SPPermissions"
+  },
+  {
+    "githubUrl": "https://github.com/ReactiveX/RxSwift"
+  },
+  {
+    "githubUrl": "https://github.com/thanegill/RxOptional"
+  },
+  {
+    "githubUrl": "https://github.com/Carthage/ReactiveTask"
+  },
+  {
+    "githubUrl": "https://github.com/ReactiveCocoa/ReactiveCocoa"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxMediaPicker"
+  },
+  {
+    "githubUrl": "https://github.com/apparentsoft/ReactiveCoreData"
+  },
+  {
+    "githubUrl": "https://github.com/ReSwift/ReSwift"
+  },
+  {
+    "githubUrl": "https://github.com/DeclarativeHub/ReactiveKit"
+  },
+  {
+    "githubUrl": "https://github.com/sunshinejr/RxPermission"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxAlamofire"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxRealm"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxMultipeer"
+  },
+  {
+    "githubUrl": "https://github.com/Polidea/RxBluetoothKit"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxGesture"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/NSObject-Rx"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxCoreData"
+  },
+  {
+    "githubUrl": "https://github.com/inamiy/RxAutomaton"
+  },
+  {
+    "githubUrl": "https://github.com/Wolox/ReactiveArray"
+  },
+  {
+    "githubUrl": "https://github.com/JensRavens/Interstellar"
+  },
+  {
+    "githubUrl": "https://github.com/lsunsi/ReduxSwift"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Aftermath"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxKeyboard"
+  },
+  {
+    "githubUrl": "https://github.com/Jasonette/JASONETTE-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/ReactiveCocoa/ReactiveSwift"
+  },
+  {
+    "githubUrl": "https://github.com/msaps/Listenable"
+  },
+  {
+    "githubUrl": "https://github.com/ReactorSwift/Reactor"
+  },
+  {
+    "githubUrl": "https://github.com/UrbanCompass/Snail"
+  },
+  {
+    "githubUrl": "https://github.com/fjcaetano/RxWebSocket"
+  },
+  {
+    "githubUrl": "https://github.com/AckeeCZ/ACKReactiveExtensions"
+  },
+  {
+    "githubUrl": "https://github.com/AckeeCZ/ReactiveLocation"
+  },
+  {
+    "githubUrl": "https://github.com/blendle/Hanson"
+  },
+  {
+    "githubUrl": "https://github.com/roberthein/Observable"
+  },
+  {
+    "githubUrl": "https://github.com/jaychang0917/SimpleApiClient-ios"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/VueFlux"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxAnimated"
+  },
+  {
+    "githubUrl": "https://github.com/electricbolt/bindkit"
+  },
+  {
+    "githubUrl": "https://github.com/stdevteam/STDevRxExt"
+  },
+  {
+    "githubUrl": "https://github.com/RxSwiftCommunity/RxReduce"
+  },
+  {
+    "githubUrl": "https://github.com/quickbirdstudios/XCoordinator"
+  },
+  {
+    "githubUrl": "https://github.com/Daltron/RxAlamoRecord"
+  },
+  {
+    "githubUrl": "https://github.com/mattgallagher/CwlSignal"
+  },
+  {
+    "githubUrl": "https://github.com/fxm90/LightweightObservable"
+  },
+  {
+    "githubUrl": "https://github.com/MaximKotliar/Bindy"
+  },
+  {
+    "githubUrl": "https://github.com/broadwaylamb/OpenCombine"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/Verge"
+  },
+  {
+    "githubUrl": "https://github.com/alexdrone/Render"
+  },
+  {
+    "githubUrl": "https://github.com/BendingSpoons/katana-swift"
+  },
+  {
+    "githubUrl": "https://github.com/mcudich/TemplateKit"
+  },
+  {
+    "githubUrl": "https://github.com/surfstudio/CoreEvents"
+  },
+  {
+    "githubUrl": "https://github.com/MaxDesiatov/Tokamak"
+  },
+  {
+    "githubUrl": "https://github.com/Zewo/Reflection"
+  },
+  {
+    "githubUrl": "https://github.com/CharlinFeng/Reflect"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/EVReflection"
+  },
+  {
+    "githubUrl": "https://github.com/johnlui/JSONNeverDie"
+  },
+  {
+    "githubUrl": "https://github.com/bradhilton/SwiftKVC"
+  },
+  {
+    "githubUrl": "https://github.com/wickwirew/Runtime"
+  },
+  {
+    "githubUrl": "https://github.com/sharplet/Regex"
+  },
+  {
+    "githubUrl": "https://github.com/kasei/SwiftRegex"
+  },
+  {
+    "githubUrl": "https://github.com/cezheng/PySwiftyRegex"
+  },
+  {
+    "githubUrl": "https://github.com/crossroadlabs/Regex"
+  },
+  {
+    "githubUrl": "https://github.com/brynbellomy/Regex"
+  },
+  {
+    "githubUrl": "https://github.com/sindresorhus/Regex"
+  },
+  {
+    "githubUrl": "https://github.com/spotify/ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/spotify/SpotifyLogin"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/facebook-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/paypal/PayPal-iOS-SDK"
+  },
+  {
+    "githubUrl": "https://github.com/Pocket/Pocket-ObjC-SDK"
+  },
+  {
+    "githubUrl": "https://github.com/tumblr/TMTumblrSDK"
+  },
+  {
+    "githubUrl": "https://github.com/evernote/evernote-cloud-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/box/box-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/OneDrive/onedrive-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/stripe/stripe-ios"
+  },
+  {
+    "githubUrl": "https://github.com/aws-amplify/aws-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/zendesk/zendesk_sdk_ios"
+  },
+  {
+    "githubUrl": "https://github.com/ResearchKit/ResearchKit"
+  },
+  {
+    "githubUrl": "https://github.com/Azure/azure-storage-ios"
+  },
+  {
+    "githubUrl": "https://github.com/AgileBits/onepassword-app-extension"
+  },
+  {
+    "githubUrl": "https://github.com/carekit-apple/CareKit"
+  },
+  {
+    "githubUrl": "https://github.com/Shopify/mobile-buy-sdk-ios"
+  },
+  {
+    "githubUrl": "https://github.com/pinterest/ios-pdk"
+  },
+  {
+    "githubUrl": "https://github.com/kaltura/playkit-ios"
+  },
+  {
+    "githubUrl": "https://github.com/algolia/algoliasearch-client-swift"
+  },
+  {
+    "githubUrl": "https://github.com/twitter-archive/twitter-kit-ios"
+  },
+  {
+    "githubUrl": "https://github.com/uber/rides-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/apphud/ApphudSDK"
+  },
+  {
+    "githubUrl": "https://github.com/adaptyteam/AdaptySDK-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/nst/STTwitter"
+  },
+  {
+    "githubUrl": "https://github.com/natesymer/FHSTwitterEngine"
+  },
+  {
+    "githubUrl": "https://github.com/heyalexchoi/Giphy-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/sachinkesiraju/UberKit"
+  },
+  {
+    "githubUrl": "https://github.com/shyambhat/InstagramKit"
+  },
+  {
+    "githubUrl": "https://github.com/agilie/dribbble-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/lukhnos/objectiveflickr"
+  },
+  {
+    "githubUrl": "https://github.com/pjebs/EasySocial"
+  },
+  {
+    "githubUrl": "https://github.com/Constantine-Fry/das-quadrat"
+  },
+  {
+    "githubUrl": "https://github.com/darkcl/SocialLib"
+  },
+  {
+    "githubUrl": "https://github.com/ContinuousLearning/PokemonKit"
+  },
+  {
+    "githubUrl": "https://github.com/timonus/TJDropbox"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/github.swift"
+  },
+  {
+    "githubUrl": "https://github.com/CloudRail/cloudrail-si-ios-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/96-problems/medium-sdk-swift"
+  },
+  {
+    "githubUrl": "https://github.com/mattdonnelly/Swifter"
+  },
+  {
+    "githubUrl": "https://github.com/pvzig/SlackKit"
+  },
+  {
+    "githubUrl": "https://github.com/dingwilson/RandomUserSwift"
+  },
+  {
+    "githubUrl": "https://github.com/pantuspavel/PPEventRegistryAPI/"
+  },
+  {
+    "githubUrl": "https://github.com/modo-studio/UnsplashKit"
+  },
+  {
+    "githubUrl": "https://github.com/mike4aday/SwiftlySalesforce"
+  },
+  {
+    "githubUrl": "https://github.com/Daltron/Spartan"
+  },
+  {
+    "githubUrl": "https://github.com/Daltron/BigBoard"
+  },
+  {
+    "githubUrl": "https://github.com/saeid/BittrexApiKit"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftyVK/SwiftyVK"
+  },
+  {
+    "githubUrl": "https://github.com/sleepdefic1t/ARKKit"
+  },
+  {
+    "githubUrl": "https://github.com/AnderGoig/SwiftInstagram"
+  },
+  {
+    "githubUrl": "https://github.com/Awalz/SwiftyArk"
+  },
+  {
+    "githubUrl": "https://github.com/CaptainYukinoshitaHachiman/PerfectSlackAPIClient"
+  },
+  {
+    "githubUrl": "https://github.com/thecb4/MotherShip"
+  },
+  {
+    "githubUrl": "https://github.com/rinov/SwiftFlyer"
+  },
+  {
+    "githubUrl": "https://github.com/kylebrowning/waterwheel.swift"
+  },
+  {
+    "githubUrl": "https://github.com/sxg/ForecastIO"
+  },
+  {
+    "githubUrl": "https://github.com/ethenyl/JamfKit"
+  },
+  {
+    "githubUrl": "https://github.com/orta/cocoapods-keys"
+  },
+  {
+    "githubUrl": "https://github.com/simple-machines/simple-touch"
+  },
+  {
+    "githubUrl": "https://github.com/yankodimitrov/SwiftPasscodeLock"
+  },
+  {
+    "githubUrl": "https://github.com/recruit-lifestyle/Smile-Lock"
+  },
+  {
+    "githubUrl": "https://github.com/dropbox/zxcvbn-ios"
+  },
+  {
+    "githubUrl": "https://github.com/Techprimate/TPObfuscatedString"
+  },
+  {
+    "githubUrl": "https://github.com/rolandleth/LTHPasscodeViewController"
+  },
+  {
+    "githubUrl": "https://github.com/karek314/iOS-App-Security-Class"
+  },
+  {
+    "githubUrl": "https://github.com/vasilenkoigor/BiometricAuth"
+  },
+  {
+    "githubUrl": "https://github.com/siavashalipour/SAPinViewController"
+  },
+  {
+    "githubUrl": "https://github.com/timoliver/TOPasscodeViewController"
+  },
+  {
+    "githubUrl": "https://github.com/rushisangani/BiometricAuthentication"
+  },
+  {
+    "githubUrl": "https://github.com/kolesa-team/ios_pinCodeTextField"
+  },
+  {
+    "githubUrl": "https://github.com/VirgilSecurity/virgil-sdk-pfs-x"
+  },
+  {
+    "githubUrl": "https://github.com/VirgilSecurity/virgil-sdk-x"
+  },
+  {
+    "githubUrl": "https://github.com/passlock/Vault"
+  },
+  {
+    "githubUrl": "https://github.com/alexruperez/SecurePropertyStorage"
+  },
+  {
+    "githubUrl": "https://github.com/Gurpartap/AESCrypt-ObjC"
+  },
+  {
+    "githubUrl": "https://github.com/iosdevzone/IDZSwiftCommonCrypto"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/Arcane"
+  },
+  {
+    "githubUrl": "https://github.com/mpurland/SwiftMD5"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/SwiftHash"
+  },
+  {
+    "githubUrl": "https://github.com/jancassio/SweetHMAC"
+  },
+  {
+    "githubUrl": "https://github.com/soyersoyer/SwCrypt"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftP2P/SwiftSSL"
+  },
+  {
+    "githubUrl": "https://github.com/TakeScoop/SwiftyRSA"
+  },
+  {
+    "githubUrl": "https://github.com/mikaoj/EnigmaKit"
+  },
+  {
+    "githubUrl": "https://github.com/cossacklabs/themis"
+  },
+  {
+    "githubUrl": "https://github.com/pjebs/Obfuscator-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/jedisct1/swift-sodium"
+  },
+  {
+    "githubUrl": "https://github.com/krzyzanowskim/CryptoSwift"
+  },
+  {
+    "githubUrl": "https://github.com/sgl0v/SCrypto"
+  },
+  {
+    "githubUrl": "https://github.com/attaswift/SipHash"
+  },
+  {
+    "githubUrl": "https://github.com/RNCryptor/RNCryptor"
+  },
+  {
+    "githubUrl": "https://github.com/ImKcat/CatCrypto"
+  },
+  {
+    "githubUrl": "https://github.com/trailofbits/SecureEnclaveCrypto"
+  },
+  {
+    "githubUrl": "https://github.com/4taras4/RSASwiftGenerator"
+  },
+  {
+    "githubUrl": "https://github.com/VirgilSecurity/virgil-crypto-x"
+  },
+  {
+    "githubUrl": "https://github.com/airsidemobile/JOSESwift"
+  },
+  {
+    "githubUrl": "https://github.com/kishikawakatsumi/UICKeyChainStore"
+  },
+  {
+    "githubUrl": "https://github.com/square/Valet"
+  },
+  {
+    "githubUrl": "https://github.com/matthewpalmer/Locksmith"
+  },
+  {
+    "githubUrl": "https://github.com/kishikawakatsumi/KeychainAccess"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Keychains"
+  },
+  {
+    "githubUrl": "https://github.com/granoff/Lockbox"
+  },
+  {
+    "githubUrl": "https://github.com/soffes/SAMKeychain"
+  },
+  {
+    "githubUrl": "https://github.com/jrendel/SwiftKeychainWrapper"
+  },
+  {
+    "githubUrl": "https://github.com/andriyslyusar/SwiftyKeychainKit"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectlySoft/Perfect"
+  },
+  {
+    "githubUrl": "https://github.com/httpswift/swifter"
+  },
+  {
+    "githubUrl": "https://github.com/robbiehanson/CocoaHTTPServer"
+  },
+  {
+    "githubUrl": "https://github.com/kylef-archive/Curassow"
+  },
+  {
+    "githubUrl": "https://github.com/Zewo/Zewo"
+  },
+  {
+    "githubUrl": "https://github.com/vapor/vapor"
+  },
+  {
+    "githubUrl": "https://github.com/takebayashi/swiftra"
+  },
+  {
+    "githubUrl": "https://github.com/elliottminns/blackfire"
+  },
+  {
+    "githubUrl": "https://github.com/huytd/swift-http"
+  },
+  {
+    "githubUrl": "https://github.com/Yoseob/Trevi"
+  },
+  {
+    "githubUrl": "https://github.com/crossroadlabs/Express"
+  },
+  {
+    "githubUrl": "https://github.com/izqui/Taylor"
+  },
+  {
+    "githubUrl": "https://github.com/kylef-archive/Frank"
+  },
+  {
+    "githubUrl": "https://github.com/IBM-Swift/Kitura"
+  },
+  {
+    "githubUrl": "https://github.com/sauliusgrigaitis/Swifton"
+  },
+  {
+    "githubUrl": "https://github.com/johnno1962/Dynamo"
+  },
+  {
+    "githubUrl": "https://github.com/vapor/redis"
+  },
+  {
+    "githubUrl": "https://github.com/colemancda/NetworkObjects"
+  },
+  {
+    "githubUrl": "https://github.com/skylab-inc/Lightning"
+  },
+  {
+    "githubUrl": "https://github.com/twostraws/swiftgd"
+  },
+  {
+    "githubUrl": "https://github.com/BrettRToomey/Jobs"
+  },
+  {
+    "githubUrl": "https://github.com/ApacheExpress/ApacheExpress"
+  },
+  {
+    "githubUrl": "https://github.com/swisspol/GCDWebServer"
+  },
+  {
+    "githubUrl": "https://github.com/envoy/Embassy"
+  },
+  {
+    "githubUrl": "https://github.com/amzn/smoke-framework"
+  },
+  {
+    "githubUrl": "https://github.com/twitter/twitter-text"
+  },
+  {
+    "githubUrl": "https://github.com/jverkoey/nimbus"
+  },
+  {
+    "githubUrl": "https://github.com/diy/nsstringemojize"
+  },
+  {
+    "githubUrl": "https://github.com/mdiep/MMMarkdown"
+  },
+  {
+    "githubUrl": "https://github.com/Cocoanetics/DTCoreText"
+  },
+  {
+    "githubUrl": "https://github.com/Cocoanetics/DTRichTextEditor"
+  },
+  {
+    "githubUrl": "https://github.com/neerajbaid/NBEmojiSearchView"
+  },
+  {
+    "githubUrl": "https://github.com/joshualat/Pluralize.swift"
+  },
+  {
+    "githubUrl": "https://github.com/cjwirth/RichEditorView"
+  },
+  {
+    "githubUrl": "https://github.com/danthorpe/Money"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/PhoneNumberKit"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYText"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/Format"
+  },
+  {
+    "githubUrl": "https://github.com/zats/Tribute"
+  },
+  {
+    "githubUrl": "https://github.com/dasmer/EmojiKit"
+  },
+  {
+    "githubUrl": "https://github.com/nvzqz/Roman"
+  },
+  {
+    "githubUrl": "https://github.com/nnhubbard/ZSSRichTextEditor"
+  },
+  {
+    "githubUrl": "https://github.com/Cee/pangu.objective-c"
+  },
+  {
+    "githubUrl": "https://github.com/amayne/SwiftString"
+  },
+  {
+    "githubUrl": "https://github.com/macteo/Marklight"
+  },
+  {
+    "githubUrl": "https://github.com/indragiek/MarkdownTextView"
+  },
+  {
+    "githubUrl": "https://github.com/delba/TextAttributes"
+  },
+  {
+    "githubUrl": "https://github.com/fdzsergio/Reductio"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftStudies/SmarkDown"
+  },
+  {
+    "githubUrl": "https://github.com/SimonFairbairn/SwiftyMarkdown"
+  },
+  {
+    "githubUrl": "https://github.com/szweier/SZMentions"
+  },
+  {
+    "githubUrl": "https://github.com/szweier/SZMentionsSwift"
+  },
+  {
+    "githubUrl": "https://github.com/henrinormak/Heimdall"
+  },
+  {
+    "githubUrl": "https://github.com/T-Pham/NoOptionalInterpolation"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/Smile"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/iso8601"
+  },
+  {
+    "githubUrl": "https://github.com/Ekhoo/Translucid"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/FormatterKit"
+  },
+  {
+    "githubUrl": "https://github.com/Rightpoint/BonMot"
+  },
+  {
+    "githubUrl": "https://github.com/gkaimakas/SwiftValidators"
+  },
+  {
+    "githubUrl": "https://github.com/kazuhiro4949/StringStylizer"
+  },
+  {
+    "githubUrl": "https://github.com/eddiekaiger/SwiftyAttributes"
+  },
+  {
+    "githubUrl": "https://github.com/bmoliveira/MarkdownKit"
+  },
+  {
+    "githubUrl": "https://github.com/indragiek/CocoaMarkdown"
+  },
+  {
+    "githubUrl": "https://github.com/ruddfawcett/Notepad"
+  },
+  {
+    "githubUrl": "https://github.com/krizhanovskii/KKStringValidator"
+  },
+  {
+    "githubUrl": "https://github.com/Cosmo/ISO8859"
+  },
+  {
+    "githubUrl": "https://github.com/xoudini/emojica"
+  },
+  {
+    "githubUrl": "https://github.com/twitter/twemoji"
+  },
+  {
+    "githubUrl": "https://github.com/joypixels/emojione"
+  },
+  {
+    "githubUrl": "https://github.com/malcommac/SwiftRichString"
+  },
+  {
+    "githubUrl": "https://github.com/iziz/libPhoneNumber-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/AttributedTextView"
+  },
+  {
+    "githubUrl": "https://github.com/dimpiax/StyleDecorator"
+  },
+  {
+    "githubUrl": "https://github.com/mathewsanders/Mustard"
+  },
+  {
+    "githubUrl": "https://github.com/RedMadRobot/input-mask-ios"
+  },
+  {
+    "githubUrl": "https://github.com/Nirma/Attributed"
+  },
+  {
+    "githubUrl": "https://github.com/psharanda/Atributika"
+  },
+  {
+    "githubUrl": "https://github.com/ArtSabintsev/Guitar"
+  },
+  {
+    "githubUrl": "https://github.com/kaiomedau/realtime-currency-formatter-objc"
+  },
+  {
+    "githubUrl": "https://github.com/iwasrobbed/Down"
+  },
+  {
+    "githubUrl": "https://github.com/m2mobi/Marky-Mark"
+  },
+  {
+    "githubUrl": "https://github.com/keitaoouchi/MarkdownView"
+  },
+  {
+    "githubUrl": "https://github.com/younatics/Highlighter"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/Sprinter"
+  },
+  {
+    "githubUrl": "https://github.com/raspu/Highlightr"
+  },
+  {
+    "githubUrl": "https://github.com/krisk/fuse-swift"
+  },
+  {
+    "githubUrl": "https://github.com/EFPrefix/EFMarkdown"
+  },
+  {
+    "githubUrl": "https://github.com/jkalash/croc"
+  },
+  {
+    "githubUrl": "https://github.com/FormatterKit/PostalCodeValidator"
+  },
+  {
+    "githubUrl": "https://github.com/ProxymanApp/CodeMirror-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/twitter/TwitterTextEditor"
+  },
+  {
+    "githubUrl": "https://github.com/ArtSabintsev/FontBlaster"
+  },
+  {
+    "githubUrl": "https://github.com/kitasuke/GoogleMaterialIconFont"
+  },
+  {
+    "githubUrl": "https://github.com/alexdrone/ios-fontawesome"
+  },
+  {
+    "githubUrl": "https://github.com/thii/FontAwesome.swift"
+  },
+  {
+    "githubUrl": "https://github.com/morizotter/SwiftFontName"
+  },
+  {
+    "githubUrl": "https://github.com/0x73/SwiftIconFont"
+  },
+  {
+    "githubUrl": "https://github.com/PrideChung/FontAwesomeKit"
+  },
+  {
+    "githubUrl": "https://github.com/home-assistant/Iconic"
+  },
+  {
+    "githubUrl": "https://github.com/dekatotoro/GoogleMaterialDesignIcons"
+  },
+  {
+    "githubUrl": "https://github.com/keitaoouchi/OcticonsKit"
+  },
+  {
+    "githubUrl": "https://github.com/keitaoouchi/IoniconsKit"
+  },
+  {
+    "githubUrl": "https://github.com/qiuncheng/FontAwesomeKit.Swift"
+  },
+  {
+    "githubUrl": "https://github.com/Nirma/UIFontComplete"
+  },
+  {
+    "githubUrl": "https://github.com/UglyTroLL/Swicon"
+  },
+  {
+    "githubUrl": "https://github.com/ranesr/SwiftIcons"
+  },
+  {
+    "githubUrl": "https://github.com/Vaberer/Font-Awesome-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/josejuanqm/JQSwiftIcon"
+  },
+  {
+    "githubUrl": "https://github.com/Flight-School/Money"
+  },
+  {
+    "githubUrl": "https://github.com/kiwi-bdd/Kiwi"
+  },
+  {
+    "githubUrl": "https://github.com/specta/specta"
+  },
+  {
+    "githubUrl": "https://github.com/Quick/Quick"
+  },
+  {
+    "githubUrl": "https://github.com/jonreid/XcodeCoverage"
+  },
+  {
+    "githubUrl": "https://github.com/AliSoftware/OHHTTPStubs"
+  },
+  {
+    "githubUrl": "https://github.com/Skyscanner/Dixie"
+  },
+  {
+    "githubUrl": "https://github.com/gh-unit/gh-unit"
+  },
+  {
+    "githubUrl": "https://github.com/Quick/Nimble"
+  },
+  {
+    "githubUrl": "https://github.com/railsware/Sleipnir"
+  },
+  {
+    "githubUrl": "https://github.com/typelift/SwiftCheck"
+  },
+  {
+    "githubUrl": "https://github.com/Quick/Spry"
+  },
+  {
+    "githubUrl": "https://github.com/apple/swift-corelibs-xctest"
+  },
+  {
+    "githubUrl": "https://github.com/WhiskerzAB/PlaygroundTDD"
+  },
+  {
+    "githubUrl": "https://github.com/KeepSafe/Switchboard"
+  },
+  {
+    "githubUrl": "https://github.com/mattt/SkyLab"
+  },
+  {
+    "githubUrl": "https://github.com/mindsnacks/MSActiveConfig"
+  },
+  {
+    "githubUrl": "https://github.com/recruit-mp/ABKit"
+  },
+  {
+    "githubUrl": "https://github.com/serhatbolsu/robotframework-appiumlibrary"
+  },
+  {
+    "githubUrl": "https://github.com/kif-framework/KIF"
+  },
+  {
+    "githubUrl": "https://github.com/inkling/Subliminal"
+  },
+  {
+    "githubUrl": "https://github.com/johnno1962/Remote"
+  },
+  {
+    "githubUrl": "https://github.com/linkedin/LayoutTest-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/google/EarlGrey"
+  },
+  {
+    "githubUrl": "https://github.com/joemasilotti/UI-Testing-Cheat-Sheet"
+  },
+  {
+    "githubUrl": "https://github.com/linkedin/bluepill"
+  },
+  {
+    "githubUrl": "https://github.com/morizotter/TouchVisualizer"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/UITestHelper"
+  },
+  {
+    "githubUrl": "https://github.com/nalexn/ViewInspector"
+  },
+  {
+    "githubUrl": "https://github.com/PGSSoft/AutoMate"
+  },
+  {
+    "githubUrl": "https://github.com/Palleas/NaughtyKeyboard"
+  },
+  {
+    "githubUrl": "https://github.com/vadymmarkov/Fakery"
+  },
+  {
+    "githubUrl": "https://github.com/venmo/DVR"
+  },
+  {
+    "githubUrl": "https://github.com/Brightify/Cuckoo"
+  },
+  {
+    "githubUrl": "https://github.com/Velhotes/Vinyl"
+  },
+  {
+    "githubUrl": "https://github.com/sabirvirtuoso/Mockit"
+  },
+  {
+    "githubUrl": "https://github.com/maxsokolov/Cribble"
+  },
+  {
+    "githubUrl": "https://github.com/ashfurrow/second_curtain"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane-community/trainer"
+  },
+  {
+    "githubUrl": "https://github.com/buildasaurs/Buildasaur"
+  },
+  {
+    "githubUrl": "https://github.com/devlucky/Kakapo"
+  },
+  {
+    "githubUrl": "https://github.com/bizz84/AcceptanceMark"
+  },
+  {
+    "githubUrl": "https://github.com/metova/MetovaTestKit"
+  },
+  {
+    "githubUrl": "https://github.com/Kuniwak/MirrorDiffKit"
+  },
+  {
+    "githubUrl": "https://github.com/tooploox/SnappyTestCase"
+  },
+  {
+    "githubUrl": "https://github.com/shindyu/XCTestExtensions"
+  },
+  {
+    "githubUrl": "https://github.com/kylef/Mockingjay"
+  },
+  {
+    "githubUrl": "https://github.com/Lickability/PinpointKit"
+  },
+  {
+    "githubUrl": "https://github.com/uber/ios-snapshot-test-case"
+  },
+  {
+    "githubUrl": "https://github.com/andreadelfante/DataFixture"
+  },
+  {
+    "githubUrl": "https://github.com/pointfreeco/swift-snapshot-testing"
+  },
+  {
+    "githubUrl": "https://github.com/Farfetch/mockingbird"
+  },
+  {
+    "githubUrl": "https://github.com/erichoracek/Motif"
+  },
+  {
+    "githubUrl": "https://github.com/TextureGroup/Texture"
+  },
+  {
+    "githubUrl": "https://github.com/skywinder/GaugeKit"
+  },
+  {
+    "githubUrl": "https://github.com/nicklockwood/iCarousel"
+  },
+  {
+    "githubUrl": "https://github.com/kciter/HorizontalDial"
+  },
+  {
+    "githubUrl": "https://github.com/cwRichardKim/RKNotificationHub"
+  },
+  {
+    "githubUrl": "https://github.com/hughbe/phone-number-picker"
+  },
+  {
+    "githubUrl": "https://github.com/Boris-Em/BEMCheckBox#sample-app"
+  },
+  {
+    "githubUrl": "https://github.com/DroidsOnRoids/MPParallaxView"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/Splitflap"
+  },
+  {
+    "githubUrl": "https://github.com/goktugyil/EZSwipeController"
+  },
+  {
+    "githubUrl": "https://github.com/devinross/curry"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Pages"
+  },
+  {
+    "githubUrl": "https://github.com/antiguab/BAFluidView"
+  },
+  {
+    "githubUrl": "https://github.com/wongzigii/WZDraggableSwitchHeaderView"
+  },
+  {
+    "githubUrl": "https://github.com/SergioChan/SCTrelloNavigation"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Spots"
+  },
+  {
+    "githubUrl": "https://github.com/Azuritul/AZExpandableIconListView"
+  },
+  {
+    "githubUrl": "https://github.com/thinkclay/FlourishUI"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/navigation-stack"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/UIView-draggable"
+  },
+  {
+    "githubUrl": "https://github.com/ipraba/EPSignature"
+  },
+  {
+    "githubUrl": "https://github.com/evermeer/EVFaceTracker"
+  },
+  {
+    "githubUrl": "https://github.com/wangshengjia/LeeGo"
+  },
+  {
+    "githubUrl": "https://github.com/manuelescrig/MEVHorizontalContacts"
+  },
+  {
+    "githubUrl": "https://github.com/efremidze/VisualEffectView"
+  },
+  {
+    "githubUrl": "https://github.com/PureSwift/Cacao"
+  },
+  {
+    "githubUrl": "https://github.com/calimarkus/JDFlipNumberView"
+  },
+  {
+    "githubUrl": "https://github.com/agordeev/DCKit"
+  },
+  {
+    "githubUrl": "https://github.com/Guzlan/BackgroundVideoiOS"
+  },
+  {
+    "githubUrl": "https://github.com/Draveness/NightNight"
+  },
+  {
+    "githubUrl": "https://github.com/wxxsw/SwiftTheme"
+  },
+  {
+    "githubUrl": "https://github.com/forkingdog/FDStackView"
+  },
+  {
+    "githubUrl": "https://github.com/CosmicMind/Material"
+  },
+  {
+    "githubUrl": "https://github.com/qmathe/DistancePicker"
+  },
+  {
+    "githubUrl": "https://github.com/nsomar/OAStackView"
+  },
+  {
+    "githubUrl": "https://github.com/hirohisa/PageController"
+  },
+  {
+    "githubUrl": "https://github.com/mariohahn/StatusProvider"
+  },
+  {
+    "githubUrl": "https://github.com/bridger/StackLayout"
+  },
+  {
+    "githubUrl": "https://github.com/Boris-Em/NightView"
+  },
+  {
+    "githubUrl": "https://github.com/dingwilson/SwiftVideoBackground"
+  },
+  {
+    "githubUrl": "https://github.com/OrRon/ConfettiView"
+  },
+  {
+    "githubUrl": "https://github.com/BohdanOrlov/BouncyPageViewController"
+  },
+  {
+    "githubUrl": "https://github.com/rolandleth/LTHRadioButton"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/Macaw-Examples"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/Reactions"
+  },
+  {
+    "githubUrl": "https://github.com/dhirajjadhao/Newly"
+  },
+  {
+    "githubUrl": "https://github.com/jobandtalent/CardStackController"
+  },
+  {
+    "githubUrl": "https://github.com/material-components/material-components-ios"
+  },
+  {
+    "githubUrl": "https://github.com/mukeshthawani/FAQView"
+  },
+  {
+    "githubUrl": "https://github.com/lucamozza/LMArticleViewController"
+  },
+  {
+    "githubUrl": "https://github.com/WenchaoD/FSPagerView"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/elongation-preview"
+  },
+  {
+    "githubUrl": "https://github.com/uias/Pageboy"
+  },
+  {
+    "githubUrl": "https://github.com/iGenius-Srl/IGColorPicker"
+  },
+  {
+    "githubUrl": "https://github.com/khuong291/KPActionSheet"
+  },
+  {
+    "githubUrl": "https://github.com/D-32/SegmentedProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/efremidze/Magnetic"
+  },
+  {
+    "githubUrl": "https://github.com/GlebRadchenko/AmazingBubbles"
+  },
+  {
+    "githubUrl": "https://github.com/efremidze/Haptica"
+  },
+  {
+    "githubUrl": "https://github.com/saeid/GDCheckbox"
+  },
+  {
+    "githubUrl": "https://github.com/Howardw3/HamsterUIKit"
+  },
+  {
+    "githubUrl": "https://github.com/Minitour/AZEmptyState"
+  },
+  {
+    "githubUrl": "https://github.com/jegumhon/URWeatherView"
+  },
+  {
+    "githubUrl": "https://github.com/linhcn/LCUIComponents"
+  },
+  {
+    "githubUrl": "https://github.com/Sajjon/ViewComposer"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/BatteryView"
+  },
+  {
+    "githubUrl": "https://github.com/PierrePerrin/ShadowView"
+  },
+  {
+    "githubUrl": "https://github.com/52inc/Pulley"
+  },
+  {
+    "githubUrl": "https://github.com/n8iveapps/N8iveKit"
+  },
+  {
+    "githubUrl": "https://github.com/wordlessj/Panda"
+  },
+  {
+    "githubUrl": "https://github.com/HarshilShah/NotchKit"
+  },
+  {
+    "githubUrl": "https://github.com/TintPoint/Overlay"
+  },
+  {
+    "githubUrl": "https://github.com/haoking/SwiftyUI"
+  },
+  {
+    "githubUrl": "https://github.com/AFathi/NotchToolkit"
+  },
+  {
+    "githubUrl": "https://github.com/MarioIannotta/PullUpController"
+  },
+  {
+    "githubUrl": "https://github.com/babylonhealth/DrawerKit"
+  },
+  {
+    "githubUrl": "https://github.com/aaronjsutton/Shades"
+  },
+  {
+    "githubUrl": "https://github.com/Interactive-Studio/ISPageControl"
+  },
+  {
+    "githubUrl": "https://github.com/oney/Mixin"
+  },
+  {
+    "githubUrl": "https://github.com/efremidze/Shiny"
+  },
+  {
+    "githubUrl": "https://github.com/seedco/StackViewController"
+  },
+  {
+    "githubUrl": "https://github.com/uber/UberSignature"
+  },
+  {
+    "githubUrl": "https://github.com/startry/SwViewCapture"
+  },
+  {
+    "githubUrl": "https://github.com/HamzaGhazouani/HGRippleRadarView"
+  },
+  {
+    "githubUrl": "https://github.com/saeid/GDGauge"
+  },
+  {
+    "githubUrl": "https://github.com/Stunner/STAControls"
+  },
+  {
+    "githubUrl": "https://github.com/shindyu/ApplyStyleKit"
+  },
+  {
+    "githubUrl": "https://github.com/applidium/OverlayContainer"
+  },
+  {
+    "githubUrl": "https://github.com/Baddaboo/ClassicKit"
+  },
+  {
+    "githubUrl": "https://github.com/MoveUpwards/Sejima"
+  },
+  {
+    "githubUrl": "https://github.com/OfficeDev/ui-fabric-ios"
+  },
+  {
+    "githubUrl": "https://github.com/ninjaprox/NVActivityIndicatorView"
+  },
+  {
+    "githubUrl": "https://github.com/naoyashiga/RPLoadingAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/yoavlt/LiquidLoader"
+  },
+  {
+    "githubUrl": "https://github.com/CardinalNow/iOS-CircleProgressView"
+  },
+  {
+    "githubUrl": "https://github.com/Eclair/CircleProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/PhilippeBoisney/LinearProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/saitjr/STLoadingGroup"
+  },
+  {
+    "githubUrl": "https://github.com/AlexLittlejohn/ALThreeCircleSpinner"
+  },
+  {
+    "githubUrl": "https://github.com/mehfuzh/MHRadialProgressView"
+  },
+  {
+    "githubUrl": "https://github.com/Ekhoo/Loader"
+  },
+  {
+    "githubUrl": "https://github.com/jdg/MBProgressHUD"
+  },
+  {
+    "githubUrl": "https://github.com/SVProgressHUD/SVProgressHUD"
+  },
+  {
+    "githubUrl": "https://github.com/relatedcode/ProgressHUD"
+  },
+  {
+    "githubUrl": "https://github.com/Marxon13/M13ProgressSuite"
+  },
+  {
+    "githubUrl": "https://github.com/pkluz/PKHUD"
+  },
+  {
+    "githubUrl": "https://github.com/goktugyil/EZLoadingActivity"
+  },
+  {
+    "githubUrl": "https://github.com/elbryan/FFCircularProgressView"
+  },
+  {
+    "githubUrl": "https://github.com/mrackwitz/MRProgress"
+  },
+  {
+    "githubUrl": "https://github.com/marcelofabri/BigBrother"
+  },
+  {
+    "githubUrl": "https://github.com/Alamofire/AlamofireNetworkActivityIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/kaandedeoglu/KDCircularProgress"
+  },
+  {
+    "githubUrl": "https://github.com/danielamitay/DACircularProgress"
+  },
+  {
+    "githubUrl": "https://github.com/ykyouhei/KYNavigationProgress"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/GearRefreshControl"
+  },
+  {
+    "githubUrl": "https://github.com/ninjinkun/NJKWebViewProgress"
+  },
+  {
+    "githubUrl": "https://github.com/maxkonovalov/MKRingProgressView"
+  },
+  {
+    "githubUrl": "https://github.com/gautier-gdx/Hexacon"
+  },
+  {
+    "githubUrl": "https://github.com/BalestraPatrick/ParticlesLoadingView"
+  },
+  {
+    "githubUrl": "https://github.com/iwasrobbed/RPCircularProgress"
+  },
+  {
+    "githubUrl": "https://github.com/MatiBot/MBCircularProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/devSC/WSProgressHUD"
+  },
+  {
+    "githubUrl": "https://github.com/dabing1022/DBMetaballLoading"
+  },
+  {
+    "githubUrl": "https://github.com/polqf/FillableLoaders"
+  },
+  {
+    "githubUrl": "https://github.com/xxxAIRINxxx/VHUD"
+  },
+  {
+    "githubUrl": "https://github.com/icanzilb/SwiftSpinner"
+  },
+  {
+    "githubUrl": "https://github.com/andresinaka/SnapTimer"
+  },
+  {
+    "githubUrl": "https://github.com/alephao/LLSpinner"
+  },
+  {
+    "githubUrl": "https://github.com/kirankunigiri/SVUploader"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/YLProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/amratab/FlexibleSteppedProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/fxm90/GradientLoadingBar"
+  },
+  {
+    "githubUrl": "https://github.com/DholStudio/DSGradientProgressView"
+  },
+  {
+    "githubUrl": "https://github.com/fxm90/GradientProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/ppth0608/BPCircleActivityIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/nikola9core/DottedProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/roytornado/RSLoadingView"
+  },
+  {
+    "githubUrl": "https://github.com/LeonardoCardoso/SendIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/StepProgressView"
+  },
+  {
+    "githubUrl": "https://github.com/ppth0608/BPBlockActivityIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/jamesdouble/JDBreaksLoading"
+  },
+  {
+    "githubUrl": "https://github.com/Juanpe/SkeletonView"
+  },
+  {
+    "githubUrl": "https://github.com/Interactive-Studio/Windless"
+  },
+  {
+    "githubUrl": "https://github.com/gonzalonunez/Skeleton"
+  },
+  {
+    "githubUrl": "https://github.com/IdleHandsApps/StatusBarOverlay"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/RetroProgress"
+  },
+  {
+    "githubUrl": "https://github.com/Recouse/LinearProgressBar"
+  },
+  {
+    "githubUrl": "https://github.com/kamirana4/MKProgress"
+  },
+  {
+    "githubUrl": "https://github.com/robertherdzik/RHPlaceholder"
+  },
+  {
+    "githubUrl": "https://github.com/Swiftify-Corp/IHProgressHUD"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/ActivityIndicatorView"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/pop"
+  },
+  {
+    "githubUrl": "https://github.com/intuit/AnimationEngine"
+  },
+  {
+    "githubUrl": "https://github.com/Rightpoint/RZTransitions"
+  },
+  {
+    "githubUrl": "https://github.com/daltoniam/DCAnimationKit"
+  },
+  {
+    "githubUrl": "https://github.com/MengTo/Spring"
+  },
+  {
+    "githubUrl": "https://github.com/matthewcheok/Fluent"
+  },
+  {
+    "githubUrl": "https://github.com/suguru/Cheetah"
+  },
+  {
+    "githubUrl": "https://github.com/hossamghareeb/Facebook-POP-Tutorial"
+  },
+  {
+    "githubUrl": "https://github.com/icanzilb/EasyAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/eure/Animo"
+  },
+  {
+    "githubUrl": "https://github.com/devinross/curry-fire"
+  },
+  {
+    "githubUrl": "https://github.com/IBAnimatable/IBAnimatable"
+  },
+  {
+    "githubUrl": "https://github.com/CezaryKopacz/CKWaveCollectionViewTransition"
+  },
+  {
+    "githubUrl": "https://github.com/alikaragoz/DaisyChain"
+  },
+  {
+    "githubUrl": "https://github.com/shu223/PulsingHalo"
+  },
+  {
+    "githubUrl": "https://github.com/Draveness/DKChainableAnimationKit"
+  },
+  {
+    "githubUrl": "https://github.com/JellyDevelopment/JDAnimationKit"
+  },
+  {
+    "githubUrl": "https://github.com/timdonnelly/Advance"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/UIView-Shake"
+  },
+  {
+    "githubUrl": "https://github.com/RamonGilabert/Walker"
+  },
+  {
+    "githubUrl": "https://github.com/RamonGilabert/Morgan"
+  },
+  {
+    "githubUrl": "https://github.com/patrickreynolds/MagicMove"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/Shimmer"
+  },
+  {
+    "githubUrl": "https://github.com/sudeepag/SAConfettiView"
+  },
+  {
+    "githubUrl": "https://github.com/cacmartinez/CCMRadarView"
+  },
+  {
+    "githubUrl": "https://github.com/shu223/Pulsator"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/Interpolate"
+  },
+  {
+    "githubUrl": "https://github.com/Antondomashnev/ADPuzzleAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/Wave"
+  },
+  {
+    "githubUrl": "https://github.com/AugustRush/Stellar"
+  },
+  {
+    "githubUrl": "https://github.com/poetmountain/MotionMachine"
+  },
+  {
+    "githubUrl": "https://github.com/carleihar/JRMFloatingAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/fastred/AHKBendableView"
+  },
+  {
+    "githubUrl": "https://github.com/AntonTheDev/FlightAnimator"
+  },
+  {
+    "githubUrl": "https://github.com/WorldDownTown/ZoomTransitioning"
+  },
+  {
+    "githubUrl": "https://github.com/RobinFalko/Ubergang"
+  },
+  {
+    "githubUrl": "https://github.com/jhurray/JHChainableAnimations"
+  },
+  {
+    "githubUrl": "https://github.com/DavdRoman/Popsicle"
+  },
+  {
+    "githubUrl": "https://github.com/WelkinXie/WXWaveView"
+  },
+  {
+    "githubUrl": "https://github.com/piemonte/Twinkle"
+  },
+  {
+    "githubUrl": "https://github.com/fastred/MotionBlur"
+  },
+  {
+    "githubUrl": "https://github.com/alsedi/RippleEffectView"
+  },
+  {
+    "githubUrl": "https://github.com/rchatham/SwiftyAnimate"
+  },
+  {
+    "githubUrl": "https://github.com/hachinobu/SamuraiTransition"
+  },
+  {
+    "githubUrl": "https://github.com/airbnb/lottie-ios"
+  },
+  {
+    "githubUrl": "https://github.com/onurersel/anim"
+  },
+  {
+    "githubUrl": "https://github.com/KelvinJin/AnimatedCollectionViewLayout"
+  },
+  {
+    "githubUrl": "https://github.com/saoudrizwan/Dance"
+  },
+  {
+    "githubUrl": "https://github.com/numen31337/AKVideoImageView"
+  },
+  {
+    "githubUrl": "https://github.com/willowtreeapps/spruce-ios"
+  },
+  {
+    "githubUrl": "https://github.com/T-Pro/CircularRevealKit"
+  },
+  {
+    "githubUrl": "https://github.com/SteveBarnegren/TweenKit"
+  },
+  {
+    "githubUrl": "https://github.com/KrisYu/Water"
+  },
+  {
+    "githubUrl": "https://github.com/cruisediary/Pastel"
+  },
+  {
+    "githubUrl": "https://github.com/yapstudios/YapAnimator"
+  },
+  {
+    "githubUrl": "https://github.com/goldmoment/Bubble"
+  },
+  {
+    "githubUrl": "https://github.com/shoheiyokoyama/Gemini"
+  },
+  {
+    "githubUrl": "https://github.com/LeFal/WaterDrops"
+  },
+  {
+    "githubUrl": "https://github.com/marcosgriselli/ViewAnimator"
+  },
+  {
+    "githubUrl": "https://github.com/roberthein/Ease"
+  },
+  {
+    "githubUrl": "https://github.com/mmick66/kinieta"
+  },
+  {
+    "githubUrl": "https://github.com/Lision/LSAnimator"
+  },
+  {
+    "githubUrl": "https://github.com/lkzhao/YetAnotherAnimationLibrary"
+  },
+  {
+    "githubUrl": "https://github.com/satoshin21/Anima"
+  },
+  {
+    "githubUrl": "https://github.com/lkzhao/MotionAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/agilie/AGInterfaceInteraction"
+  },
+  {
+    "githubUrl": "https://github.com/poetmountain/PMTween"
+  },
+  {
+    "githubUrl": "https://github.com/artrmz/VariousViewsEffects"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/TheAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/HideakiTouhara/Poi"
+  },
+  {
+    "githubUrl": "https://github.com/cats-oss/Sica"
+  },
+  {
+    "githubUrl": "https://github.com/tomkowz/fireworks"
+  },
+  {
+    "githubUrl": "https://github.com/dbukowski/Disintegrate"
+  },
+  {
+    "githubUrl": "https://github.com/sagaya/wobbly"
+  },
+  {
+    "githubUrl": "https://github.com/jogendra/LoadingShimmer"
+  },
+  {
+    "githubUrl": "https://github.com/ivanvorobei/SPPerspective"
+  },
+  {
+    "githubUrl": "https://github.com/Citrrus/BlurryModalSegue"
+  },
+  {
+    "githubUrl": "https://github.com/ifitdoesntwork/DAExpandAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/BubbleTransition"
+  },
+  {
+    "githubUrl": "https://github.com/naoyashiga/RPModalGestureTransition"
+  },
+  {
+    "githubUrl": "https://github.com/recruit-mp/RMPZoomTransitionAnimator"
+  },
+  {
+    "githubUrl": "https://github.com/lkzhao/ElasticTransition"
+  },
+  {
+    "githubUrl": "https://github.com/taglia3/ElasticTransition-ObjC"
+  },
+  {
+    "githubUrl": "https://github.com/zoonooz/ZFDragableModalTransition"
+  },
+  {
+    "githubUrl": "https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition"
+  },
+  {
+    "githubUrl": "https://github.com/jonathantribouharet/JTMaterialTransition"
+  },
+  {
+    "githubUrl": "https://github.com/shu223/AnimatedTransitionGallery"
+  },
+  {
+    "githubUrl": "https://github.com/DianQK/TransitionTreasury"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/Presenter"
+  },
+  {
+    "githubUrl": "https://github.com/bannzai/Kaeru"
+  },
+  {
+    "githubUrl": "https://github.com/naru-jpn/View2ViewTransition"
+  },
+  {
+    "githubUrl": "https://github.com/azimin/AZTransitions"
+  },
+  {
+    "githubUrl": "https://github.com/HeroTransitions/Hero"
+  },
+  {
+    "githubUrl": "https://github.com/CosmicMind/Motion"
+  },
+  {
+    "githubUrl": "https://github.com/jessesquires/PresenterKit"
+  },
+  {
+    "githubUrl": "https://github.com/Touchwonders/Transition"
+  },
+  {
+    "githubUrl": "https://github.com/Boerworz/Gagat"
+  },
+  {
+    "githubUrl": "https://github.com/HarshilShah/DeckTransition"
+  },
+  {
+    "githubUrl": "https://github.com/ParkGwangBeom/TransitionableTab"
+  },
+  {
+    "githubUrl": "https://github.com/loopeer/AlertTransition"
+  },
+  {
+    "githubUrl": "https://github.com/muyexi/SemiModalViewController"
+  },
+  {
+    "githubUrl": "https://github.com/shtnkgm/ImageTransition"
+  },
+  {
+    "githubUrl": "https://github.com/AlexandrGraschenkov/LiquidTransition"
+  },
+  {
+    "githubUrl": "https://github.com/IvanVorobei/SPStorkController"
+  },
+  {
+    "githubUrl": "https://github.com/appssemble/appstore-card-transition"
+  },
+  {
+    "githubUrl": "https://github.com/nugmanoff/DropdownTransition"
+  },
+  {
+    "githubUrl": "https://github.com/codestergit/SweetAlert-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/nealyoung/NYAlertViewController"
+  },
+  {
+    "githubUrl": "https://github.com/vikmeup/SCLAlertView-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/zekunyan/TTGSnackbar"
+  },
+  {
+    "githubUrl": "https://github.com/GabrielAlva/Swift-Prompts"
+  },
+  {
+    "githubUrl": "https://github.com/bryx-inc/BRYXBanner"
+  },
+  {
+    "githubUrl": "https://github.com/LISNR/LNRSimpleNotifications"
+  },
+  {
+    "githubUrl": "https://github.com/nhdang103/HDNotificationView"
+  },
+  {
+    "githubUrl": "https://github.com/calimarkus/JDStatusBarNotification"
+  },
+  {
+    "githubUrl": "https://github.com/thii/Notie"
+  },
+  {
+    "githubUrl": "https://github.com/thellimist/EZAlertController"
+  },
+  {
+    "githubUrl": "https://github.com/wxxsw/GSMessages"
+  },
+  {
+    "githubUrl": "https://github.com/OEA/OEANotification"
+  },
+  {
+    "githubUrl": "https://github.com/cwRichardKim/RKDropdownAlert"
+  },
+  {
+    "githubUrl": "https://github.com/entotsu/TKSwarmAlert"
+  },
+  {
+    "githubUrl": "https://github.com/KyoheiG3/SimpleAlert"
+  },
+  {
+    "githubUrl": "https://github.com/ytakzk/Hokusai"
+  },
+  {
+    "githubUrl": "https://github.com/johnlui/SwiftNotice"
+  },
+  {
+    "githubUrl": "https://github.com/peterprokop/SwiftOverlays"
+  },
+  {
+    "githubUrl": "https://github.com/morizotter/SwiftyDrop"
+  },
+  {
+    "githubUrl": "https://github.com/Lightningkite/LKAlertController"
+  },
+  {
+    "githubUrl": "https://github.com/okmr-d/DOAlertController"
+  },
+  {
+    "githubUrl": "https://github.com/beryu/CustomizableActionSheet"
+  },
+  {
+    "githubUrl": "https://github.com/scalessec/Toast-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/pmusolino/PMAlertController"
+  },
+  {
+    "githubUrl": "https://github.com/dimillian/PopupViewController"
+  },
+  {
+    "githubUrl": "https://github.com/PhilippeBoisney/AlertViewLoveNotification"
+  },
+  {
+    "githubUrl": "https://github.com/cruffenach/CRToast"
+  },
+  {
+    "githubUrl": "https://github.com/devxoul/Toaster"
+  },
+  {
+    "githubUrl": "https://github.com/rollmind/CuckooAlert"
+  },
+  {
+    "githubUrl": "https://github.com/krimpedance/KRAlertController"
+  },
+  {
+    "githubUrl": "https://github.com/evgenyneu/Dodo"
+  },
+  {
+    "githubUrl": "https://github.com/ntnhon/MaterialActionSheetController"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKickMobile/SwiftMessages"
+  },
+  {
+    "githubUrl": "https://github.com/krispenney/FCAlertView"
+  },
+  {
+    "githubUrl": "https://github.com/nimati/FCAlertView"
+  },
+  {
+    "githubUrl": "https://github.com/candostdagdeviren/CDAlertView"
+  },
+  {
+    "githubUrl": "https://github.com/CooperRS/RMActionController"
+  },
+  {
+    "githubUrl": "https://github.com/CooperRS/RMDateSelectionViewController"
+  },
+  {
+    "githubUrl": "https://github.com/CooperRS/RMPickerViewController"
+  },
+  {
+    "githubUrl": "https://github.com/SebastianBoldt/Jelly"
+  },
+  {
+    "githubUrl": "https://github.com/vitormesquita/Malert"
+  },
+  {
+    "githubUrl": "https://github.com/roycms/AlertView"
+  },
+  {
+    "githubUrl": "https://github.com/qiuncheng/NoticeBar"
+  },
+  {
+    "githubUrl": "https://github.com/Lasithih/LIHAlert"
+  },
+  {
+    "githubUrl": "https://github.com/ppth0608/BPStatusBarAlert"
+  },
+  {
+    "githubUrl": "https://github.com/Codigami/CFAlertViewController"
+  },
+  {
+    "githubUrl": "https://github.com/Daltron/NotificationBanner"
+  },
+  {
+    "githubUrl": "https://github.com/sgr-ksmt/Alertift"
+  },
+  {
+    "githubUrl": "https://github.com/hryk224/PCLBlurEffectAlert"
+  },
+  {
+    "githubUrl": "https://github.com/trilliwon/JDropDownAlert"
+  },
+  {
+    "githubUrl": "https://github.com/alexaubry/BulletinBoard"
+  },
+  {
+    "githubUrl": "https://github.com/JT501/CFNotify"
+  },
+  {
+    "githubUrl": "https://github.com/LowKostKustomz/StatusAlert"
+  },
+  {
+    "githubUrl": "https://github.com/dillidon/alerts-and-pickers"
+  },
+  {
+    "githubUrl": "https://github.com/donileo/RMessage"
+  },
+  {
+    "githubUrl": "https://github.com/lucabecchetti/InAppNotify"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/FloatingActionSheetController"
+  },
+  {
+    "githubUrl": "https://github.com/TimOliver/TOActionSheet"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/XLActionController"
+  },
+  {
+    "githubUrl": "https://github.com/CaliCastle/PopMenu"
+  },
+  {
+    "githubUrl": "https://github.com/TheAbstractDev/NotchyAlert"
+  },
+  {
+    "githubUrl": "https://github.com/ParkGwangBeom/Sheet"
+  },
+  {
+    "githubUrl": "https://github.com/mshrwtnb/alrt"
+  },
+  {
+    "githubUrl": "https://github.com/ImKcat/CatAlertController"
+  },
+  {
+    "githubUrl": "https://github.com/schmidyy/Loaf"
+  },
+  {
+    "githubUrl": "https://github.com/IvanVorobei/SPAlert"
+  },
+  {
+    "githubUrl": "https://github.com/loryhuz/CleanyModal"
+  },
+  {
+    "githubUrl": "https://github.com/mustafaibrahim989/MIBadgeButton-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/Minitour/EasyNotificationBadge"
+  },
+  {
+    "githubUrl": "https://github.com/evgenyneu/swift-badge"
+  },
+  {
+    "githubUrl": "https://github.com/jogendra/BadgeHub"
+  },
+  {
+    "githubUrl": "https://github.com/StyleShare/SSBouncyButton"
+  },
+  {
+    "githubUrl": "https://github.com/okmr-d/DOFavoriteButton"
+  },
+  {
+    "githubUrl": "https://github.com/victorBaro/VBFPopFlatButton"
+  },
+  {
+    "githubUrl": "https://github.com/Famolus/HTPressableButton"
+  },
+  {
+    "githubUrl": "https://github.com/yoavlt/LiquidFloatingActionButton"
+  },
+  {
+    "githubUrl": "https://github.com/JunichiT/JTFadingInfoView"
+  },
+  {
+    "githubUrl": "https://github.com/kciter/Floaty"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/TVButton"
+  },
+  {
+    "githubUrl": "https://github.com/TakeScoop/SwiftyButton"
+  },
+  {
+    "githubUrl": "https://github.com/suzuki-0000/AnimatablePlayButton"
+  },
+  {
+    "githubUrl": "https://github.com/Guidebook/gbkui-button-progress-view"
+  },
+  {
+    "githubUrl": "https://github.com/zoonooz/ZFRippleButton"
+  },
+  {
+    "githubUrl": "https://github.com/lojals/JOEmojiableBtn"
+  },
+  {
+    "githubUrl": "https://github.com/Eke/EMEmojiableBtn"
+  },
+  {
+    "githubUrl": "https://github.com/Yu-w/WYMaterialButton"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/DynamicButton"
+  },
+  {
+    "githubUrl": "https://github.com/rakaramos/OnOffButton"
+  },
+  {
+    "githubUrl": "https://github.com/imwcl/WCLShineButton"
+  },
+  {
+    "githubUrl": "https://github.com/Minitour/EasySocialButton"
+  },
+  {
+    "githubUrl": "https://github.com/LeonardoCardoso/NFDownloadButton"
+  },
+  {
+    "githubUrl": "https://github.com/loregr/LGButton"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/MultiToggleButton"
+  },
+  {
+    "githubUrl": "https://github.com/pmusolino/PMSuperButton"
+  },
+  {
+    "githubUrl": "https://github.com/jogendra/JSButton"
+  },
+  {
+    "githubUrl": "https://github.com/AladinWay/TransitionButton"
+  },
+  {
+    "githubUrl": "https://github.com/thePsguy/ButtonProgressBar-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/lukecrum/SpicyButton"
+  },
+  {
+    "githubUrl": "https://github.com/IdleHandsApps/DesignableButton"
+  },
+  {
+    "githubUrl": "https://github.com/Boris-Em/BEMCheckBox"
+  },
+  {
+    "githubUrl": "https://github.com/DimaMishchenko/ExpandableButton"
+  },
+  {
+    "githubUrl": "https://github.com/TimOliver/TORoundedButton"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/FloatingButton"
+  },
+  {
+    "githubUrl": "https://github.com/CVCalendar/CVCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/ruslanskorb/RSDayFlow"
+  },
+  {
+    "githubUrl": "https://github.com/nbwar/NWCalendarView"
+  },
+  {
+    "githubUrl": "https://github.com/Glow-Inc/GLCalendarView"
+  },
+  {
+    "githubUrl": "https://github.com/jonathantribouharet/JTCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/patchthecode/JTAppleCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/unixzii/Daysquare"
+  },
+  {
+    "githubUrl": "https://github.com/scamps88/ASCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/jumartin/Calendar"
+  },
+  {
+    "githubUrl": "https://github.com/shoheiyokoyama/Koyomi"
+  },
+  {
+    "githubUrl": "https://github.com/itsmeichigo/DateTimePicker"
+  },
+  {
+    "githubUrl": "https://github.com/roycms/RCalendarPicker"
+  },
+  {
+    "githubUrl": "https://github.com/richardtop/CalendarKit"
+  },
+  {
+    "githubUrl": "https://github.com/saeid/GDCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/MosheBerman/MBCalendarKit"
+  },
+  {
+    "githubUrl": "https://github.com/amantaneja/PTEventView"
+  },
+  {
+    "githubUrl": "https://github.com/mmick66/CalendarView"
+  },
+  {
+    "githubUrl": "https://github.com/orazz/CalendarPopUp"
+  },
+  {
+    "githubUrl": "https://github.com/maximbilan/Calendar-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/WenchaoD/FSCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/ThasianX/ElegantCalendar"
+  },
+  {
+    "githubUrl": "https://github.com/modocache/MDCSwipeToChoose"
+  },
+  {
+    "githubUrl": "https://github.com/tispr/tispr-card-stack"
+  },
+  {
+    "githubUrl": "https://github.com/seedante/CardAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/Koloda"
+  },
+  {
+    "githubUrl": "https://github.com/kunalverma25/KVCardSelectionVC"
+  },
+  {
+    "githubUrl": "https://github.com/D-32/DMSwipeCards"
+  },
+  {
+    "githubUrl": "https://github.com/vladaverin24/TimelineCards"
+  },
+  {
+    "githubUrl": "https://github.com/PaoloCuscela/Cards"
+  },
+  {
+    "githubUrl": "https://github.com/MillmanY/MMCardView"
+  },
+  {
+    "githubUrl": "https://github.com/filletofish/CardsLayout"
+  },
+  {
+    "githubUrl": "https://github.com/intuit/CardParts"
+  },
+  {
+    "githubUrl": "https://github.com/JoniVR/VerticalCardSwiper"
+  },
+  {
+    "githubUrl": "https://github.com/mac-gallagher/Shuffle"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Form"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/XLForm"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/Eureka"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/YALField"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/Former"
+  },
+  {
+    "githubUrl": "https://github.com/ortuman/SwiftForms"
+  },
+  {
+    "githubUrl": "https://github.com/seedco/Formalist"
+  },
+  {
+    "githubUrl": "https://github.com/neoneye/SwiftyFORM"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftValidatorCommunity/SwiftValidator"
+  },
+  {
+    "githubUrl": "https://github.com/EurekaCommunity/GenericPasswordRow"
+  },
+  {
+    "githubUrl": "https://github.com/ustwo/formvalidator-swift"
+  },
+  {
+    "githubUrl": "https://github.com/nsagora/validation-toolkit"
+  },
+  {
+    "githubUrl": "https://github.com/altayer-digital/ATGValidator"
+  },
+  {
+    "githubUrl": "https://github.com/SvenTiigi/ValidatedPropertyKit"
+  },
+  {
+    "githubUrl": "https://github.com/fulldecent/FDTextFieldTableViewCell"
+  },
+  {
+    "githubUrl": "https://github.com/ruslanskorb/RSKKeyboardAnimationObserver"
+  },
+  {
+    "githubUrl": "https://github.com/ruddfawcett/RFKeyboardToolbar"
+  },
+  {
+    "githubUrl": "https://github.com/hackiftekhar/IQKeyboardManager"
+  },
+  {
+    "githubUrl": "https://github.com/meiwin/NgKeyboardTracker"
+  },
+  {
+    "githubUrl": "https://github.com/matmartinez/MMNumberKeyboard"
+  },
+  {
+    "githubUrl": "https://github.com/morizotter/KeyboardObserver"
+  },
+  {
+    "githubUrl": "https://github.com/michaeltyson/TPKeyboardAvoiding"
+  },
+  {
+    "githubUrl": "https://github.com/ibireme/YYKeyboardManager"
+  },
+  {
+    "githubUrl": "https://github.com/nixzhu/KeyboardMan"
+  },
+  {
+    "githubUrl": "https://github.com/makemoji/MakemojiSDK"
+  },
+  {
+    "githubUrl": "https://github.com/totocaster/Typist"
+  },
+  {
+    "githubUrl": "https://github.com/bonyadmitr/KeyboardHideManager"
+  },
+  {
+    "githubUrl": "https://github.com/1amageek/Toolbar"
+  },
+  {
+    "githubUrl": "https://github.com/IdleHandsApps/IHKeyboardAvoiding"
+  },
+  {
+    "githubUrl": "https://github.com/efremidze/NumPad"
+  },
+  {
+    "githubUrl": "https://github.com/chriszielinski/Ribbon"
+  },
+  {
+    "githubUrl": "https://github.com/lexrus/LTMorphingLabel"
+  },
+  {
+    "githubUrl": "https://github.com/optonaut/ActiveLabel.swift"
+  },
+  {
+    "githubUrl": "https://github.com/mineschan/MZTimerLabel"
+  },
+  {
+    "githubUrl": "https://github.com/suzuki-0000/CountdownLabel"
+  },
+  {
+    "githubUrl": "https://github.com/tbaranes/IncrementableLabel"
+  },
+  {
+    "githubUrl": "https://github.com/TTTAttributedLabel/TTTAttributedLabel"
+  },
+  {
+    "githubUrl": "https://github.com/me-abhinav/NumberMorphView"
+  },
+  {
+    "githubUrl": "https://github.com/kciter/GlitchLabel"
+  },
+  {
+    "githubUrl": "https://github.com/tomknig/TOMSMorphingLabel"
+  },
+  {
+    "githubUrl": "https://github.com/tobihagemann/THLabel"
+  },
+  {
+    "githubUrl": "https://github.com/zipme/RQShineLabel"
+  },
+  {
+    "githubUrl": "https://github.com/overboming/ZCAnimatedLabel"
+  },
+  {
+    "githubUrl": "https://github.com/mukeshthawani/TriLabelView"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/Preloader.Ophiuchus"
+  },
+  {
+    "githubUrl": "https://github.com/recruit-mtl/MTLLinkLabel"
+  },
+  {
+    "githubUrl": "https://github.com/dataxpress/UICountingLabel/"
+  },
+  {
+    "githubUrl": "https://github.com/dnKaratzas/SlidingText"
+  },
+  {
+    "githubUrl": "https://github.com/javalnanda/NumericAnimatedLabel/"
+  },
+  {
+    "githubUrl": "https://github.com/jogendra/JSLabel"
+  },
+  {
+    "githubUrl": "https://github.com/jogendra/AnimatedMaskLabel"
+  },
+  {
+    "githubUrl": "https://github.com/stephan-tolksdorf/STULabel"
+  },
+  {
+    "githubUrl": "https://github.com/awesome-labs/LFLoginController"
+  },
+  {
+    "githubUrl": "https://github.com/IcaliaLabs/LoginKit"
+  },
+  {
+    "githubUrl": "https://github.com/cely-tools/Cely"
+  },
+  {
+    "githubUrl": "https://github.com/evnaz/ENSwiftSideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/romaonthego/RESideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/SSA111/SSASideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/bradjasper/radialmenu"
+  },
+  {
+    "githubUrl": "https://github.com/arn00s/cariocamenu"
+  },
+  {
+    "githubUrl": "https://github.com/vangelov/VLDContextSheet"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/GuillotineMenu"
+  },
+  {
+    "githubUrl": "https://github.com/pixyzehn/MediumMenu"
+  },
+  {
+    "githubUrl": "https://github.com/hossamghareeb/SwiftySideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/lilei644/LLSlideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/PhilippeBoisney/Swift-Slide-Menu"
+  },
+  {
+    "githubUrl": "https://github.com/cxa/MenuItemKit"
+  },
+  {
+    "githubUrl": "https://github.com/PhamBaTho/BTNavigationDropdownMenu"
+  },
+  {
+    "githubUrl": "https://github.com/AlexLittlejohn/ALRadialMenu"
+  },
+  {
+    "githubUrl": "https://github.com/Azuritul/AZDropdownMenu"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/circle-menu"
+  },
+  {
+    "githubUrl": "https://github.com/dekatotoro/SlideMenuControllerSwift"
+  },
+  {
+    "githubUrl": "https://github.com/jonkykong/SideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/cemolcay/CategorySliderView"
+  },
+  {
+    "githubUrl": "https://github.com/maxkonovalov/MKDropdownMenu"
+  },
+  {
+    "githubUrl": "https://github.com/monoqlo/ExpandingMenu"
+  },
+  {
+    "githubUrl": "https://github.com/PageMenu/PageMenu"
+  },
+  {
+    "githubUrl": "https://github.com/zsy78191/XXXRoundMenuButton"
+  },
+  {
+    "githubUrl": "https://github.com/sunilsharma08/IGCMenu"
+  },
+  {
+    "githubUrl": "https://github.com/eejahromi/EEJSelectMenu"
+  },
+  {
+    "githubUrl": "https://github.com/bestwnh/IGLDropDownMenu"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/Side-Menu.iOS"
+  },
+  {
+    "githubUrl": "https://github.com/xhzengAIB/PopMenu"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/FlowingMenu"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/Persei"
+  },
+  {
+    "githubUrl": "https://github.com/AssistoLab/DropDown"
+  },
+  {
+    "githubUrl": "https://github.com/KittenYang/KYGooeyMenu"
+  },
+  {
+    "githubUrl": "https://github.com/teodorpatras/SideMenuController"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/Context-Menu.iOS"
+  },
+  {
+    "githubUrl": "https://github.com/ViewDeck/ViewDeck"
+  },
+  {
+    "githubUrl": "https://github.com/edekhayser/FrostedSidebar"
+  },
+  {
+    "githubUrl": "https://github.com/Nightonke/VHBoomMenuButton"
+  },
+  {
+    "githubUrl": "https://github.com/qmathe/DropDownMenuKit"
+  },
+  {
+    "githubUrl": "https://github.com/anatoliyv/RevealMenuController"
+  },
+  {
+    "githubUrl": "https://github.com/robertherdzik/RHSideButtons"
+  },
+  {
+    "githubUrl": "https://github.com/hu55a1n1/Swift-CircleMenu"
+  },
+  {
+    "githubUrl": "https://github.com/dogo/AKSideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/handsomecode/InteractiveSideMenu"
+  },
+  {
+    "githubUrl": "https://github.com/younatics/YNDropDownMenu"
+  },
+  {
+    "githubUrl": "https://github.com/Kawoou/KWDrawerController"
+  },
+  {
+    "githubUrl": "https://github.com/javalnanda/JNDropDownMenu"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/fan-menu"
+  },
+  {
+    "githubUrl": "https://github.com/uptechteam/AirBar"
+  },
+  {
+    "githubUrl": "https://github.com/fahidattique55/FAPanels"
+  },
+  {
+    "githubUrl": "https://github.com/yysskk/SwipeMenuViewController"
+  },
+  {
+    "githubUrl": "https://github.com/tungvoduc/DTPagerController"
+  },
+  {
+    "githubUrl": "https://github.com/kazuhiro4949/PagingKit"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/Dropdowns"
+  },
+  {
+    "githubUrl": "https://github.com/rechsteiner/Parchment"
+  },
+  {
+    "githubUrl": "https://github.com/GitHawkApp/ContextMenu"
+  },
+  {
+    "githubUrl": "https://github.com/antoniocasero/Panels"
+  },
+  {
+    "githubUrl": "https://github.com/AlekseyPleshkov/UIMenuScroll"
+  },
+  {
+    "githubUrl": "https://github.com/softhausHQ/CircleBar"
+  },
+  {
+    "githubUrl": "https://github.com/IvanVorobei/SPLarkController"
+  },
+  {
+    "githubUrl": "https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu"
+  },
+  {
+    "githubUrl": "https://github.com/tristanhimmelman/HidingNavigationBar"
+  },
+  {
+    "githubUrl": "https://github.com/MoZhouqi/KMNavigationBarTransition"
+  },
+  {
+    "githubUrl": "https://github.com/ltebean/LTNavigationBar"
+  },
+  {
+    "githubUrl": "https://github.com/gmertk/BusyNavigationBar"
+  },
+  {
+    "githubUrl": "https://github.com/kingiol/KDInteractiveNavigationController"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/AMScrollingNavbar"
+  },
+  {
+    "githubUrl": "https://github.com/wilbertliu/NavKit"
+  },
+  {
+    "githubUrl": "https://github.com/DanisFabric/RainbowNavigation"
+  },
+  {
+    "githubUrl": "https://github.com/TimOliver/TONavigationBar"
+  },
+  {
+    "githubUrl": "https://github.com/skywinder/ActionSheetPicker-3.0/"
+  },
+  {
+    "githubUrl": "https://github.com/filipealva/PickerView"
+  },
+  {
+    "githubUrl": "https://github.com/squimer/DatePickerDialog-iOS-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/chenzeyu/CZPicker"
+  },
+  {
+    "githubUrl": "https://github.com/alikaragoz/AIDatePickerController"
+  },
+  {
+    "githubUrl": "https://github.com/4taras4/CountryCode"
+  },
+  {
+    "githubUrl": "https://github.com/kmcgill88/McPicker-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/blueapron/Mandoline"
+  },
+  {
+    "githubUrl": "https://github.com/di2pra/D2PDatePicker"
+  },
+  {
+    "githubUrl": "https://github.com/kizitonwose/CountryPickerView"
+  },
+  {
+    "githubUrl": "https://github.com/kwallet/planet"
+  },
+  {
+    "githubUrl": "https://github.com/mustafaibrahim989/MICountryPicker"
+  },
+  {
+    "githubUrl": "https://github.com/abhiperry/ADDatePicker"
+  },
+  {
+    "githubUrl": "https://github.com/SURYAKANTSHARMA/CountryPicker"
+  },
+  {
+    "githubUrl": "https://github.com/adad184/MMPopupView"
+  },
+  {
+    "githubUrl": "https://github.com/kevin0571/STPopup"
+  },
+  {
+    "githubUrl": "https://github.com/psy2k/NMPopUpView"
+  },
+  {
+    "githubUrl": "https://github.com/daisuke310vvv/PopupController"
+  },
+  {
+    "githubUrl": "https://github.com/binchik/SubscriptionPrompt"
+  },
+  {
+    "githubUrl": "https://github.com/IcaliaLabs/Presentr"
+  },
+  {
+    "githubUrl": "https://github.com/Orderella/PopupDialog"
+  },
+  {
+    "githubUrl": "https://github.com/kciter/SelectionDialog"
+  },
+  {
+    "githubUrl": "https://github.com/Minitour/AZDialogViewController"
+  },
+  {
+    "githubUrl": "https://github.com/MarioIannotta/MIBlurPopup"
+  },
+  {
+    "githubUrl": "https://github.com/LeoNatan/LNPopupController"
+  },
+  {
+    "githubUrl": "https://github.com/shin8484/PopupWindow"
+  },
+  {
+    "githubUrl": "https://github.com/iamshezad/SHPopup"
+  },
+  {
+    "githubUrl": "https://github.com/corin8823/Popover"
+  },
+  {
+    "githubUrl": "https://github.com/huri000/SwiftEntryKit"
+  },
+  {
+    "githubUrl": "https://github.com/JonyFang/FFPopup"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/PopupView"
+  },
+  {
+    "githubUrl": "https://github.com/khawajafarooq/ProgressMeter"
+  },
+  {
+    "githubUrl": "https://github.com/keygx/GradientCircularProgress"
+  },
+  {
+    "githubUrl": "https://github.com/gontovnik/DGElasticPullToRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/entotsu/PullToBounce"
+  },
+  {
+    "githubUrl": "https://github.com/samvermette/SVPullToRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/uzysjung/UzysAnimatedGifPullToRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/cemolcay/PullToRefreshCoreText"
+  },
+  {
+    "githubUrl": "https://github.com/boztalay/BOZPongRefreshControl"
+  },
+  {
+    "githubUrl": "https://github.com/coolbeet/CBStoreHouseRefreshControl"
+  },
+  {
+    "githubUrl": "https://github.com/peiweichen/SurfingRefreshControl"
+  },
+  {
+    "githubUrl": "https://github.com/mentionapp/mntpulltoreact"
+  },
+  {
+    "githubUrl": "https://github.com/Antondomashnev/ADChromePullToRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/dasdom/BreakOutToRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/CoderMJLee/MJRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/hoang-tran/HTPullToRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/dekatotoro/PullToRefreshSwift"
+  },
+  {
+    "githubUrl": "https://github.com/delannoyk/GIFRefreshControl"
+  },
+  {
+    "githubUrl": "https://github.com/fruitcoder/ReplaceAnimation"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/PullToMakeSoup"
+  },
+  {
+    "githubUrl": "https://github.com/Onix-Systems/RainyRefreshControl"
+  },
+  {
+    "githubUrl": "https://github.com/eggswift/pull-to-refresh"
+  },
+  {
+    "githubUrl": "https://github.com/CRAnimation/CRRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/HsiaohuiHsiang/KafkaRefresh"
+  },
+  {
+    "githubUrl": "https://github.com/glenyi/FloatRatingView"
+  },
+  {
+    "githubUrl": "https://github.com/zekunyan/TTGEmojiRate"
+  },
+  {
+    "githubUrl": "https://github.com/peterprokop/StarryStars"
+  },
+  {
+    "githubUrl": "https://github.com/evgenyneu/Cosmos"
+  },
+  {
+    "githubUrl": "https://github.com/hsousa/HCSStarRatingView"
+  },
+  {
+    "githubUrl": "https://github.com/MatiBot/MBRateApp"
+  },
+  {
+    "githubUrl": "https://github.com/nbolatov/RPInteraction"
+  },
+  {
+    "githubUrl": "https://github.com/ktanaka117/ScrollingFollowView"
+  },
+  {
+    "githubUrl": "https://github.com/pronebird/UIScrollView-InfiniteScroll"
+  },
+  {
+    "githubUrl": "https://github.com/zjmdp/GoAutoSlideView"
+  },
+  {
+    "githubUrl": "https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView"
+  },
+  {
+    "githubUrl": "https://github.com/sgr-ksmt/PullToDismiss"
+  },
+  {
+    "githubUrl": "https://github.com/bannzai/SpreadsheetView"
+  },
+  {
+    "githubUrl": "https://github.com/AppliKeySolutions/VegaScroll"
+  },
+  {
+    "githubUrl": "https://github.com/tdscientist/ShelfView-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/touchlane/SlideController"
+  },
+  {
+    "githubUrl": "https://github.com/huri000/CrownControl"
+  },
+  {
+    "githubUrl": "https://github.com/Jiar/SegementSlide"
+  },
+  {
+    "githubUrl": "https://github.com/gmarm/BetterSegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/Stormotion-Mobile/LUNSegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/alikaragoz/AKASegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/twicketapp/TwicketSegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/sasojadrovski/SJFluidSegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/HeshamMegid/HMSegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/afishhhhh/YUSegment"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/MultiSelectSegmentedControl"
+  },
+  {
+    "githubUrl": "https://github.com/KittenYang/DynamicMaskSegmentSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/TBXark/PinterestSegment"
+  },
+  {
+    "githubUrl": "https://github.com/gontovnik/DGRunkeeperSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/12Rockets/VolumeControl"
+  },
+  {
+    "githubUrl": "https://github.com/Ekhoo/WESlider"
+  },
+  {
+    "githubUrl": "https://github.com/shushutochako/IntervalSlider"
+  },
+  {
+    "githubUrl": "https://github.com/warchimede/RangeSlider"
+  },
+  {
+    "githubUrl": "https://github.com/shushutochako/CircleSlider"
+  },
+  {
+    "githubUrl": "https://github.com/vadymmarkov/MARKRangeSlider"
+  },
+  {
+    "githubUrl": "https://github.com/alskipp/ASValueTrackingSlider"
+  },
+  {
+    "githubUrl": "https://github.com/TomThorpe/TTRangeSlider"
+  },
+  {
+    "githubUrl": "https://github.com/MedvedevMax/MMSegmentSlider"
+  },
+  {
+    "githubUrl": "https://github.com/spromicky/StepSlider"
+  },
+  {
+    "githubUrl": "https://github.com/JellyDevelopment/JDSlider"
+  },
+  {
+    "githubUrl": "https://github.com/rehatkathuria/SnappingSlider"
+  },
+  {
+    "githubUrl": "https://github.com/EranBoudjnah/MTCircularSlider"
+  },
+  {
+    "githubUrl": "https://github.com/jonkykong/VerticalSlider"
+  },
+  {
+    "githubUrl": "https://github.com/taglia3/CircularSlider"
+  },
+  {
+    "githubUrl": "https://github.com/HamzaGhazouani/HGCircularSlider"
+  },
+  {
+    "githubUrl": "https://github.com/WorldDownTown/RangeSeekSlider"
+  },
+  {
+    "githubUrl": "https://github.com/LeonardoCardoso/SectionedSlider"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/MultiSlider"
+  },
+  {
+    "githubUrl": "https://github.com/agilie/AGCircularPicker"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/fluid-slider"
+  },
+  {
+    "githubUrl": "https://github.com/callumboddy/CBZSplashView"
+  },
+  {
+    "githubUrl": "https://github.com/sachinkesiraju/SKSplashView"
+  },
+  {
+    "githubUrl": "https://github.com/PiXeL16/RevealingSplashView"
+  },
+  {
+    "githubUrl": "https://github.com/MaximKotliar/Bartinter"
+  },
+  {
+    "githubUrl": "https://github.com/PerfectFreeze/PFStepper"
+  },
+  {
+    "githubUrl": "https://github.com/BalestraPatrick/ValueStepper"
+  },
+  {
+    "githubUrl": "https://github.com/gmertk/GMStepper"
+  },
+  {
+    "githubUrl": "https://github.com/arn00s/barceloneta"
+  },
+  {
+    "githubUrl": "https://github.com/yannickl/SnappingStepper"
+  },
+  {
+    "githubUrl": "https://github.com/SinaMoetakef/SMNumberWheel"
+  },
+  {
+    "githubUrl": "https://github.com/alsedi/AnimatedSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/ViralSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/JunichiT/JTMaterialSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/TBXark/TKSwitcherCollection"
+  },
+  {
+    "githubUrl": "https://github.com/bvogelzang/SevenSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/kovpas/PMZSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/knn90/Switcher"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/paper-switch"
+  },
+  {
+    "githubUrl": "https://github.com/cocoatoucher/AIFlatSwitch"
+  },
+  {
+    "githubUrl": "https://github.com/T-Pham/Switch"
+  },
+  {
+    "githubUrl": "https://github.com/ezescaruli/ESTabBarController"
+  },
+  {
+    "githubUrl": "https://github.com/KittenYang/GooeyTabbar"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/animated-tab-bar"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/FoldingTabBar.iOS"
+  },
+  {
+    "githubUrl": "https://github.com/Goles/GGTabBar"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/adaptive-tab-bar"
+  },
+  {
+    "githubUrl": "https://github.com/lucoceano/Pager"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/XLPagerTabStrip"
+  },
+  {
+    "githubUrl": "https://github.com/EndouMari/TabPageViewController"
+  },
+  {
+    "githubUrl": "https://github.com/winslowdibona/TabDrawer"
+  },
+  {
+    "githubUrl": "https://github.com/fortmarek/SwipeViewController"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/ColorMatchTabs"
+  },
+  {
+    "githubUrl": "https://github.com/antiguab/BATabBarController"
+  },
+  {
+    "githubUrl": "https://github.com/aryaxt/ScrollPager"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/Segmentio"
+  },
+  {
+    "githubUrl": "https://github.com/ykyouhei/KYWheelTabController"
+  },
+  {
+    "githubUrl": "https://github.com/odedharth/SuperBadges"
+  },
+  {
+    "githubUrl": "https://github.com/Minitour/AZTabBarController"
+  },
+  {
+    "githubUrl": "https://github.com/D-32/MiniTabBar"
+  },
+  {
+    "githubUrl": "https://github.com/marcosgriselli/SwipeableTabBarController"
+  },
+  {
+    "githubUrl": "https://github.com/smahajan28/SMSwipeableTabView"
+  },
+  {
+    "githubUrl": "https://github.com/uias/Tabman"
+  },
+  {
+    "githubUrl": "https://github.com/EzimetYusup/WormTabStrip"
+  },
+  {
+    "githubUrl": "https://github.com/ogaclejapan/SmartTabLayout"
+  },
+  {
+    "githubUrl": "https://github.com/simformsolutions/SSCustomTabMenu"
+  },
+  {
+    "githubUrl": "https://github.com/yervandsar/SmoothTab"
+  },
+  {
+    "githubUrl": "https://github.com/yervandsar/ExpandedTabBar"
+  },
+  {
+    "githubUrl": "https://github.com/behrad-kzm/BEKCurveTabbar"
+  },
+  {
+    "githubUrl": "https://github.com/MortimerGoro/MGSwipeTableCell"
+  },
+  {
+    "githubUrl": "https://github.com/hanton/YXTPageView"
+  },
+  {
+    "githubUrl": "https://github.com/fastred/ConfigurableTableViewController"
+  },
+  {
+    "githubUrl": "https://github.com/electrickangaroo/Lightning-Table"
+  },
+  {
+    "githubUrl": "https://github.com/venmo/Static"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/AMWaveTransition"
+  },
+  {
+    "githubUrl": "https://github.com/CEWendel/SWTableViewCell"
+  },
+  {
+    "githubUrl": "https://github.com/liuzhiyi1992/ZYThumbnailTableView"
+  },
+  {
+    "githubUrl": "https://github.com/bitwit/BWSwipeRevealCell"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/preview-transition"
+  },
+  {
+    "githubUrl": "https://github.com/bcylin/QuickTableViewController"
+  },
+  {
+    "githubUrl": "https://github.com/maxsokolov/TableKit"
+  },
+  {
+    "githubUrl": "https://github.com/v-braun/VBPiledView"
+  },
+  {
+    "githubUrl": "https://github.com/tianzhuo112/VTMagic"
+  },
+  {
+    "githubUrl": "https://github.com/alikaragoz/MCSwipeTableViewCell"
+  },
+  {
+    "githubUrl": "https://github.com/mindz-eye/MYTableViewIndex"
+  },
+  {
+    "githubUrl": "https://github.com/palmin/ios-dragable-table-cells"
+  },
+  {
+    "githubUrl": "https://github.com/DavdRoman/Bohr"
+  },
+  {
+    "githubUrl": "https://github.com/adamshin/SwiftReorder"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/HoverConversion"
+  },
+  {
+    "githubUrl": "https://github.com/KyoheiG3/TableViewDragger"
+  },
+  {
+    "githubUrl": "https://github.com/dimpiax/FlexibleTableViewController"
+  },
+  {
+    "githubUrl": "https://github.com/edopelawi/CascadingTableDelegate"
+  },
+  {
+    "githubUrl": "https://github.com/kf99916/TimelineTableViewCell"
+  },
+  {
+    "githubUrl": "https://github.com/robertherdzik/RHPreviewCell"
+  },
+  {
+    "githubUrl": "https://github.com/TimOliver/TORoundedTableView"
+  },
+  {
+    "githubUrl": "https://github.com/mergesort/TableFlip"
+  },
+  {
+    "githubUrl": "https://github.com/DenTelezhkin/DTTableViewManager"
+  },
+  {
+    "githubUrl": "https://github.com/SwipeCellKit/SwipeCellKit"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/ReverseExtension"
+  },
+  {
+    "githubUrl": "https://github.com/yonat/SelectionList"
+  },
+  {
+    "githubUrl": "https://github.com/AfrozZaheer/AZTableViewController"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/SAInboxViewController"
+  },
+  {
+    "githubUrl": "https://github.com/muyexi/StaticTableViewController"
+  },
+  {
+    "githubUrl": "https://github.com/okcupid/OKTableViewLiaison"
+  },
+  {
+    "githubUrl": "https://github.com/3sidedcube/ThunderTable"
+  },
+  {
+    "githubUrl": "https://github.com/jflinter/Dwifft"
+  },
+  {
+    "githubUrl": "https://github.com/manuelescrig/MEVFloatingButton"
+  },
+  {
+    "githubUrl": "https://github.com/kean/Preheat"
+  },
+  {
+    "githubUrl": "https://github.com/Yalantis/DisplaySwitcher"
+  },
+  {
+    "githubUrl": "https://github.com/AliSoftware/Reusable"
+  },
+  {
+    "githubUrl": "https://github.com/nghialv/Sapporo"
+  },
+  {
+    "githubUrl": "https://github.com/matbeich/StickyCollectionView-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKickMobile/TLIndexPathTools"
+  },
+  {
+    "githubUrl": "https://github.com/Instagram/IGListKit"
+  },
+  {
+    "githubUrl": "https://github.com/dimpiax/FlexibleCollectionViewController"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/ASCollectionView"
+  },
+  {
+    "githubUrl": "https://github.com/giulio92/GLTableCollectionView"
+  },
+  {
+    "githubUrl": "https://github.com/kazuhiro4949/EditDistance"
+  },
+  {
+    "githubUrl": "https://github.com/stuffrabbit/SwiftSpreadsheet"
+  },
+  {
+    "githubUrl": "https://github.com/GenericDataSource/GenericDataSource"
+  },
+  {
+    "githubUrl": "https://github.com/KyoheiG3/PagingView"
+  },
+  {
+    "githubUrl": "https://github.com/square/PJFDataSource"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/DataSources"
+  },
+  {
+    "githubUrl": "https://github.com/mmick66/KDDragAndDropCollectionView"
+  },
+  {
+    "githubUrl": "https://github.com/3lvis/SectionScrubber"
+  },
+  {
+    "githubUrl": "https://github.com/SoySauceLab/CollectionKit"
+  },
+  {
+    "githubUrl": "https://github.com/AfrozZaheer/AZCollectionViewController"
+  },
+  {
+    "githubUrl": "https://github.com/touchlane/CampcotCollectionView"
+  },
+  {
+    "githubUrl": "https://github.com/appunite/Stefan"
+  },
+  {
+    "githubUrl": "https://github.com/HelloElephant/Parade"
+  },
+  {
+    "githubUrl": "https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation"
+  },
+  {
+    "githubUrl": "https://github.com/Squarespace/simple-source"
+  },
+  {
+    "githubUrl": "https://github.com/bannzai/conv"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/Carbon"
+  },
+  {
+    "githubUrl": "https://github.com/3sidedcube/ThunderCollection"
+  },
+  {
+    "githubUrl": "https://github.com/ra1028/DiffableDataSources"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/folding-cell"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AEAccordion"
+  },
+  {
+    "githubUrl": "https://github.com/amratab/ThreeLevelAccordian"
+  },
+  {
+    "githubUrl": "https://github.com/younatics/YNExpandableCell"
+  },
+  {
+    "githubUrl": "https://github.com/Nandiin/Savory"
+  },
+  {
+    "githubUrl": "https://github.com/okhanokbay/ExpyTableView"
+  },
+  {
+    "githubUrl": "https://github.com/monofire/FTFoldingPaper"
+  },
+  {
+    "githubUrl": "https://github.com/jeantimex/CollapsibleTableSectionViewController"
+  },
+  {
+    "githubUrl": "https://github.com/younatics/ExpandableCell"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/expanding-collection"
+  },
+  {
+    "githubUrl": "https://github.com/Vinodh-G/ParallaxTableViewHeader"
+  },
+  {
+    "githubUrl": "https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout"
+  },
+  {
+    "githubUrl": "https://github.com/gskbyte/GSKStretchyHeaderView"
+  },
+  {
+    "githubUrl": "https://github.com/dzenbot/DZNEmptyDataSet"
+  },
+  {
+    "githubUrl": "https://github.com/HamzaGhazouani/HGPlaceholders"
+  },
+  {
+    "githubUrl": "https://github.com/malkouz/ListPlaceholder"
+  },
+  {
+    "githubUrl": "https://github.com/wizeline/WLEmptyState"
+  },
+  {
+    "githubUrl": "https://github.com/chiahsien/CHTCollectionViewWaterfallLayout"
+  },
+  {
+    "githubUrl": "https://github.com/fmitech/FMMosaicLayout"
+  },
+  {
+    "githubUrl": "https://github.com/vinnyoodles/mosaic-layout"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKickMobile/TLLayoutTransitioning"
+  },
+  {
+    "githubUrl": "https://github.com/BenEmdon/CenteredCollectionView"
+  },
+  {
+    "githubUrl": "https://github.com/yacir/CollectionViewSlantedLayout"
+  },
+  {
+    "githubUrl": "https://github.com/iwheelbuy/SquareMosaicLayout"
+  },
+  {
+    "githubUrl": "https://github.com/roberthein/BouncyLayout"
+  },
+  {
+    "githubUrl": "https://github.com/AfrozZaheer/AZSafariCollectionViewLayout"
+  },
+  {
+    "githubUrl": "https://github.com/zenangst/Blueprints"
+  },
+  {
+    "githubUrl": "https://github.com/yahoojapan/UICollectionViewSplitLayout"
+  },
+  {
+    "githubUrl": "https://github.com/VladIacobIonut/Swinflate"
+  },
+  {
+    "githubUrl": "https://github.com/paulrolfe/PARTagPicker"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/AMTagListView"
+  },
+  {
+    "githubUrl": "https://github.com/riteshhgupta/TagCellLayout"
+  },
+  {
+    "githubUrl": "https://github.com/zekunyan/TTGTagCollectionView"
+  },
+  {
+    "githubUrl": "https://github.com/ElaWorkshop/TagListView"
+  },
+  {
+    "githubUrl": "https://github.com/kuler90/RKTagsView"
+  },
+  {
+    "githubUrl": "https://github.com/whitesmith/WSTagsField"
+  },
+  {
+    "githubUrl": "https://github.com/artemkrachulov/AKMaskField"
+  },
+  {
+    "githubUrl": "https://github.com/younatics/YNSearch"
+  },
+  {
+    "githubUrl": "https://github.com/fdzsergio/SFFocusViewLayout"
+  },
+  {
+    "githubUrl": "https://github.com/jverdi/JVFloatLabeledTextField"
+  },
+  {
+    "githubUrl": "https://github.com/alexruperez/ARAutocompleteTextView"
+  },
+  {
+    "githubUrl": "https://github.com/hackiftekhar/IQDropDownTextField"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/UITextField-Shake"
+  },
+  {
+    "githubUrl": "https://github.com/King-Wizard/UITextField-Shake-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/hanton/HTYTextField"
+  },
+  {
+    "githubUrl": "https://github.com/TheMrugraj/MVAutocompletePlaceSearchTextField"
+  },
+  {
+    "githubUrl": "https://github.com/filipstefansson/AutocompleteField"
+  },
+  {
+    "githubUrl": "https://github.com/ruslanskorb/RSKGrowingTextView"
+  },
+  {
+    "githubUrl": "https://github.com/ruslanskorb/RSKPlaceholderTextView"
+  },
+  {
+    "githubUrl": "https://github.com/aschuch/StatefulViewController"
+  },
+  {
+    "githubUrl": "https://github.com/MatejBalantic/MBAutoGrowingTextView"
+  },
+  {
+    "githubUrl": "https://github.com/raulriera/TextFieldEffects"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/reel-search"
+  },
+  {
+    "githubUrl": "https://github.com/EddyBorja/MLPAutoCompleteTextField"
+  },
+  {
+    "githubUrl": "https://github.com/Skyscanner/SkyFloatingLabelTextField"
+  },
+  {
+    "githubUrl": "https://github.com/viniciusmo/VMaskTextField"
+  },
+  {
+    "githubUrl": "https://github.com/tejas-ardeshna/TJTextField"
+  },
+  {
+    "githubUrl": "https://github.com/muukii/NextGrowingTextView"
+  },
+  {
+    "githubUrl": "https://github.com/iwasrobbed/RPFloatingPlaceholders"
+  },
+  {
+    "githubUrl": "https://github.com/richa008/CurrencyTextField"
+  },
+  {
+    "githubUrl": "https://github.com/T-Pham/UITextField-Navigation"
+  },
+  {
+    "githubUrl": "https://github.com/nferocious76/AutoCompleteTextField"
+  },
+  {
+    "githubUrl": "https://github.com/nonameplum/PLCurrencyTextField"
+  },
+  {
+    "githubUrl": "https://github.com/PiXeL16/PasswordTextField"
+  },
+  {
+    "githubUrl": "https://github.com/jobandtalent/AnimatedTextInput"
+  },
+  {
+    "githubUrl": "https://github.com/MoZhouqi/KMPlaceholderTextView"
+  },
+  {
+    "githubUrl": "https://github.com/Otbivnoe/NxEnabled"
+  },
+  {
+    "githubUrl": "https://github.com/aleksandrshoshiashvili/AwesomeTextFieldSwift"
+  },
+  {
+    "githubUrl": "https://github.com/PhilippeBoisney/ModernSearchBar"
+  },
+  {
+    "githubUrl": "https://github.com/jhurray/SelectableTextView"
+  },
+  {
+    "githubUrl": "https://github.com/Fawxy/CBPinEntryView"
+  },
+  {
+    "githubUrl": "https://github.com/KennethTsang/GrowingTextView"
+  },
+  {
+    "githubUrl": "https://github.com/iDhaval/DTTextField"
+  },
+  {
+    "githubUrl": "https://github.com/serralvo/TextFieldCounter"
+  },
+  {
+    "githubUrl": "https://github.com/roytornado/RSFloatInputView"
+  },
+  {
+    "githubUrl": "https://github.com/iceman201/TaniwhaTextField"
+  },
+  {
+    "githubUrl": "https://github.com/algolia/instantsearch-ios"
+  },
+  {
+    "githubUrl": "https://github.com/apasccon/SearchTextField"
+  },
+  {
+    "githubUrl": "https://github.com/ko1o/PYSearch"
+  },
+  {
+    "githubUrl": "https://github.com/blueapron/styled-text"
+  },
+  {
+    "githubUrl": "https://github.com/oleghnidets/TweeTextField"
+  },
+  {
+    "githubUrl": "https://github.com/SiarheiFedartsou/MeasurementTextField"
+  },
+  {
+    "githubUrl": "https://github.com/venmo/VENTokenField"
+  },
+  {
+    "githubUrl": "https://github.com/AlexLittlejohn/ALTextInputBar"
+  },
+  {
+    "githubUrl": "https://github.com/k-lpmg/Tagging"
+  },
+  {
+    "githubUrl": "https://github.com/nathantannar4/InputBarAccessoryView"
+  },
+  {
+    "githubUrl": "https://github.com/edgar-zigis/CocoaTextField"
+  },
+  {
+    "githubUrl": "https://github.com/ChiliLabs/CHIOTPField"
+  },
+  {
+    "githubUrl": "https://github.com/getstream/Streamoji"
+  },
+  {
+    "githubUrl": "https://github.com/kasper-lahti/PageControl"
+  },
+  {
+    "githubUrl": "https://github.com/popwarsweet/PageControls"
+  },
+  {
+    "githubUrl": "https://github.com/ChiliLabs/CHIPageControl"
+  },
+  {
+    "githubUrl": "https://github.com/sevruk-dev/page-control"
+  },
+  {
+    "githubUrl": "https://github.com/TBXark/TKRubberIndicator"
+  },
+  {
+    "githubUrl": "https://github.com/tasanobu/Otafuku"
+  },
+  {
+    "githubUrl": "https://github.com/meismyles/SwiftWebVC"
+  },
+  {
+    "githubUrl": "https://github.com/TransitApp/SVWebViewController"
+  },
+  {
+    "githubUrl": "https://github.com/pjocprac/PTPopupWebView"
+  },
+  {
+    "githubUrl": "https://github.com/robb/Underscore.m"
+  },
+  {
+    "githubUrl": "https://github.com/tumblr/XExtensionItem"
+  },
+  {
+    "githubUrl": "https://github.com/fastred/ReflectableEnum"
+  },
+  {
+    "githubUrl": "https://github.com/supermarin/ObjectiveSugar"
+  },
+  {
+    "githubUrl": "https://github.com/leoschweizer/OpinionatedC"
+  },
+  {
+    "githubUrl": "https://github.com/thellimist/SwiftRandom"
+  },
+  {
+    "githubUrl": "https://github.com/nvzqz/RandomKit/"
+  },
+  {
+    "githubUrl": "https://github.com/mxcl/YOLOKit"
+  },
+  {
+    "githubUrl": "https://github.com/goktugyil/EZSwiftExtensions"
+  },
+  {
+    "githubUrl": "https://github.com/nickoneill/Pantry"
+  },
+  {
+    "githubUrl": "https://github.com/davedufresne/SwiftParsec"
+  },
+  {
+    "githubUrl": "https://github.com/Weebly/OrderedSet"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKitz/Datez"
+  },
+  {
+    "githubUrl": "https://github.com/FabrizioBrancati/BFKit"
+  },
+  {
+    "githubUrl": "https://github.com/FabrizioBrancati/BFKit-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/scale"
+  },
+  {
+    "githubUrl": "https://github.com/cconeil/Standard-Template-Protocols"
+  },
+  {
+    "githubUrl": "https://github.com/JonFir/TimeLord"
+  },
+  {
+    "githubUrl": "https://github.com/eure/AppVersionMonitor"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Sugar"
+  },
+  {
+    "githubUrl": "https://github.com/devxoul/Then"
+  },
+  {
+    "githubUrl": "https://github.com/Cocoanetics/Kvitto"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftKitz/Notificationz"
+  },
+  {
+    "githubUrl": "https://github.com/PureSwift/SwiftFoundation"
+  },
+  {
+    "githubUrl": "https://github.com/jspahrsummers/libextobjc"
+  },
+  {
+    "githubUrl": "https://github.com/tbaranes/VersionTrackerSwift"
+  },
+  {
+    "githubUrl": "https://github.com/InderKumarRathore/DeviceGuru/"
+  },
+  {
+    "githubUrl": "https://github.com/tadija/AEAppVersion"
+  },
+  {
+    "githubUrl": "https://github.com/BlocksKit/BlocksKit"
+  },
+  {
+    "githubUrl": "https://github.com/tbaranes/swiftyutils"
+  },
+  {
+    "githubUrl": "https://github.com/soffes/RateLimit"
+  },
+  {
+    "githubUrl": "https://github.com/phatblat/Outlets"
+  },
+  {
+    "githubUrl": "https://github.com/JARMourato/EasyAbout"
+  },
+  {
+    "githubUrl": "https://github.com/Ben-G/Validated"
+  },
+  {
+    "githubUrl": "https://github.com/ankurp/Cent"
+  },
+  {
+    "githubUrl": "https://github.com/anatoliyv/AssistantKit"
+  },
+  {
+    "githubUrl": "https://github.com/LeonardoCardoso/SwiftLinkPreview"
+  },
+  {
+    "githubUrl": "https://github.com/rollmind/BundleInfos"
+  },
+  {
+    "githubUrl": "https://github.com/mirek/YAML.framework"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/ReadabilityKit"
+  },
+  {
+    "githubUrl": "https://github.com/appculture/MissionControl-iOS"
+  },
+  {
+    "githubUrl": "https://github.com/Khan/SwiftTweaks"
+  },
+  {
+    "githubUrl": "https://github.com/caloon/UnsupportedOSVersionAlert"
+  },
+  {
+    "githubUrl": "https://github.com/dsmatter/SwiftSortUtils"
+  },
+  {
+    "githubUrl": "https://github.com/icanzilb/Retry"
+  },
+  {
+    "githubUrl": "https://github.com/marmelroy/ObjectiveKit"
+  },
+  {
+    "githubUrl": "https://github.com/devxoul/MoyaSugar"
+  },
+  {
+    "githubUrl": "https://github.com/SwifterSwift/SwifterSwift"
+  },
+  {
+    "githubUrl": "https://github.com/Rightpoint/Eject"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/ContactsWrapper"
+  },
+  {
+    "githubUrl": "https://github.com/eBardX/XestiMonitors"
+  },
+  {
+    "githubUrl": "https://github.com/floriangbh/OpenSourceController"
+  },
+  {
+    "githubUrl": "https://github.com/Stunner/App-Update-Tracker"
+  },
+  {
+    "githubUrl": "https://github.com/4taras4/SwiftExtension"
+  },
+  {
+    "githubUrl": "https://github.com/futuretap/InAppSettingsKit"
+  },
+  {
+    "githubUrl": "https://github.com/mutualmobile/MMWormhole"
+  },
+  {
+    "githubUrl": "https://github.com/jessesquires/DefaultStringConvertible"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/FluxCapacitor"
+  },
+  {
+    "githubUrl": "https://github.com/vtourraine/VTAcknowledgementsViewController"
+  },
+  {
+    "githubUrl": "https://github.com/vhesener/Closures"
+  },
+  {
+    "githubUrl": "https://github.com/BalestraPatrick/WhatsNew"
+  },
+  {
+    "githubUrl": "https://github.com/michalkonturek/MKUnits"
+  },
+  {
+    "githubUrl": "https://github.com/takasek/ActionClosurable"
+  },
+  {
+    "githubUrl": "https://github.com/holzschu/ios_system"
+  },
+  {
+    "githubUrl": "https://github.com/Sherlouk/SwiftProvisioningProfile"
+  },
+  {
+    "githubUrl": "https://github.com/luoxiu/Once"
+  },
+  {
+    "githubUrl": "https://github.com/ZamzamInc/ZamzamKit"
+  },
+  {
+    "githubUrl": "https://github.com/marty-suzuki/DuctTape"
+  },
+  {
+    "githubUrl": "https://github.com/simonmitchell/ReviewKit"
+  },
+  {
+    "githubUrl": "https://github.com/smartlook/ios-consent-sdk"
+  },
+  {
+    "githubUrl": "https://github.com/privacy-tech-lab/privacyflash-pro"
+  },
+  {
+    "githubUrl": "https://github.com/Aralekk/VR_Toolkit_iOS"
+  },
+  {
+    "githubUrl": "https://github.com/hanton/HTY360Player"
+  },
+  {
+    "githubUrl": "https://github.com/Aralekk/simple360player_iOS"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/Swifty360Player"
+  },
+  {
+    "githubUrl": "https://github.com/mamaral/Onboard"
+  },
+  {
+    "githubUrl": "https://github.com/ealeksandrov/EAIntroView"
+  },
+  {
+    "githubUrl": "https://github.com/MatthewYork/MYBlurIntroductionView"
+  },
+  {
+    "githubUrl": "https://github.com/ariok/BWWalkthrough"
+  },
+  {
+    "githubUrl": "https://github.com/GnosisHub/GHWalkThrough"
+  },
+  {
+    "githubUrl": "https://github.com/icepat/ICETutorial"
+  },
+  {
+    "githubUrl": "https://github.com/IFTTT/JazzHands"
+  },
+  {
+    "githubUrl": "https://github.com/IFTTT/RazzleDazzle"
+  },
+  {
+    "githubUrl": "https://github.com/ephread/Instructions"
+  },
+  {
+    "githubUrl": "https://github.com/ruipfcosta/SwiftyWalkthrough"
+  },
+  {
+    "githubUrl": "https://github.com/yukiasai/Gecco"
+  },
+  {
+    "githubUrl": "https://github.com/svhawks/VideoSplashKit"
+  },
+  {
+    "githubUrl": "https://github.com/hyperoslo/Presentation"
+  },
+  {
+    "githubUrl": "https://github.com/andreamazz/AMPopTip"
+  },
+  {
+    "githubUrl": "https://github.com/PhilippeBoisney/AlertOnboarding"
+  },
+  {
+    "githubUrl": "https://github.com/teodorpatras/EasyTipView"
+  },
+  {
+    "githubUrl": "https://github.com/Ramotion/paper-onboarding"
+  },
+  {
+    "githubUrl": "https://github.com/anatoliyv/InfoView"
+  },
+  {
+    "githubUrl": "https://github.com/nbolatov/Intro"
+  },
+  {
+    "githubUrl": "https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView"
+  },
+  {
+    "githubUrl": "https://github.com/juanpablofernandez/SwiftyOnboard"
+  },
+  {
+    "githubUrl": "https://github.com/praagyajoshi/WVWalkthroughView"
+  },
+  {
+    "githubUrl": "https://github.com/saeid/SwiftyOverlay"
+  },
+  {
+    "githubUrl": "https://github.com/chaser79/SwiftyOnboardVC"
+  },
+  {
+    "githubUrl": "https://github.com/yukiasai/Minamo"
+  },
+  {
+    "githubUrl": "https://github.com/aromajoin/material-showcase-ios"
+  },
+  {
+    "githubUrl": "https://github.com/SvenTiigi/WhatsNewKit"
+  },
+  {
+    "githubUrl": "https://github.com/NikolaKirev/OnboardKit"
+  },
+  {
+    "githubUrl": "https://github.com/exyte/ConcentricOnboarding"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/SocketRocket"
+  },
+  {
+    "githubUrl": "https://github.com/socketio/socket.io-client-swift"
+  },
+  {
+    "githubUrl": "https://github.com/tidwall/SwiftWebSocket"
+  },
+  {
+    "githubUrl": "https://github.com/daltoniam/Starscream"
+  },
+  {
+    "githubUrl": "https://github.com/swiftsocket/SwiftSocket"
+  },
+  {
+    "githubUrl": "https://github.com/vapor-community/sockets"
+  },
+  {
+    "githubUrl": "https://github.com/Balancingrock/SwifterSockets"
+  },
+  {
+    "githubUrl": "https://github.com/danielrhodes/Swift-ActionCableClient"
+  },
+  {
+    "githubUrl": "https://github.com/GlebRadchenko/DNWebSocket"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/crafter"
+  },
+  {
+    "githubUrl": "https://github.com/liftoffcli/liftoff"
+  },
+  {
+    "githubUrl": "https://github.com/crushlovely/Amaro"
+  },
+  {
+    "githubUrl": "https://github.com/orta/chairs"
+  },
+  {
+    "githubUrl": "https://github.com/JohnSundell/SwiftPlate"
+  },
+  {
+    "githubUrl": "https://github.com/tuist/xcodeproj"
+  },
+  {
+    "githubUrl": "https://github.com/tuist/tuist"
+  },
+  {
+    "githubUrl": "https://github.com/SvenTiigi/SwiftKit"
+  },
+  {
+    "githubUrl": "https://github.com/fulldecent/swift5-module-template"
+  },
+  {
+    "githubUrl": "https://github.com/Carthage/Carthage"
+  },
+  {
+    "githubUrl": "https://github.com/jankuca/swm"
+  },
+  {
+    "githubUrl": "https://github.com/devxoul/CocoaSeeds"
+  },
+  {
+    "githubUrl": "https://github.com/apple/swift-package-manager"
+  },
+  {
+    "githubUrl": "https://github.com/schwa/punic"
+  },
+  {
+    "githubUrl": "https://github.com/tmspzz/Rome"
+  },
+  {
+    "githubUrl": "https://github.com/yunarta/works-athena-gradle-plugin"
+  },
+  {
+    "githubUrl": "https://github.com/JamitLabs/Accio"
+  },
+  {
+    "githubUrl": "https://github.com/kaandedeoglu/Shark"
+  },
+  {
+    "githubUrl": "https://github.com/paulsamuels/SBConstants"
+  },
+  {
+    "githubUrl": "https://github.com/mac-cain13/R.swift"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftGen/SwiftGen"
+  },
+  {
+    "githubUrl": "https://github.com/jondot/blade"
+  },
+  {
+    "githubUrl": "https://github.com/terwanerik/Retini"
+  },
+  {
+    "githubUrl": "https://github.com/realm/jazzy"
+  },
+  {
+    "githubUrl": "https://github.com/tomaz/appledoc"
+  },
+  {
+    "githubUrl": "https://github.com/JiriTrecak/Laurine"
+  },
+  {
+    "githubUrl": "https://github.com/marcinolawski/StoryboardMerge"
+  },
+  {
+    "githubUrl": "https://github.com/metasmile/ai2appiconset"
+  },
+  {
+    "githubUrl": "https://github.com/daisuke0131/ViewMonitor"
+  },
+  {
+    "githubUrl": "https://github.com/ijoshsmith/abandoned-strings"
+  },
+  {
+    "githubUrl": "https://github.com/kylef/swiftenv"
+  },
+  {
+    "githubUrl": "https://github.com/tasanobu/Misen"
+  },
+  {
+    "githubUrl": "https://github.com/metasmile/git-xcp"
+  },
+  {
+    "githubUrl": "https://github.com/tapwork/WatchdogInspector"
+  },
+  {
+    "githubUrl": "https://github.com/dealforest/Cichlid"
+  },
+  {
+    "githubUrl": "https://github.com/thoughtbot/Delta"
+  },
+  {
+    "githubUrl": "https://github.com/ypresto/SwiftLintXcode"
+  },
+  {
+    "githubUrl": "https://github.com/dzenbot/XCSwiftr"
+  },
+  {
+    "githubUrl": "https://github.com/johncsnyder/SwiftKitten"
+  },
+  {
+    "githubUrl": "https://github.com/Karumi/Kin"
+  },
+  {
+    "githubUrl": "https://github.com/angelvasa/AVXCAssets-Generator"
+  },
+  {
+    "githubUrl": "https://github.com/shaps80/Peek"
+  },
+  {
+    "githubUrl": "https://github.com/jpsim/SourceKitten"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/xcbuild"
+  },
+  {
+    "githubUrl": "https://github.com/doubleencore/XcodeIssueGenerator"
+  },
+  {
+    "githubUrl": "https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter"
+  },
+  {
+    "githubUrl": "https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode"
+  },
+  {
+    "githubUrl": "https://github.com/SwiftStudies/Duration"
+  },
+  {
+    "githubUrl": "https://github.com/WorldDownTown/Benchmark"
+  },
+  {
+    "githubUrl": "https://github.com/MatiBot/MBAssetsImporter"
+  },
+  {
+    "githubUrl": "https://github.com/realm/realm-browser-osx"
+  },
+  {
+    "githubUrl": "https://github.com/square/SuperDelegate"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane-community/fastlane-plugin-appicon"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/infer"
+  },
+  {
+    "githubUrl": "https://github.com/marcboquet/PlayNow"
+  },
+  {
+    "githubUrl": "https://github.com/johnno1962/Xtrace"
+  },
+  {
+    "githubUrl": "https://github.com/xcenv/xcenv"
+  },
+  {
+    "githubUrl": "https://github.com/playgroundbooks/playgroundbook"
+  },
+  {
+    "githubUrl": "https://github.com/xmartlabs/Ecno"
+  },
+  {
+    "githubUrl": "https://github.com/toshi0383/ipanema"
+  },
+  {
+    "githubUrl": "https://github.com/plu/pxctest"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/idb"
+  },
+  {
+    "githubUrl": "https://github.com/RahulKatariya/SwiftFrameworkTemplate"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/Sourcery"
+  },
+  {
+    "githubUrl": "https://github.com/freshOS/AssetChecker"
+  },
+  {
+    "githubUrl": "https://github.com/insidegui/PlayAlways"
+  },
+  {
+    "githubUrl": "https://github.com/dani-gavrilov/GDPerformanceView-Swift"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/Traits"
+  },
+  {
+    "githubUrl": "https://github.com/yukiasai/Nori"
+  },
+  {
+    "githubUrl": "https://github.com/attaswift/Attabench"
+  },
+  {
+    "githubUrl": "https://github.com/wilbertliu/Gluten"
+  },
+  {
+    "githubUrl": "https://github.com/mono0926/LicensePlist"
+  },
+  {
+    "githubUrl": "https://github.com/yahoo/AppDevKit"
+  },
+  {
+    "githubUrl": "https://github.com/facebook/Tweaks"
+  },
+  {
+    "githubUrl": "https://github.com/onevcat/FengNiao"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/LifetimeTracker"
+  },
+  {
+    "githubUrl": "https://github.com/pinterest/plank"
+  },
+  {
+    "githubUrl": "https://github.com/airbnb/Lona"
+  },
+  {
+    "githubUrl": "https://github.com/yonaskolb/XcodeGen"
+  },
+  {
+    "githubUrl": "https://github.com/wigl/iSimulator"
+  },
+  {
+    "githubUrl": "https://github.com/krzyzanowskim/Natalie"
+  },
+  {
+    "githubUrl": "https://github.com/andresinaka/transformer"
+  },
+  {
+    "githubUrl": "https://github.com/ealeksandrov/ProvisionQL"
+  },
+  {
+    "githubUrl": "https://github.com/novemberfiveco/xib2Storyboard"
+  },
+  {
+    "githubUrl": "https://github.com/Zolang/Zolang"
+  },
+  {
+    "githubUrl": "https://github.com/gabrielrobert/xavtool"
+  },
+  {
+    "githubUrl": "https://github.com/bow-swift/nef"
+  },
+  {
+    "githubUrl": "https://github.com/woshiccm/Pecker"
+  },
+  {
+    "githubUrl": "https://github.com/robertherdzik/SkrybaMD"
+  },
+  {
+    "githubUrl": "https://github.com/RobotsAndPencils/XcodesApp"
+  },
+  {
+    "githubUrl": "https://github.com/swiftyfinch/Rugby"
+  },
+  {
+    "githubUrl": "https://github.com/krzysztofzablocki/Playgrounds"
+  },
+  {
+    "githubUrl": "https://github.com/mutualmobile/MMBarricade"
+  },
+  {
+    "githubUrl": "https://github.com/dimpiax/swiftmon"
+  },
+  {
+    "githubUrl": "https://github.com/Q-Mobile/Model2App"
+  },
+  {
+    "githubUrl": "https://github.com/DyCI/dyci-main"
+  },
+  {
+    "githubUrl": "https://github.com/johnno1962/injectionforxcode"
+  },
+  {
+    "githubUrl": "https://github.com/zenangst/Vaccine"
+  },
+  {
+    "githubUrl": "https://github.com/Swinject/Swinject"
+  },
+  {
+    "githubUrl": "https://github.com/appfoundry/Reliant"
+  },
+  {
+    "githubUrl": "https://github.com/sabirvirtuoso/Kraken"
+  },
+  {
+    "githubUrl": "https://github.com/square/Cleanse"
+  },
+  {
+    "githubUrl": "https://github.com/appsquickly/Typhoon"
+  },
+  {
+    "githubUrl": "https://github.com/appsquickly/pilgrim"
+  },
+  {
+    "githubUrl": "https://github.com/thoughtbot/Perform"
+  },
+  {
+    "githubUrl": "https://github.com/drekka/Alchemic"
+  },
+  {
+    "githubUrl": "https://github.com/prosumma/Guise"
+  },
+  {
+    "githubUrl": "https://github.com/scribd/Weaver"
+  },
+  {
+    "githubUrl": "https://github.com/hiro-nagami/StoryboardBuilder"
+  },
+  {
+    "githubUrl": "https://github.com/ladeiko/ViperServices"
+  },
+  {
+    "githubUrl": "https://github.com/ivlevAstef/DITranquillity"
+  },
+  {
+    "githubUrl": "https://github.com/uber/needle"
+  },
+  {
+    "githubUrl": "https://github.com/vincent-pradeilles/locatable"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane/fastlane"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane/fastlane/tree/master/deliver"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane/fastlane/tree/master/snapshot"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane/watchbuild"
+  },
+  {
+    "githubUrl": "https://github.com/fastlane/boarding"
+  },
+  {
+    "githubUrl": "https://github.com/bitstadium/HockeyKit"
+  },
+  {
+    "githubUrl": "https://github.com/LaunchKit/LaunchKit"
+  },
+  {
+    "githubUrl": "https://github.com/electricbolt/appfiguratesdk"
+  },
+  {
+    "githubUrl": "https://github.com/IdeasOnCanvas/ScreenshotFramer"
+  },
+  {
+    "githubUrl": "https://github.com/simonnilsson/ios-uploader"
+  },
+  {
+    "githubUrl": "https://github.com/oisin/app-release-checklist/blob/master/checklist.md"
+  },
+  {
+    "githubUrl": "https://github.com/ArtSabintsev/Harpy"
+  },
+  {
+    "githubUrl": "https://github.com/arashpayan/appirater"
+  },
+  {
+    "githubUrl": "https://github.com/ArtSabintsev/Siren"
+  },
+  {
+    "githubUrl": "https://github.com/aashishtamsya/Appstore-Review-Guidelines"
+  },
+  {
+    "githubUrl": "https://github.com/amebalabs/AppVersion"
+  },
+  {
+    "githubUrl": "https://github.com/BalestraPatrick/CleanClosureXcode"
+  },
+  {
+    "githubUrl": "https://github.com/cyanzhong/xTextHandler"
+  },
+  {
+    "githubUrl": "https://github.com/Bouke/SwiftInitializerGenerator"
+  },
+  {
+    "githubUrl": "https://github.com/sergdort/XcodeEquatableGenerator"
+  },
+  {
+    "githubUrl": "https://github.com/markohlebar/Import"
+  },
+  {
+    "githubUrl": "https://github.com/velyan/Mark"
+  },
+  {
+    "githubUrl": "https://github.com/Otbivnoe/XShared"
+  },
+  {
+    "githubUrl": "https://github.com/Bunn/Xgist"
+  },
+  {
+    "githubUrl": "https://github.com/serhii-londar/DocumenterXcode"
+  },
+  {
+    "githubUrl": "https://github.com/Karetski/Snowonder"
+  },
+  {
+    "githubUrl": "https://github.com/XVimProject/XVim2"
+  },
+  {
+    "githubUrl": "https://github.com/velyan/Comment-Spell-Checker"
+  },
+  {
+    "githubUrl": "https://github.com/bow-swift/nef-plugin"
+  },
+  {
+    "githubUrl": "https://github.com/hdoria/xcode-themes"
+  },
+  {
+    "githubUrl": "https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/"
+  },
+  {
+    "githubUrl": "https://github.com/cargath/WWDC2016-Xcode-Color-Scheme"
+  },
+  {
+    "githubUrl": "https://github.com/durul/Xcodetheme"
+  },
+  {
+    "githubUrl": "https://github.com/aashishtamsya/awesome-xcode-scripts"
+  },
+  {
+    "githubUrl": "https://github.com/venmo/synx"
+  },
+  {
+    "githubUrl": "https://github.com/Tintenklecks/IBDelegateCodesippets"
+  },
+  {
+    "githubUrl": "https://github.com/DeskConnect/SBShortcutMenuSimulator"
+  },
+  {
+    "githubUrl": "https://github.com/aashishtamsya/awesome-gitignore-templates"
+  },
+  {
+    "githubUrl": "https://github.com/artemnovichkov/swift-project-template"
+  },
+  {
+    "githubUrl": "https://github.com/Juanpe/Swift-VIPER-Module"
+  },
+  {
+    "githubUrl": "https://github.com/abdullahselek/ViperC"
+  },
+  {
+    "githubUrl": "https://github.com/ismetanin/XcodeCodeSnippets"
+  },
+  {
+    "githubUrl": "https://github.com/Camji55/xtm"
+  },
+  {
+    "githubUrl": "https://github.com/EvsenevDev/VIPERModuleTemplate"
+  },
+  {
+    "githubUrl": "https://github.com/haikieu/xcode-developer-disk-image-all-platforms"
+  },
+  {
+    "githubUrl": "https://github.com/iwasrobbed/Swift-CheatSheet"
+  },
+  {
+    "githubUrl": "https://github.com/iwasrobbed/Objective-C-CheatSheet"
+  },
+  {
+    "githubUrl": "https://github.com/onmyway133/SwiftSnippets"
+  },
+  {
+    "githubUrl": "https://github.com/whitef0x0/app-store-checklist"
+  },
+  {
+    "githubUrl": "https://github.com/ole/whats-new-in-swift-4"
+  },
+  {
+    "githubUrl": "https://github.com/NYTimes/objective-c-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/raywenderlich/objective-c-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/github/objective-c-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/raywenderlich/swift-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/spotify/ios-style"
+  },
+  {
+    "githubUrl": "https://github.com/github/swift-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/futurice/ios-good-practices"
+  },
+  {
+    "githubUrl": "https://github.com/futurice"
+  },
+  {
+    "githubUrl": "https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md"
+  },
+  {
+    "githubUrl": "https://github.com/prolificinteractive/swift-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/linkedin/swift-style-guide"
+  },
+  {
+    "githubUrl": "https://github.com/ScottLogic/iOS8-day-by-day"
+  },
+  {
+    "githubUrl": "https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions"
+  },
+  {
+    "githubUrl": "https://github.com/ScottLogic/iOS9-day-by-day"
+  },
+  {
+    "githubUrl": "https://github.com/rgnlax/Feeds-for-iOS-Developer"
+  },
+  {
+    "githubUrl": "https://github.com/swifteducation"
+  },
+  {
+    "githubUrl": "https://github.com/hsavit1/Awesome-Swift-Education"
+  },
+  {
+    "githubUrl": "https://github.com/uraimo/Awesome-Swift-Playgrounds"
+  },
+  {
+    "githubUrl": "https://github.com/nettlep/learn-swift"
+  },
+  {
+    "githubUrl": "https://github.com/jakarmy/swift-summary"
+  },
+  {
+    "githubUrl": "https://github.com/zagahr/Conferences.digital"
+  },
+  {
+    "githubUrl": "https://github.com/bayandin/awesome-awesomeness"
+  },
+  {
+    "githubUrl": "https://github.com/dkhamsing/open-source-ios-apps"
+  },
+  {
+    "githubUrl": "https://github.com/matteocrippa/awesome-swift"
+  },
+  {
+    "githubUrl": "https://github.com/Wolg/awesome-swift"
+  },
+  {
+    "githubUrl": "https://github.com/hsavit1/Awesome-Swift-Education"
+  },
+  {
+    "githubUrl": "https://github.com/sanketfirodiya/sample-watchkit-apps"
+  },
+  {
+    "githubUrl": "https://github.com/sanketfirodiya/iOS-learning-resources"
+  },
+  {
+    "githubUrl": "https://github.com/ameizi/awesome-ios-animation"
+  },
+  {
+    "githubUrl": "https://github.com/jzau/awesome-ios-animation"
+  },
+  {
+    "githubUrl": "https://github.com/ameizi/awesome-ios-chart"
+  },
+  {
+    "githubUrl": "https://github.com/vsouza/awesome-gists#ios"
+  },
+  {
+    "githubUrl": "https://github.com/cjwirth/awesome-ios-ui"
+  },
+  {
+    "githubUrl": "https://github.com/Awesome-Server-Side-Swift/TheList"
+  },
+  {
+    "githubUrl": "https://github.com/MaximAbramchuck/awesome-interview-questions#ios"
+  },
+  {
+    "githubUrl": "https://github.com/bakkenbaeck/iOS-handbook"
+  },
+  {
+    "githubUrl": "https://github.com/jVirus/iOS-Learning-Materials"
+  },
+  {
+    "githubUrl": "https://github.com/carolanitz/Awesome-iOS-Twitter"
+  },
+  {
+    "githubUrl": "https://github.com/LisaDziuba/Marketing-for-Engineers"
+  },
+  {
+    "githubUrl": "https://github.com/olucurious/Awesome-ARKit"
+  },
+  {
+    "githubUrl": "https://github.com/Lascorbe/CocoaConferences"
+  },
+  {
+    "githubUrl": "https://github.com/jogendra/example-ios-apps"
+  },
+  {
+    "githubUrl": "https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift"
+  },
+  {
+    "githubUrl": "https://github.com/serhii-londar/open-source-mac-os-apps"
+  },
+  {
+    "githubUrl": "https://github.com/dashvlas/awesome-ios-interview"
+  },
+  {
+    "githubUrl": "https://github.com/app-developers/top"
+  },
+  {
+    "githubUrl": "https://github.com/jphong1111/awesome-ios-developer"
   }
 ]
