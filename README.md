@@ -1,7 +1,7 @@
 <h1 align="center">Cocoa Directory</h1>
 <div align="center">
-  <a href="https://cocoa.directory/">
-    https://cocoa.directory
+  <a href="https://cocoa-directory.vercel.app/">
+    cocoa-directory.vercel.app
   </a>
 </div>
 <p align="center">Cocoa Directory is a website where you can see all the libraries that about iOS/macOS/Objective-C/Swift.</p>
